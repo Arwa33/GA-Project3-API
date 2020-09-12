@@ -1,0 +1,1250 @@
+,album,track_number,id,name,uri,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,valence,popularity
+0,أحرجتنى,1,48a1eiJrtnJvUbLkZZpCBZ,أحرجتنى,spotify:track:48a1eiJrtnJvUbLkZZpCBZ,0.697,0.549,0.305,0,0.108,-14.882,0.0341,144.076,0.629,20
+1,أحرجتنى,2,7xEoUPYht1B9WRaCt622N8,فى خاطرى شىء,spotify:track:7xEoUPYht1B9WRaCt622N8,0.608,0.438,0.29,0.000852,0.135,-16.633,0.0428,158.635,0.478,10
+2,أحرجتنى,3,1fOoW6LJsXDwNkTlvwTlkq,خطوة عزيزة,spotify:track:1fOoW6LJsXDwNkTlvwTlkq,0.674,0.539,0.247,0,0.338,-16.479,0.0339,145.865,0.668,9
+3,أحرجتنى,4,2wdH8EWrDsntvBYmno1xVm,يا ساهر الليل,spotify:track:2wdH8EWrDsntvBYmno1xVm,0.83,0.274,0.183,0.000462,0.116,-18.411,0.0468,181.397,0.362,11
+4,أحرجتنى,5,5sGCytl6ilk066Mx7BEE7f,موسيقى طلال,spotify:track:5sGCytl6ilk066Mx7BEE7f,0.698,0.411,0.242,0.93,0.141,-20.123,0.0349,158.73,0.606,9
+5,جتنى تقول,1,08UvY8ASoyE75SktznXx3d,جتنى تقول,spotify:track:08UvY8ASoyE75SktznXx3d,0.603,0.502,0.339,0,0.175,-12.487,0.0402,151.244,0.611,15
+6,جتنى تقول,2,5nJy2h0AOPB7oqF5eFjtoz,فينا واحد,spotify:track:5nJy2h0AOPB7oqF5eFjtoz,0.592,0.367,0.399,0,0.112,-12.765,0.0451,87.764,0.636,9
+7,جتنى تقول,3,4rHxJshDkRp9diCjROyBzA,خلنى أمر,spotify:track:4rHxJshDkRp9diCjROyBzA,0.689,0.558,0.392,0,0.64,-12.364,0.0321,142.067,0.589,8
+8,جتنى تقول,4,0qOu9BLf3BDClvA5WYb1Kk,ليه يا دنيا,spotify:track:0qOu9BLf3BDClvA5WYb1Kk,0.685,0.503,0.443,2.38e-06,0.145,-12.365,0.0356,148.291,0.507,7
+9,رفعت الصوت,1,4bwOL2HB2S8IsmFuBc7ZcJ,رفعت الصوت,spotify:track:4bwOL2HB2S8IsmFuBc7ZcJ,0.532,0.597,0.445,0,0.312,-10.865,0.0355,154.918,0.935,8
+10,رفعت الصوت,2,5MKUtAgeTEWxhPwjOeOBZq,إلولع غنى,spotify:track:5MKUtAgeTEWxhPwjOeOBZq,0.527,0.497,0.464,0,0.294,-10.349,0.0342,151.101,0.848,7
+11,رفعت الصوت,3,3z0yC6ljoR5lmWH83rJ7sV,لا تقول إن الليالى,spotify:track:3z0yC6ljoR5lmWH83rJ7sV,0.586,0.498,0.36,0,0.303,-10.741,0.0291,159.943,0.671,7
+12,رفعت الصوت,4,0hQVB7iAPC63eYsz0wb8v8,هلت دموع السما,spotify:track:0hQVB7iAPC63eYsz0wb8v8,0.191,0.404,0.464,0.000732,0.187,-11.477,0.0368,174.475,0.694,5
+13,رفعت الصوت,5,35W4j8XFnzNUIUHQkLIINm,ياعل قلبا,spotify:track:35W4j8XFnzNUIUHQkLIINm,0.688,0.534,0.391,0,0.672,-10.738,0.0322,143.172,0.619,7
+14,رفعت الصوت,6,1B0EHpGAfH4gjrT2ylMGR4,يا قديم الغوص,spotify:track:1B0EHpGAfH4gjrT2ylMGR4,0.629,0.546,0.481,0,0.191,-10.316,0.0379,158.481,0.82,5
+15,سيدى قم,1,2pymJTGHHvJQKfAs5dekra,سيدى قم,spotify:track:2pymJTGHHvJQKfAs5dekra,0.611,0.389,0.404,0.00054,0.322,-11.791,0.0348,155.461,0.612,10
+16,سيدى قم,2,3YuCWSFaB5atpW0ZFNSXdm,مدام معايا القمر,spotify:track:3YuCWSFaB5atpW0ZFNSXdm,0.759,0.479,0.49,0.000142,0.392,-12.863,0.0376,96.192,0.749,8
+17,سيدى قم,3,2EzlH7fk8nuJX8nOvCMBDj,لو ما أحبك,spotify:track:2EzlH7fk8nuJX8nOvCMBDj,0.668,0.458,0.431,0.000286,0.271,-11.45,0.0303,138.793,0.557,10
+18,سيدى قم,4,3IWJevGxKPok73Z2dMgW2w,ألا ياخلى ساعدنى,spotify:track:3IWJevGxKPok73Z2dMgW2w,0.723,0.435,0.292,0,0.158,-13.146,0.0369,148.888,0.337,6
+19,سيدى قم,5,0gFOa34EnMd3zoGu5SQln7,يا خطر,spotify:track:0gFOa34EnMd3zoGu5SQln7,0.731,0.589,0.285,1.22e-06,0.201,-14.219,0.0268,94.418,0.684,4
+20,سيدى قم,6,3zaKzLT84Uo4RrfwWhkAlR,خليجية,spotify:track:3zaKzLT84Uo4RrfwWhkAlR,0.802,0.369,0.27,0,0.489,-14.253,0.108,163.624,0.512,4
+21,صابرين,1,57oqz51OF0jVDdIF7AHp50,صابرين,spotify:track:57oqz51OF0jVDdIF7AHp50,0.799,0.321,0.278,0.000318,0.185,-11.78,0.036,95.669,0.316,8
+22,صابرين,2,6H5zNAdPtlvXaqXjfO4fvC,تصدق,spotify:track:6H5zNAdPtlvXaqXjfO4fvC,0.383,0.403,0.274,2.35e-05,0.786,-13.703,0.0356,80.852,0.519,25
+23,صابرين,3,2KBBIlwZrb7geFr0aBZ4mg,إنى مستهام,spotify:track:2KBBIlwZrb7geFr0aBZ4mg,0.642,0.593,0.53,0.000233,0.274,-10.069,0.0367,107.528,0.842,7
+24,صابرين,4,390h6aICnETYltl3Z8az9G,ما درى وش بلانى,spotify:track:390h6aICnETYltl3Z8az9G,0.412,0.339,0.492,2.2e-05,0.158,-12.056,0.0544,156.732,0.594,6
+25,صابرين,5,0GYqrPtAWwJ4NyCtn1ILE8,لا تشد القيد,spotify:track:0GYqrPtAWwJ4NyCtn1ILE8,0.899,0.278,0.226,0.0591,0.284,-12.952,0.0433,173.576,0.291,6
+26,صابرين,6,2PoCu06r1P1Tnh8pH9lEs7,يا ساريه,spotify:track:2PoCu06r1P1Tnh8pH9lEs7,0.387,0.396,0.322,1.27e-06,0.309,-13.493,0.0365,108.362,0.468,12
+27,مرت,1,6XTlffHCSFnd21DQKaIW8x,مرت,spotify:track:6XTlffHCSFnd21DQKaIW8x,0.78,0.326,0.327,0.0829,0.108,-14.958,0.0408,152.37,0.449,25
+28,مرت,2,7dvEjdFXlqpnyCw4xgkvqn,مر الزمان,spotify:track:7dvEjdFXlqpnyCw4xgkvqn,0.92,0.338,0.148,0.173,0.372,-18.844,0.0394,135.191,0.257,15
+29,مرت,3,3NbiLhdaZSnoZi6r32zp0n,وقفى,spotify:track:3NbiLhdaZSnoZi6r32zp0n,0.907,0.291,0.0931,7.61e-05,0.143,-19.459,0.0397,136.165,0.0999,7
+30,مرت,4,2TVrthw2Nf5NYiMIxAP17p,إشتكيتك للقمر,spotify:track:2TVrthw2Nf5NYiMIxAP17p,0.564,0.442,0.223,0.247,0.27,-16.534,0.0329,125.722,0.422,11
+31,مرت,5,4UQMLB3clK5QY7tWaDR1hM,إلشوفه معزوزه,spotify:track:4UQMLB3clK5QY7tWaDR1hM,0.751,0.455,0.235,0.000638,0.379,-17.269,0.0403,140.917,0.567,7
+32,مرت,6,5Mm7Ow0Spbkk6SIpjydKBD,خزيت القلم,spotify:track:5Mm7Ow0Spbkk6SIpjydKBD,0.843,0.327,0.224,0.000183,0.597,-17.288,0.0467,67.822,0.533,7
+33,وعدك متى,1,7ud1qpts57655W0t88zkxI,وعدك متى,spotify:track:7ud1qpts57655W0t88zkxI,0.741,0.313,0.33,0,0.227,-8.793,0.0314,142.135,0.294,15
+34,وعدك متى,2,1I6qa5gHOjZ4AGrdu1tBRc,أعترفلك,spotify:track:1I6qa5gHOjZ4AGrdu1tBRc,0.415,0.291,0.323,0.000261,0.103,-11.568,0.0343,149.232,0.431,9
+35,وعدك متى,3,1593lPxp12Kfig5BJXjG5c,خلصت القصه,spotify:track:1593lPxp12Kfig5BJXjG5c,0.661,0.307,0.295,0.00298,0.109,-13.649,0.0336,137.848,0.225,10
+36,وعدك متى,4,1rPhCZPH1GkxKgbAaMGzHj,علشانه,spotify:track:1rPhCZPH1GkxKgbAaMGzHj,0.346,0.46,0.398,4.39e-05,0.577,-12.112,0.0694,95.645,0.487,7
+37,أحلى ما غنى طلال المداح,1,2cGdF1amnhr16SZNcyHLMT,سويعات الأصيل,spotify:track:2cGdF1amnhr16SZNcyHLMT,0.805,0.533,0.225,0,0.213,-14.427,0.0445,148.032,0.767,12
+38,أحلى ما غنى طلال المداح,2,0wNoK9JvONxYUMszl9mfRJ,حبك سباني,spotify:track:0wNoK9JvONxYUMszl9mfRJ,0.814,0.5,0.307,0,0.307,-14.299,0.0415,80.713,0.856,9
+39,أحلى ما غنى طلال المداح,3,2UqdkS2UYQxPiT2JYGVUA2,إنتظارى طال,spotify:track:2UqdkS2UYQxPiT2JYGVUA2,0.855,0.461,0.238,0,0.318,-14.258,0.0657,73.683,0.615,16
+40,أحلى ما غنى طلال المداح,4,5mQAFrxT3g5dgceHsDKfyb,العرضة البدوية,spotify:track:5mQAFrxT3g5dgceHsDKfyb,0.655,0.327,0.238,1.16e-06,0.583,-13.926,0.0851,174.121,0.515,6
+41,أحلى ما غنى طلال المداح,5,4bepATbD1L2Rz2yXPvRFKN,الله يجازى,spotify:track:4bepATbD1L2Rz2yXPvRFKN,0.817,0.446,0.238,0,0.475,-16.07,0.0801,169.503,0.585,8
+42,أحلى ما غنى طلال المداح,6,39JOQy2uBJW7yV8KnQaTUU,هو بدر,spotify:track:39JOQy2uBJW7yV8KnQaTUU,0.772,0.547,0.15,0,0.24,-16.112,0.045,129.732,0.448,6
+43,أجمل أغانى طلال مداح,1,1W8NugOzXPx5VAHRSx6Gb6,سويعات الاصيل,spotify:track:1W8NugOzXPx5VAHRSx6Gb6,0.814,0.531,0.235,0,0.197,-14.164,0.0445,149.363,0.739,6
+44,أجمل أغانى طلال مداح,3,1Qicgb8TlDqH6g4MiwtUxb,ماذا يقول,spotify:track:1Qicgb8TlDqH6g4MiwtUxb,0.86,0.534,0.25,0,0.29,-13.936,0.0606,75.36,0.583,5
+45,أجمل أغانى طلال مداح,4,3OM0sGg5GAzm2WK2O9BVnC,حبك سبانى,spotify:track:3OM0sGg5GAzm2WK2O9BVnC,0.681,0.324,0.246,0,0.572,-13.641,0.0837,173.815,0.498,2
+46,أجمل أغانى طلال مداح,7,5XvsieJFIZ3IPmC1vbQUWK,انتظارى طال,spotify:track:5XvsieJFIZ3IPmC1vbQUWK,0.962,0.302,0.168,0.00382,0.0911,-15.482,0.034,88.822,0.341,3
+47,مقادير,1,45fl6wOxFuw4f1s1dMfO5U,مقادير,spotify:track:45fl6wOxFuw4f1s1dMfO5U,0.949,0.275,0.516,0.00139,0.344,-11.026,0.0578,156.207,0.399,17
+48,مقادير,2,1PI22rxuKnjbujyhBKFYLJ,هللى هللى,spotify:track:1PI22rxuKnjbujyhBKFYLJ,0.984,0.307,0.462,0.0912,0.344,-7.897,0.0374,153.198,0.494,3
+49,مقادير,3,4dwzTdgajAllIUDNQk5B9u,لا تقولى,spotify:track:4dwzTdgajAllIUDNQk5B9u,0.907,0.471,0.41,0.112,0.727,-12.184,0.0453,103.866,0.53,5
+50,أنادى,1,2B2TvhBQx1lFsw4davmx6k,أنادى تسجيل حفلة,spotify:track:2B2TvhBQx1lFsw4davmx6k,0.982,0.377,0.318,0.897,0.327,-18.541,0.038,132.306,0.711,1
+51,أنادى,2,5QIlOmbw4QwDqxs9ADBosj,وينها تسجيل حفلة,spotify:track:5QIlOmbw4QwDqxs9ADBosj,0.981,0.401,0.32,0.925,0.328,-18.254,0.0374,142.88,0.806,1
+52,أنادى,3,5BEqd13hfbANavbeM6RVjz,يا قمرنا تسجيل حفلة,spotify:track:5BEqd13hfbANavbeM6RVjz,0.827,0.396,0.356,0,0.239,-14.807,0.0392,125.096,0.615,1
+53,El Shok Wal Hob,1,1uFeWuhKYnvB3XDMWdtDV9,El Shok Wal Hob,spotify:track:1uFeWuhKYnvB3XDMWdtDV9,0.984,0.313,0.207,0.000969,0.115,-9.553,0.039,100.183,0.284,5
+54,El Shok Wal Hob,2,0ZHijl95vyCgZu5UiwZTsk,Hayir Ya Hammam,spotify:track:0ZHijl95vyCgZu5UiwZTsk,0.992,0.303,0.336,0.0527,0.18,-9.695,0.0345,137.512,0.438,2
+55,El Shok Wal Hob,3,5pvOCcGNcb2fbJfvy4pMeW,Ana Zekra,spotify:track:5pvOCcGNcb2fbJfvy4pMeW,0.986,0.272,0.26,0.777,0.301,-11.584,0.0334,105.938,0.274,1
+56,El Shok Wal Hob,4,1X5MAJmO7CqhW8hfI4GHjv,Eid Meladek,spotify:track:1X5MAJmO7CqhW8hfI4GHjv,0.995,0.391,0.2,0.913,0.166,-11.973,0.0409,98.139,0.575,4
+57,El Shok Wal Hob,5,11zxgJTYAN9OjwmgbpoYgS,Ala El Shok Meshx,spotify:track:11zxgJTYAN9OjwmgbpoYgS,0.88,0.357,0.223,0,0.229,-10.8,0.0374,127.82,0.321,1
+58,El Shok Wal Hob,6,07S9InMk3XxQVVjKdz80Kb,Saal Fiya,spotify:track:07S9InMk3XxQVVjKdz80Kb,0.937,0.3,0.481,0.45,0.272,-10.645,0.0369,123.911,0.363,2
+59,El Shok Wal Hob,7,5BouPknawMzfLytM6CfaXz,Ghenwet Hobb,spotify:track:5BouPknawMzfLytM6CfaXz,0.975,0.434,0.45,0.00112,0.153,-10.404,0.0477,124.014,0.555,1
+60,El Shok Wal Hob,8,0nQ3gIyUYgLSgTyxCLVNlH,Kesset Mawala,spotify:track:0nQ3gIyUYgLSgTyxCLVNlH,0.959,0.407,0.102,0.098,0.16,-13.194,0.0428,122.699,0.392,4
+61,El Shok Wal Hob,9,0J55pu5RuZ57Sm82q8dwNV,Regei Tissal,spotify:track:0J55pu5RuZ57Sm82q8dwNV,0.964,0.321,0.138,0.00624,0.173,-13.955,0.0375,91.683,0.311,1
+62,يا قمر,1,07d0VUBDoH42ElVp75SGGs,الغربة,spotify:track:07d0VUBDoH42ElVp75SGGs,0.651,0.495,0.544,0.000267,0.0316,-12.07,0.0365,110.716,0.604,0
+63,يا قمر,2,6IUxByAF3kGKPsrbxKHlzv,سفر,spotify:track:6IUxByAF3kGKPsrbxKHlzv,0.622,0.309,0.525,0.000658,0.182,-11.472,0.0482,84.321,0.541,1
+64,يا قمر,3,1mN9csbzSoF7Fpe6Z0k5PK,يا قمر,spotify:track:1mN9csbzSoF7Fpe6Z0k5PK,0.803,0.423,0.5,0.000118,0.0534,-9.172,0.0655,113.258,0.18,0
+65,مايصعبش عليك غالى,1,52cJ9p6zHX3c2Rg0H5BTGF,مايصعبش عليك غالى,spotify:track:52cJ9p6zHX3c2Rg0H5BTGF,0.754,0.409,0.288,0,0.317,-10.589,0.0403,99.28,0.322,2
+66,مايصعبش عليك غالى,2,10hYmr72kPZPu157vKPSUc,وسط الطريق,spotify:track:10hYmr72kPZPu157vKPSUc,0.754,0.39,0.469,0.00218,0.433,-10.583,0.0669,116.975,0.265,2
+67,مايصعبش عليك غالى,3,0HM4CY7olIYmhfL5nePeMl,وحياة اللى فات,spotify:track:0HM4CY7olIYmhfL5nePeMl,0.822,0.323,0.224,9.05e-05,0.0824,-11.301,0.035,98.361,0.202,2
+68,مايصعبش عليك غالى,4,2Uxb3yPgcjt71Drgbof9dm,أيوه باغير,spotify:track:2Uxb3yPgcjt71Drgbof9dm,0.664,0.425,0.2,0,0.0936,-12.379,0.0424,95.25,0.251,1
+69,يا مسافر وحدك,3,5kd57oOluRWf76rgGu5Ezu,ماكانش ع البال,spotify:track:5kd57oOluRWf76rgGu5Ezu,0.979,0.332,0.321,0.00174,0.101,-7.814,0.0542,76.374,0.217,5
+70,أنا بستناك,1,44vm3wyBHrCCFR0PKcNAzi,أنا بستناك,spotify:track:44vm3wyBHrCCFR0PKcNAzi,0.958,0.367,0.52,0.000922,0.789,-7.075,0.0467,107.599,0.308,10
+71,أنا بستناك,2,29RjPQuCgRZjN0zsDMr7ic,ع اليادى,spotify:track:29RjPQuCgRZjN0zsDMr7ic,0.705,0.397,0.526,0,0.239,-4.894,0.0382,127.934,0.351,15
+72,أنا بستناك,3,5kbTKgbWtGIt4HyjFDOLP8,الطير المسافر,spotify:track:5kbTKgbWtGIt4HyjFDOLP8,0.732,0.417,0.511,0,0.069,-6.152,0.0378,95.471,0.483,14
+73,أنا بستناك,5,1L5KZcJLVafxgLGspcwWvx,أما غريبة,spotify:track:1L5KZcJLVafxgLGspcwWvx,0.923,0.454,0.358,0,0.271,-6.752,0.0364,128.797,0.462,8
+74,يا قمر,2,0f3XSwIgRTdZpoxqGtDHtu,السفر,spotify:track:0f3XSwIgRTdZpoxqGtDHtu,0.839,0.251,0.364,0.21,0.358,-10.701,0.0345,87.239,0.473,1
+75,موكب حب,1,3HE0TXxQpvRPgMdsSwNuFS,موكب حب,spotify:track:3HE0TXxQpvRPgMdsSwNuFS,0.952,0.35,0.306,0.00331,0.788,-14.934,0.0646,106.407,0.386,0
+76,سكه العاشقين,1,7bLNDu1qPXLDOXIZX4SykH,نسى حفله,spotify:track:7bLNDu1qPXLDOXIZX4SykH,0.939,0.256,0.299,0.000102,0.851,-12.91,0.0424,87.56,0.257,0
+77,سكه العاشقين,2,6Xc3Md2y53n3VjuEN6zAcO,سكة العاشقين حفله,spotify:track:6Xc3Md2y53n3VjuEN6zAcO,0.903,0.286,0.215,0.0106,0.975,-16.055,0.0442,90.964,0.199,1
+78,سكه العاشقين,3,1mqkzzxfstiCKrhfv2vfBf,ماقدرش أنساك حفله,spotify:track:1mqkzzxfstiCKrhfv2vfBf,0.854,0.414,0.0655,4.72e-06,0.128,-19.51,0.049,121.795,0.36,1
+79,سكه العاشقين,4,3pAtNMMkR4EPZtcnTUn19W,سأل في حفله,spotify:track:3pAtNMMkR4EPZtcnTUn19W,0.937,0.417,0.379,0.000188,0.843,-13.543,0.0456,122.321,0.447,0
+80,سكه العاشقين,5,6iE7OOVjgdPNRKEChapSQg,حمد الله على السلامه,spotify:track:6iE7OOVjgdPNRKEChapSQg,0.71,0.356,0.253,0.000211,0.0701,-14.368,0.0403,136.735,0.577,4
+81,سكه العاشقين,6,6bvw8gja1A5issi2ZbeapF,غنوة حب يا وطنى,spotify:track:6bvw8gja1A5issi2ZbeapF,0.964,0.439,0.338,0.000367,0.3,-13.698,0.0937,122.289,0.491,0
+82,سأل فى,1,1EIet72Gis2nEV2Jx4uXQu,سأل فى,spotify:track:1EIet72Gis2nEV2Jx4uXQu,0.93,0.38,0.372,0.000228,0.843,-13.229,0.0498,122.384,0.447,0
+83,سأل فى,2,5N7EkRuuX7slpuaGAD8Klx,حمد الله على السلامة,spotify:track:5N7EkRuuX7slpuaGAD8Klx,0.709,0.355,0.265,0.000236,0.0907,-14.013,0.0401,137.045,0.589,0
+84,سأل فى,3,63wXhuCTWOk6UeSFaN41lQ,غنوه حب,spotify:track:63wXhuCTWOk6UeSFaN41lQ,0.959,0.437,0.343,0.000269,0.273,-13.417,0.099,122.529,0.494,0
+85,سأل فى,4,6jSJCGRfVCuTyVCVt65nWC,ما استغناش عنك بالدنيا,spotify:track:6jSJCGRfVCuTyVCVt65nWC,0.619,0.368,0.344,3.79e-05,0.868,-15.495,0.099,112.014,0.281,0
+86,سهرة مع نجاة فى سينما قصر النيل بالقاهره,1,3eG0jZyxn3JkL6TOIutNb1,نسى,spotify:track:3eG0jZyxn3JkL6TOIutNb1,0.939,0.235,0.307,6.63e-05,0.821,-12.643,0.0453,85.41,0.254,0
+87,سهرة مع نجاة فى سينما قصر النيل بالقاهره,2,5xvTab4F3IB12qNKqEaZ5F,سكه العاشقين,spotify:track:5xvTab4F3IB12qNKqEaZ5F,0.9,0.328,0.217,0.0115,0.974,-15.77,0.0414,103.267,0.188,0
+88,إلا فراق الأحباب,1,4lwfs5exVIYTR6K6JrVQAo,إلا فراق الأحباب,spotify:track:4lwfs5exVIYTR6K6JrVQAo,0.677,0.718,0.462,0,0.0659,-12.422,0.0676,98.429,0.731,2
+89,إلا فراق الأحباب,2,2XMiF8UkGgkeLXXpPJcjJx,قصص الحب الجميله,spotify:track:2XMiF8UkGgkeLXXpPJcjJx,0.724,0.415,0.317,4.16e-05,0.201,-14.964,0.0635,110.746,0.564,0
+90,إلا فراق الأحباب,3,17eayBnVAZXmhAWrdBwQOP,إنت إنت,spotify:track:17eayBnVAZXmhAWrdBwQOP,0.577,0.683,0.486,0,0.0861,-11.86,0.0524,134.968,0.728,1
+91,إلا فراق الأحباب,4,6xGqytlsFXIMMtH6Com9Gw,كل فين وفين,spotify:track:6xGqytlsFXIMMtH6Com9Gw,0.612,0.704,0.563,0,0.283,-10.908,0.0482,137.926,0.83,0
+92,أنا بستناك,1,1HWPiuJoEZcCyiwl0D3dLd,أنا بستناك تسجيل حفلة,spotify:track:1HWPiuJoEZcCyiwl0D3dLd,0.873,0.369,0.463,6.74e-06,0.723,-9.124,0.044,108.787,0.35,10
+93,أنا بستناك,2,75RjUJANCPsBLo8gKDPetv,آه لو تعرف,spotify:track:75RjUJANCPsBLo8gKDPetv,0.839,0.453,0.358,9.24e-05,0.125,-10.755,0.0356,117.159,0.559,20
+94,أنا بستناك,4,2Jhq70o1J0o8zxgWbJh5Bq,حبك حياتى,spotify:track:2Jhq70o1J0o8zxgWbJh5Bq,0.666,0.424,0.382,0.000194,0.0788,-7.514,0.0322,112.83,0.377,9
+95,حلاوة الحب,1,0nckQDZeSlIyz7jfZhVRpP,حلاوة الحب تسجيل حفلة,spotify:track:0nckQDZeSlIyz7jfZhVRpP,0.927,0.328,0.31,0.00309,0.749,-13.277,0.1,79.967,0.355,0
+96,حلاوة الحب,2,4naEw4dztUrtF0JZxnSjFm,سارقين النوم,spotify:track:4naEw4dztUrtF0JZxnSjFm,0.917,0.356,0.317,4.44e-05,0.972,-11.966,0.0465,102.708,0.336,0
+97,شكل تانى,1,6jkpFE7qEg1RZvNwDob5JL,شكل تانى,spotify:track:6jkpFE7qEg1RZvNwDob5JL,0.952,0.398,0.284,0.00219,0.753,-12.866,0.0487,115.043,0.226,5
+98,شكل تانى,2,4YZj82WqgHG1YccgcLHMWi,القريب منك,spotify:track:4YZj82WqgHG1YccgcLHMWi,0.77,0.439,0.34,0,0.124,-8.895,0.0316,108.805,0.338,11
+99,شكل تانى,3,4pQEQjkROErmlpJ6PQz4bP,عال اليادى,spotify:track:4pQEQjkROErmlpJ6PQz4bP,0.606,0.396,0.48,0,0.133,-7.368,0.0354,129.706,0.572,6
+100,عيون القلب,1,6UkneNSMIdiwUEaSVfcYVd,عيون القلب تسجيل حفلة,spotify:track:6UkneNSMIdiwUEaSVfcYVd,0.864,0.354,0.329,0.000121,0.947,-11.013,0.0577,133.821,0.183,25
+101,عيون القلب,2,2nCZs15rSShxeRBzBp6eLO,بحلم معاك,spotify:track:2nCZs15rSShxeRBzBp6eLO,0.293,0.496,0.441,0.00419,0.112,-11.199,0.0302,105.888,0.515,32
+102,عيون القلب,3,356tzIGWB9Q8MFP4yk0d32,فاكرة,spotify:track:356tzIGWB9Q8MFP4yk0d32,0.839,0.385,0.279,0.00151,0.134,-10.691,0.0371,126.649,0.33,15
+103,عيون القلب,4,55HS624LYOCR3QwOUxWbMJ,أنا بعشق البحر,spotify:track:55HS624LYOCR3QwOUxWbMJ,0.086,0.47,0.38,0.0029,0.24,-11.53,0.0605,170.706,0.614,32
+104,محلاها عيشة الفلاح,1,7bUhch3PCenL8PJxVEPYp5,محلاها عيشة الفلاح,spotify:track:7bUhch3PCenL8PJxVEPYp5,0.589,0.339,0.516,0.000455,0.179,-11.034,0.0404,160.996,0.695,4
+105,محلاها عيشة الفلاح,2,5I83yeBCCu0SmgzK0MB6SV,يا مسافر وحدك,spotify:track:5I83yeBCCu0SmgzK0MB6SV,0.836,0.333,0.244,0.00175,0.114,-11.888,0.0523,78.002,0.295,18
+106,محلاها عيشة الفلاح,3,6TKQbpRlsHe4nRzj5j3dHv,ما كانش ع البال,spotify:track:6TKQbpRlsHe4nRzj5j3dHv,0.919,0.451,0.208,0,0.091,-11.134,0.04,103.323,0.25,4
+107,نجاة,1,1LBr7bdUrBXC3vEMKW0yKN,لا تكذبى تسجيل حفلة,spotify:track:1LBr7bdUrBXC3vEMKW0yKN,0.789,0.368,0.319,0,0.667,-9.457,0.0519,91.06,0.264,7
+108,نجاة,2,0KniA511ar8n0r9dcN9o5c,مرسال الهوا تسجيل حفلة,spotify:track:0KniA511ar8n0r9dcN9o5c,0.902,0.352,0.547,0.00201,0.96,-7.389,0.0516,114.145,0.459,1
+109,نجاة,1,5zbhgOrUnwTYGjvDXaLlOg,أسهر و إنشغل,spotify:track:5zbhgOrUnwTYGjvDXaLlOg,0.949,0.36,0.248,3.1e-06,0.0964,-9.544,0.0346,107.8,0.409,4
+110,نجاة,2,5Rp1tYp5h3Y1cfQqp3w5yv,كلمنى عن بكره,spotify:track:5Rp1tYp5h3Y1cfQqp3w5yv,0.885,0.362,0.219,0,0.137,-8.805,0.0346,138.11,0.35,5
+111,نجاة,3,0ZRPOq8rwGuZRQXoHYiOzd,سماره سماره,spotify:track:0ZRPOq8rwGuZRQXoHYiOzd,0.905,0.372,0.365,0,0.352,-7.656,0.0308,107.854,0.428,4
+112,نجاة,4,1E8CKufq7EFqAuDoChfV12,العوازل ياما قالوا,spotify:track:1E8CKufq7EFqAuDoChfV12,0.892,0.41,0.22,0.000163,0.138,-9.396,0.0391,146.848,0.314,6
+113,نجاة,5,58UzXwYzPFgHVqui7AoUwH,بان على حبه,spotify:track:58UzXwYzPFgHVqui7AoUwH,0.845,0.389,0.221,0,0.198,-10.227,0.0372,142.162,0.433,6
+114,نجاة,6,7aw4CDDrI7sTSn6CSHYWJE,قلبك راح فين,spotify:track:7aw4CDDrI7sTSn6CSHYWJE,0.932,0.354,0.221,0,0.137,-9.873,0.0422,69.277,0.339,5
+115,نجاة,1,5jtIj6YCLfkhALNxViPZeR,طول عمرى أحبك,spotify:track:5jtIj6YCLfkhALNxViPZeR,0.929,0.384,0.258,2.18e-05,0.323,-10.447,0.0347,126.287,0.473,6
+116,نجاة,2,3FMLd0xrILFklTmWpY6TsY,غريبة منسية,spotify:track:3FMLd0xrILFklTmWpY6TsY,0.881,0.365,0.18,0,0.232,-10.391,0.0355,122.929,0.222,5
+117,نجاة,3,2cRArsIYgA4eLp55gpnKyj,بكانى لما خلصت دموعى,spotify:track:2cRArsIYgA4eLp55gpnKyj,0.849,0.366,0.329,0,0.247,-7.531,0.0332,135.148,0.475,1
+118,نجاة,5,3ZNakvRe7i06kxqpxeHCCS,سامحنى تبت خلاص,spotify:track:3ZNakvRe7i06kxqpxeHCCS,0.964,0.32,0.151,7.27e-05,0.105,-12.337,0.0385,107.379,0.215,5
+119,نجاة,6,4FHMygzTIJqQokcD85Jke4,حقك على وسامح,spotify:track:4FHMygzTIJqQokcD85Jke4,0.877,0.459,0.232,0,0.104,-10.876,0.0396,124.371,0.277,0
+120,El Hob Shatter- Rare Recording,1,3g1IydVwEomaja4xVsA7l8,El Hob Shatter,spotify:track:3g1IydVwEomaja4xVsA7l8,0.315,0.468,0.565,2.95e-06,0.0537,-6.535,0.0352,118.202,0.465,13
+121,El Hob Shatter- Rare Recording,2,1dLGgrenbNne6Pi7LcLndP,Sayad Al Touyour,spotify:track:1dLGgrenbNne6Pi7LcLndP,0.737,0.407,0.54,0,0.0694,-7.681,0.0609,132.271,0.345,11
+122,El Hob Shatter- Rare Recording,3,2rTAYjviTCfXnYVdzDCxoM,Batwanness Beek,spotify:track:2rTAYjviTCfXnYVdzDCxoM,0.314,0.307,0.861,0.00628,0.0679,-3.473,0.216,173.273,0.573,21
+123,Allah Karim,1,44dRvVXSRPPa0WHPG90jgK,El Sabri Tayib,spotify:track:44dRvVXSRPPa0WHPG90jgK,0.144,0.625,0.9,9.74e-06,0.313,-7.332,0.0768,145.031,0.723,20
+124,Allah Karim,2,5Kj3uRMKxpb4PQbuphbHpx,Allah Karim,spotify:track:5Kj3uRMKxpb4PQbuphbHpx,0.419,0.682,0.805,0,0.212,-7.822,0.118,96.985,0.725,23
+125,Allah Karim,3,6DePOOYN7RwgAswgk5eW3N,El Ayam Di So'eba Shwaya,spotify:track:6DePOOYN7RwgAswgk5eW3N,0.479,0.64,0.701,3.94e-06,0.0875,-6.259,0.0451,84.962,0.535,14
+126,Allah Karim,4,1XiGXlwmLQPb6Q6mKMzkso,Shou Kran,spotify:track:1XiGXlwmLQPb6Q6mKMzkso,0.19,0.629,0.838,2.33e-06,0.117,-6.7,0.0629,92.039,0.746,21
+127,Allah Karim,5,4ybN9TDCr59Z5yjy36B2Yn,Min Hena W Rayeh,spotify:track:4ybN9TDCr59Z5yjy36B2Yn,0.287,0.42,0.583,2.19e-06,0.138,-8.746,0.047,159.715,0.296,13
+128,Allah Karim,6,3lrn4dTtqFIWFKmdUgRcq2,El Dahab Ya Habibi,spotify:track:3lrn4dTtqFIWFKmdUgRcq2,0.505,0.606,0.744,0,0.273,-7.283,0.114,174.058,0.738,14
+129,Allah Karim,7,2d7CrMpeHV4sYUxjshwydv,La Trouh,spotify:track:2d7CrMpeHV4sYUxjshwydv,0.478,0.553,0.648,0,0.19,-6.781,0.0758,135.053,0.646,19
+130,Beirut Concert - Live Rare Recordings,1,2dmTUZDs4k4K8aNDz6BaIO,Bethbneeni,spotify:track:2dmTUZDs4k4K8aNDz6BaIO,0.196,0.346,0.81,1.8e-06,0.576,-4.76,0.135,162.815,0.687,7
+131,Beirut Concert - Live Rare Recordings,2,4qwZh4qelw1Gk9KZlEQz7j,Konti Bent 3 Seneen,spotify:track:4qwZh4qelw1Gk9KZlEQz7j,0.489,0.552,0.85,0,0.205,-5.052,0.0694,111.478,0.637,8
+132,Beirut Concert - Live Rare Recordings,3,0C3y1XgXmseCSALjbuwscF,Yalli Ta'ebna Seneen Fi Hawah Live,spotify:track:0C3y1XgXmseCSALjbuwscF,0.672,0.371,0.558,1.49e-05,0.378,-6.399,0.0677,148.457,0.494,7
+133,Beirut Concert - Live Rare Recordings,4,33EOnWSO9LerUe6FOl9fqT,Quly Latkhbish Ya Zain,spotify:track:33EOnWSO9LerUe6FOl9fqT,0.51,0.455,0.811,0,0.128,-6.719,0.121,109.666,0.564,6
+134,Beirut Concert - Live Rare Recordings,5,4cPkgFBUGw0QINQG2tnneS,Mijana wa Atabaa Live,spotify:track:4cPkgFBUGw0QINQG2tnneS,0.826,0.38,0.459,0.000651,0.23,-9.635,0.115,88.108,0.385,7
+135,Beirut Concert - Live Rare Recordings,6,1eO5Az8GnKYzen7P65n15I,Ala Dalouna,spotify:track:1eO5Az8GnKYzen7P65n15I,0.558,0.407,0.628,9.78e-06,0.354,-6.525,0.123,98.926,0.477,9
+136,Beirut Concert - Live Rare Recordings,7,5U0658yaRsferWohsxB9A3,Salasel Fada,spotify:track:5U0658yaRsferWohsxB9A3,0.643,0.309,0.893,0,0.827,-4.758,0.255,177.121,0.591,6
+137,Canada Concert-Live Rare Recording,1,3tX4yHLfjujz3dmseSMD2q,Ya Masahrni,spotify:track:3tX4yHLfjujz3dmseSMD2q,0.859,0.517,0.656,0.000259,0.208,-4.731,0.0477,96.862,0.359,7
+138,Canada Concert-Live Rare Recording,2,1fbFfRqyIB1aemAf462sfP,Habibi Yessa'd Awato,spotify:track:1fbFfRqyIB1aemAf462sfP,0.627,0.546,0.76,6.52e-05,0.122,-2.415,0.0432,107.3,0.381,5
+139,Canada Concert-Live Rare Recording,3,79SwNTaEl6MHPorKiqQMZX,El Lalah Eid,spotify:track:79SwNTaEl6MHPorKiqQMZX,0.752,0.408,0.568,0,0.0444,-2.621,0.0371,109.302,0.302,4
+140,Canada Concert-Live Rare Recording,4,0cfURK8dRxobhHnLf33Gf3,Daret Al Ayam,spotify:track:0cfURK8dRxobhHnLf33Gf3,0.693,0.389,0.509,0,0.135,-2.639,0.0384,109.347,0.259,4
+141,Canada Concert-Live Rare Recording,5,0UncO4t5BFbl1LwR1F7rNS,Ansaak,spotify:track:0UncO4t5BFbl1LwR1F7rNS,0.349,0.358,0.517,0,0.329,-4.297,0.0368,119.024,0.404,5
+142,Canada Concert-Live Rare Recording,6,5LLGW1zjOLrJk6AYF0lKTM,Arouh Lemeen,spotify:track:5LLGW1zjOLrJk6AYF0lKTM,0.844,0.32,0.797,0.00215,0.113,-3.196,0.0589,111.297,0.407,4
+143,Canada Concert-Live Rare Recording,7,7FgKWYez6sJarbrgHLi7Ai,Awat Einy,spotify:track:7FgKWYez6sJarbrgHLi7Ai,0.283,0.251,0.494,0.066,0.292,-4.82,0.038,96.294,0.21,4
+144,Kuwait Concert - LIVE Rare recording,1,0FbrsDoaX4rkojOtTEkQys,Al Atlal,spotify:track:0FbrsDoaX4rkojOtTEkQys,0.792,0.337,0.681,0.875,0.392,-4.741,0.0568,124.305,0.564,4
+145,Kuwait Concert - LIVE Rare recording,2,0b7b5prFpW9SpLNX7sMyYm,Inta Omri,spotify:track:0b7b5prFpW9SpLNX7sMyYm,0.791,0.262,0.859,0.903,0.23,-6.2,0.188,138.433,0.424,4
+146,Kuwait Concert - LIVE Rare recording,4,46cyvnrciTDh42cGmj0Qk8,La Tekoni Methi Gharik,spotify:track:46cyvnrciTDh42cGmj0Qk8,0.74,0.475,0.817,0.197,0.338,-5.636,0.0496,103.072,0.771,3
+147,Kuwait Concert - LIVE Rare recording,6,3uFvQAUmKsvPxjdXWgFozv,Al Janob 'Mawal',spotify:track:3uFvQAUmKsvPxjdXWgFozv,0.894,0.277,0.639,0.00382,0.435,-7.001,0.0562,123.226,0.557,4
+148,Kuwait Concert - LIVE Rare recording,8,2HxZ2aXkyax1Oox6TG7d3f,Mama Ya Mama,spotify:track:2HxZ2aXkyax1Oox6TG7d3f,0.811,0.253,0.702,0.00555,0.92,-6.968,0.109,87.291,0.647,4
+149,Kuwait Concert - LIVE Rare recording,9,0zfXJOrKuFzmZjazhQqI23,Yalli Ta'ebna Seneen Fi Hawah,spotify:track:0zfXJOrKuFzmZjazhQqI23,0.929,0.312,0.58,0.604,0.884,-7.691,0.0387,73.098,0.354,2
+150,Mawawel (Live Rare Recording),1,62rOnPEQgXLXe54XCTkduP,Mawal Medley 1,spotify:track:62rOnPEQgXLXe54XCTkduP,0.783,0.287,0.712,0.0002,0.363,-3.708,0.081,57.179,0.116,7
+151,Mawawel (Live Rare Recording),2,0kadMkZMtnSI0hlgCuf9YN,Mawal Medley 2,spotify:track:0kadMkZMtnSI0hlgCuf9YN,0.877,0.311,0.739,0.107,0.711,-4.073,0.0392,128.09,0.434,7
+152,Mawawel (Live Rare Recording),3,4BASwHrV5d2jwZtod3mdr4,Mawal Medley 3,spotify:track:4BASwHrV5d2jwZtod3mdr4,0.902,0.224,0.618,0.000235,0.137,-3.335,0.0404,164.771,0.186,6
+153,Mawawel (Live Rare Recording),4,4UnCFIA8Z7yES452Khz1X1,Mawal Medley 4,spotify:track:4UnCFIA8Z7yES452Khz1X1,0.928,0.241,0.612,4.08e-05,0.293,-3.79,0.0505,167.466,0.293,5
+154,Mawawel (Live Rare Recording),5,76yEIdFB1jP9YVvEZZikpR,Mawal Medley 5,spotify:track:76yEIdFB1jP9YVvEZZikpR,0.892,0.28,0.834,0.00151,0.339,-3.114,0.0452,97.432,0.44,5
+155,Mawawel (Live Rare Recording),6,5TiTr69P1qPsiVWzyOIBWc,Mawal Medley 6,spotify:track:5TiTr69P1qPsiVWzyOIBWc,0.988,0.284,0.478,0.0173,0.33,-3.46,0.0337,89.863,0.185,5
+156,Mawawel (Live Rare Recording),7,3eOeFUIGm0TTOs8FDHpgBW,Mawal Medley 7,spotify:track:3eOeFUIGm0TTOs8FDHpgBW,0.744,0.376,0.475,0.00114,0.164,-4.112,0.0332,114.897,0.16,5
+157,Mawawel (Live Rare Recording),8,13epFE5q5fpaAoTDJMEqMr,Mawal Medley 8,spotify:track:13epFE5q5fpaAoTDJMEqMr,0.688,0.455,0.444,0.00278,0.0996,-10.19,0.125,109.792,0.244,5
+158,Mawawel (Live Rare Recording),9,7dCTX6RkfPDbW8p55KuKTO,Mawal Medley 9,spotify:track:7dCTX6RkfPDbW8p55KuKTO,0.787,0.313,0.723,8.85e-05,0.184,-6.181,0.0751,117.333,0.219,5
+159,Mawawel (Live Rare Recording),10,2KK9VsPFl9luADsUVmGRsd,Mawal Medley 10,spotify:track:2KK9VsPFl9luADsUVmGRsd,0.876,0.227,0.663,0.0449,0.662,-7.035,0.051,77.727,0.353,5
+160,Mawawel (Live Rare Recording),11,6FdoArqWTLG8mxKRFezVYz,Mawal Medley 11,spotify:track:6FdoArqWTLG8mxKRFezVYz,0.8,0.405,0.453,9.76e-05,0.401,-7.182,0.0421,111.472,0.267,5
+161,Mawawel (Live Rare Recording),12,21s4f5g23xtbTT4vsYwcPW,Mawal Medley 12,spotify:track:21s4f5g23xtbTT4vsYwcPW,0.876,0.252,0.42,0.001,0.473,-6.666,0.0382,71.539,0.249,6
+162,Paris Concert - Live Rare Recording,1,5jV9Q60S3KS4CmQbUP0QHF,Lissa Faker,spotify:track:5jV9Q60S3KS4CmQbUP0QHF,0.701,0.326,0.717,3.34e-05,0.359,-3.006,0.0432,96.427,0.479,4
+163,Paris Concert - Live Rare Recording,2,0hfFH0lKjw3Vgyv5IDkgSv,Ana Fi Intizarak,spotify:track:0hfFH0lKjw3Vgyv5IDkgSv,0.293,0.153,0.739,0.184,0.188,-2.78,0.0447,204.198,0.343,3
+164,Paris Concert - Live Rare Recording,5,23GZdxEPLaXCyKpi9KV7jt,Yama Layali,spotify:track:23GZdxEPLaXCyKpi9KV7jt,0.678,0.368,0.879,0.000573,0.112,-3.282,0.0885,127.812,0.573,2
+165,Paris Concert - Live Rare Recording,6,1hWWqcmY2DREvx7CUqJUPX,Albi Saeed,spotify:track:1hWWqcmY2DREvx7CUqJUPX,0.575,0.512,0.655,0,0.259,-6.146,0.0578,111.115,0.607,3
+166,Paris Concert - Live Rare Recording,7,58k8a8U4hDvcTER0jUw4QP,Awati Betehlow,spotify:track:58k8a8U4hDvcTER0jUw4QP,0.607,0.33,0.846,0.023,0.462,-2.146,0.0539,103.779,0.345,2
+167,Shrah Almstkbl 1996 - Lil Ala'ashkin Rare Recording,1,4fRVAjGbBjrB6ccfCuthud,Debna A Ghiabak - Live,spotify:track:4fRVAjGbBjrB6ccfCuthud,0.921,0.481,0.298,0,0.128,-12.316,0.0942,129.253,0.527,5
+168,Shrah Almstkbl 1996 - Lil Ala'ashkin Rare Recording,2,4bFIeTrENEvz8EAp44Yrfi,Mahla Tamahl,spotify:track:4bFIeTrENEvz8EAp44Yrfi,0.883,0.491,0.248,0,0.133,-12.694,0.0615,106.65,0.409,3
+169,Shrah Almstkbl 1996 - Lil Ala'ashkin Rare Recording,3,4G1UNeyy9qcflVurZLi3wI,Had Yensa Alboh,spotify:track:4G1UNeyy9qcflVurZLi3wI,0.929,0.585,0.421,4.78e-05,0.3,-11.386,0.0813,138.616,0.63,3
+170,Shrah Almstkbl 1996 - Lil Ala'ashkin Rare Recording,4,4BdZQZYiSF8I2PHLH5lP8Q,Law Habatak (Mawal),spotify:track:4BdZQZYiSF8I2PHLH5lP8Q,0.913,0.383,0.443,1.51e-05,0.192,-9.038,0.0446,100.779,0.462,5
+171,Shrah Almstkbl 1996 - Lil Ala'ashkin Rare Recording,5,5BIc1VnoZV5Nms3NiuuxpU,Wahdak Habeebi,spotify:track:5BIc1VnoZV5Nms3NiuuxpU,0.926,0.516,0.459,1.11e-05,0.144,-10.579,0.0486,98.033,0.676,5
+172,Shrah Almstkbl 1996 - Lil Ala'ashkin Rare Recording,6,5UFigxNEpRDDGN1hKpnU57,Law Nawat,spotify:track:5UFigxNEpRDDGN1hKpnU57,0.923,0.464,0.336,6.06e-06,0.382,-11.08,0.054,112.056,0.314,14
+173,Shrah Almstkbl 1996 - Lil Ala'ashkin Rare Recording,7,60Mfm4Maiq1eJVDwkfxt7a,Tawam Rohy,spotify:track:60Mfm4Maiq1eJVDwkfxt7a,0.975,0.558,0.401,3.42e-06,0.376,-10.269,0.0668,97.563,0.614,3
+174,Shrah Almstkbl 1996 - Lil Ala'ashkin Rare Recording,8,6QvHSyBuwOf7DMT3KBDYUQ,Bahlam Beek,spotify:track:6QvHSyBuwOf7DMT3KBDYUQ,0.958,0.601,0.335,0,0.647,-11.19,0.0481,121.82,0.468,6
+175,Shrah Almstkbl 1996 - Lil Ala'ashkin Rare Recording,9,12X5DbhRrvGyljKH2u0XQs,La’ab El Hawa,spotify:track:12X5DbhRrvGyljKH2u0XQs,0.961,0.588,0.475,1.21e-06,0.622,-9.524,0.135,117.879,0.565,4
+176,Shrah Almstkbl 1996 - Lil Ala'ashkin Rare Recording,11,5jpUCdHm39OoDOrzv5jKUK,Om Kolsoum (Medley),spotify:track:5jpUCdHm39OoDOrzv5jKUK,0.961,0.412,0.289,0,0.588,-11.162,0.0474,104.645,0.288,6
+177,Kalamak Ya Habibi,1,69LBfH2KMqmek6jd2frSOy,Aalem albi El Shok,spotify:track:69LBfH2KMqmek6jd2frSOy,0.0689,0.684,0.717,5.65e-06,0.125,-9.182,0.034,134.98,0.671,11
+178,Kalamak Ya Habibi,2,6DewHSpxEY2LnySD5PEQTx,Kalamak Ya Habibi,spotify:track:6DewHSpxEY2LnySD5PEQTx,0.478,0.553,0.674,3.18e-05,0.211,-8.598,0.0604,156.13,0.546,12
+179,Kalamak Ya Habibi,3,5FKRYTpprneQrOoRXVda6z,Sibt El Dounya,spotify:track:5FKRYTpprneQrOoRXVda6z,0.136,0.685,0.865,0.000905,0.0676,-8.154,0.0518,125.007,0.723,11
+180,Kalamak Ya Habibi,4,7coFHjmrUSIeCC5mFpRfGM,Ya Nougoum El Lail,spotify:track:7coFHjmrUSIeCC5mFpRfGM,0.424,0.694,0.569,8.43e-06,0.239,-8.736,0.0402,93.01,0.643,9
+181,Kalamak Ya Habibi,5,2yWNB0lygI37Vvv20tPHjI,Addi Eli Kanou,spotify:track:2yWNB0lygI37Vvv20tPHjI,0.316,0.719,0.731,0,0.229,-8.704,0.0538,95.039,0.784,9
+182,Kalamak Ya Habibi,6,6Z2qrIM9Pr9bJ1jTYPs0Wv,Asaab Fourak,spotify:track:6Z2qrIM9Pr9bJ1jTYPs0Wv,0.31,0.64,0.613,2.84e-06,0.339,-7.928,0.0363,120.042,0.696,17
+183,El Hawa Sultan Rare Recordings,1,6bXIVmNvDjvVA0CzNGzCf7,El Hawa Sultan,spotify:track:6bXIVmNvDjvVA0CzNGzCf7,0.712,0.497,0.615,5.43e-05,0.0518,-7.398,0.0358,136.663,0.688,39
+184,El Hawa Sultan Rare Recordings,2,5L2ELXkO17Iu9J8hwMktVJ,Helaf El Amar,spotify:track:5L2ELXkO17Iu9J8hwMktVJ,0.714,0.433,0.518,1.32e-05,0.0504,-7.958,0.0433,120.935,0.723,39
+185,El Hawa Sultan Rare Recordings,3,0k2vrowJEEDWla50Bl28Os,Gouli Wlatkhbish,spotify:track:0k2vrowJEEDWla50Bl28Os,0.674,0.632,0.578,0,0.0307,-8.077,0.0344,106.306,0.76,28
+186,El Hawa Sultan Rare Recordings,4,6rVObOb3XLL17RC1IoVI1P,Rohi Yanssmah,spotify:track:6rVObOb3XLL17RC1IoVI1P,0.58,0.414,0.665,0.000872,0.0311,-8.398,0.0622,136.288,0.672,33
+187,El Hawa Sultan Rare Recordings,5,3T8ubQi6Wd1GlyDZOigBgU,Al Habaib,spotify:track:3T8ubQi6Wd1GlyDZOigBgU,0.511,0.371,0.588,0.0014,0.157,-8.425,0.0343,97.832,0.787,28
+188,Ouwidini,1,5ruvOvSAkTCGOby3TzLHvr,Ouwidini,spotify:track:5ruvOvSAkTCGOby3TzLHvr,0.355,0.596,0.625,0.000259,0.0368,-9.286,0.0455,116.604,0.494,23
+189,Ouwidini,2,4TX7MW5XobGO6cJEw9yy7D,Law Naweit,spotify:track:4TX7MW5XobGO6cJEw9yy7D,0.54,0.544,0.683,0.00381,0.309,-8.648,0.0395,131.545,0.701,26
+190,Ouwidini,3,6WHacg9mk5Dm9D9CYDDvEA,Rouh Al Rouh,spotify:track:6WHacg9mk5Dm9D9CYDDvEA,0.545,0.573,0.797,0.00979,0.195,-8.318,0.0408,149.725,0.808,17
+191,Ouwidini,4,2K8sMTDaYDHoCWRnxwt1oF,Bta'atebni 'Ala Kilmat,spotify:track:2K8sMTDaYDHoCWRnxwt1oF,0.515,0.608,0.646,0.000555,0.204,-8.487,0.0438,122.277,0.647,25
+192,Ouwidini,5,7HDHDnI7FnZ9Prbl2Jplcd,Garahouna,spotify:track:7HDHDnI7FnZ9Prbl2Jplcd,0.517,0.587,0.635,0.00159,0.593,-9.198,0.0384,136.93,0.803,27
+193,Ouwidini,6,0lXhIDBFD0G7CcS7bJ01oP,Isma'ini BiKilmat,spotify:track:0lXhIDBFD0G7CcS7bJ01oP,0.509,0.59,0.636,0.000423,0.309,-9.316,0.0319,137.733,0.858,23
+194,Ouwidini,7,6GtQtHqCCyX2EsfutTC1W9,Salamtak Biyed Allah,spotify:track:6GtQtHqCCyX2EsfutTC1W9,0.536,0.554,0.694,0,0.107,-9.621,0.0475,148.119,0.856,26
+195,Rouh Al Rouh,5,1vorYcLHCYGQ6czx250kCG,Ba'eed 'Anak,spotify:track:1vorYcLHCYGQ6czx250kCG,0.676,0.314,0.643,0.00161,0.161,-9.938,0.0741,126.015,0.586,4
+196,Shei Ghareeb,1,2DJLpv8FXRhAj18GE5TT5f,Shei Gharib,spotify:track:2DJLpv8FXRhAj18GE5TT5f,0.64,0.408,0.598,0.000129,0.258,-9.192,0.0571,106.051,0.439,25
+197,Shei Ghareeb,2,4dncaIZ3LTeTS3GTDAHhOe,Ghalabah Fil Hob,spotify:track:4dncaIZ3LTeTS3GTDAHhOe,0.273,0.513,0.773,1.41e-05,0.352,-7.957,0.241,108.401,0.896,23
+198,Shei Ghareeb,3,60LwCCFzzCSQPc8wmVLWvD,Wayya Al Qadar,spotify:track:60LwCCFzzCSQPc8wmVLWvD,0.244,0.635,0.662,0,0.0465,-8.543,0.199,91.108,0.75,24
+199,Shei Ghareeb,4,1wOLObDkcQYHHVF4Ldp2AP,Sayyad Al Toyour,spotify:track:1wOLObDkcQYHHVF4Ldp2AP,0.754,0.405,0.461,0,0.0549,-10.055,0.058,132.35,0.342,23
+200,Shei Ghareeb,5,3mQFp8ViX4t1GHMfCfRLKu,Al Hob Shatir,spotify:track:3mQFp8ViX4t1GHMfCfRLKu,0.323,0.423,0.515,1.69e-06,0.0414,-8.543,0.0376,118.32,0.465,23
+201,Shei Ghareeb,6,46JqJQpWUibw4Pej7uwgmM,Al Ghali,spotify:track:46JqJQpWUibw4Pej7uwgmM,0.268,0.646,0.707,1.39e-06,0.0623,-9.872,0.0816,139.719,0.806,24
+202,Dul Mush Habayeb,1,0XdO4RVSLi8jm411eAlHeK,Ana Radi Bel Sahar,spotify:track:0XdO4RVSLi8jm411eAlHeK,0.332,0.63,0.693,0,0.055,-8.996,0.178,91.891,0.556,5
+203,Dul Mush Habayeb,2,0kPdYhflmiWf5DRx9qtvkp,Kedah Kifayah,spotify:track:0kPdYhflmiWf5DRx9qtvkp,0.327,0.716,0.437,0,0.194,-15.781,0.0926,82.249,0.699,16
+204,Dul Mush Habayeb,3,4hoPLSpDzTcVCKRcXtHMcJ,Ma Teoulou Leeh,spotify:track:4hoPLSpDzTcVCKRcXtHMcJ,0.449,0.591,0.527,0,0.0592,-12.149,0.178,178.623,0.669,16
+205,Dul Mush Habayeb,4,5xvWWvt6qa0Zc6X1emF27B,Dul Mush Habayeb,spotify:track:5xvWWvt6qa0Zc6X1emF27B,0.453,0.639,0.367,4.14e-06,0.0797,-13.841,0.0439,90.04,0.629,19
+206,Dul Mush Habayeb,5,3F6E3PML1gwJPZRMOlFTvm,Leabet Nazar,spotify:track:3F6E3PML1gwJPZRMOlFTvm,0.284,0.685,0.519,0.000301,0.0776,-13.142,0.0778,126.967,0.517,4
+207,Dul Mush Habayeb,6,7oydBAZUECydmIIQjHVDhj,Osha'a Akher Zaman,spotify:track:7oydBAZUECydmIIQjHVDhj,0.383,0.728,0.444,0,0.101,-16.459,0.195,90.376,0.769,10
+208,Inta Gheirhom,1,7iieLjzmIth3WJxuGw9Qib,Inta Gheirhom,spotify:track:7iieLjzmIth3WJxuGw9Qib,0.549,0.689,0.67,0,0.388,-9.352,0.057,89.992,0.781,7
+209,Inta Gheirhom,2,0vo0cfYLoLCxMfb60PE6A2,Alb Al Asheq Daleiloh,spotify:track:0vo0cfYLoLCxMfb60PE6A2,0.328,0.522,0.714,0,0.0896,-8.757,0.166,184.085,0.667,17
+210,Inta Gheirhom,3,0wUunUjZd7eNAVLsGuySIz,Habait Armi Al Shabbak,spotify:track:0wUunUjZd7eNAVLsGuySIz,0.811,0.532,0.599,1.77e-06,0.0634,-10.607,0.0684,94.996,0.444,18
+211,Inta Gheirhom,4,6d8ff1T8v4jHaVEuOTD3Fj,Rohow Loh Wis'alouh,spotify:track:6d8ff1T8v4jHaVEuOTD3Fj,0.4,0.632,0.654,0,0.194,-9.883,0.0562,90.0,0.656,5
+212,Inta Gheirhom,5,4zZwZUKzQeJNADYp8hzhzb,Al Forqah Sa'abah,spotify:track:4zZwZUKzQeJNADYp8hzhzb,0.284,0.689,0.779,0.000835,0.129,-8.513,0.0384,127.039,0.701,7
+213,Inta Gheirhom,6,6NGznGIqZninOYVBsSCJjl,Besm Al Hob Al Jameel,spotify:track:6NGznGIqZninOYVBsSCJjl,0.311,0.541,0.757,0,0.141,-7.304,0.126,179.994,0.749,5
+214,Salaf W. Dayn,1,0w4SkEv3unMF7ur6PwXGux,Salaf W Dayn,spotify:track:0w4SkEv3unMF7ur6PwXGux,0.177,0.601,0.736,0,0.0649,-6.738,0.074,169.998,0.66,22
+215,Salaf W. Dayn,2,46GexzFUtdgE8Z4rEcP7rn,Saber W Radi,spotify:track:46GexzFUtdgE8Z4rEcP7rn,0.0662,0.68,0.845,2.27e-05,0.0868,-6.571,0.0452,97.995,0.761,21
+216,Salaf W. Dayn,3,7b6iuK9Q6j2YpaULlOvsr1,Iskot,spotify:track:7b6iuK9Q6j2YpaULlOvsr1,0.124,0.681,0.796,0,0.35,-5.799,0.093,90.021,0.665,5
+217,Salaf W. Dayn,4,5PDhJiqSnfNlYM3j89moQE,Bentfakkar Bel Nass,spotify:track:5PDhJiqSnfNlYM3j89moQE,0.199,0.614,0.779,0,0.133,-6.811,0.165,89.906,0.717,9
+218,Salaf W. Dayn,5,6OXl4zgJ34u4cMRxe3UfCJ,Maarafchi,spotify:track:6OXl4zgJ34u4cMRxe3UfCJ,0.241,0.741,0.816,5.57e-06,0.21,-5.521,0.0757,108.018,0.577,6
+219,Tabeeb Garah,1,1otoJ09762a8aIgpzKelSU,Tabeeb Garah,spotify:track:1otoJ09762a8aIgpzKelSU,0.624,0.511,0.622,3.56e-05,0.408,-13.512,0.0949,183.327,0.732,23
+220,Tabeeb Garah,2,1G7B0v9CifzsKNm7ZTgwyj,Habibati Wal Zaman,spotify:track:1G7B0v9CifzsKNm7ZTgwyj,0.507,0.707,0.586,2.42e-05,0.103,-12.819,0.108,91.554,0.617,5
+221,Tabeeb Garah,3,7cVjvGpA8YGn68jjONSCYU,Kul Yowm,spotify:track:7cVjvGpA8YGn68jjONSCYU,0.388,0.409,0.453,2.49e-05,0.0776,-13.195,0.048,106.002,0.599,5
+222,Tabeeb Garah,4,77SI9ADthPvhaCNr64sD9Y,Law Kul Ashiq,spotify:track:77SI9ADthPvhaCNr64sD9Y,0.334,0.529,0.516,1.04e-06,0.329,-14.046,0.196,165.959,0.545,6
+223,Tabeeb Garah,5,00A3cpVHcWUStErwl19Pd2,Tiksar Rehanak,spotify:track:00A3cpVHcWUStErwl19Pd2,0.255,0.588,0.643,0.000625,0.0647,-13.17,0.0926,186.387,0.655,4
+224,Tabeeb Garah,6,6Tl1zwxO6kU9Mxhoj5OB1S,Ana Asif,spotify:track:6Tl1zwxO6kU9Mxhoj5OB1S,0.567,0.609,0.6,0.000139,0.0572,-13.909,0.111,171.183,0.711,13
+225,Zaman Al'Ajayeb,1,0VISX49ThNlJUfJBJjmjeX,Youm El Wada'a,spotify:track:0VISX49ThNlJUfJBJjmjeX,0.146,0.44,0.759,0,0.297,-4.881,0.0914,87.874,0.723,13
+226,Zaman Al'Ajayeb,2,1Kfsnc6ZSFttCnk6dEKLPr,Kollena Magareeh,spotify:track:1Kfsnc6ZSFttCnk6dEKLPr,0.12,0.552,0.817,1.12e-06,0.161,-5.208,0.124,84.362,0.742,6
+227,Zaman Al'Ajayeb,3,4HgYIXsI0j8mA4pBEgUQ6Y,El 'Asheq Minnena,spotify:track:4HgYIXsI0j8mA4pBEgUQ6Y,0.19,0.603,0.671,0,0.272,-4.523,0.141,83.77,0.543,4
+228,Zaman Al'Ajayeb,4,42IQHZdnUNbbF8EUhEj0b7,Leh Tehrabi,spotify:track:42IQHZdnUNbbF8EUhEj0b7,0.13,0.645,0.683,0,0.154,-5.772,0.084,122.226,0.501,4
+229,Zaman Al'Ajayeb,5,06QkUIs5kCVygGP8ycdFhk,Lelhawa Ahkam,spotify:track:06QkUIs5kCVygGP8ycdFhk,0.095,0.69,0.735,0,0.0501,-4.262,0.132,86.616,0.569,4
+230,Zaman Al'Ajayeb,6,4tJ6V8OXD56inPgWaf8gSM,Zaman Al 'Ajayeb,spotify:track:4tJ6V8OXD56inPgWaf8gSM,0.0367,0.443,0.649,0,0.338,-5.343,0.0359,138.655,0.373,3
+231,Kalam Ennas,1,3chM2F71b3pqRcISox5NLB,Ya Baya'ein El Hawa - 2000 Digital Remaster;,spotify:track:3chM2F71b3pqRcISox5NLB,0.26,0.719,0.741,0.000148,0.0417,-9.825,0.0512,140.629,0.861,24
+232,Kalam Ennas,2,1vpR3WuErWZzYhPv37R7TU,Habibi Kidah - 2000 Digital Remaster;,spotify:track:1vpR3WuErWZzYhPv37R7TU,0.342,0.786,0.635,0,0.0743,-8.264,0.0672,103.855,0.962,23
+233,Kalam Ennas,3,3pYezDCd9TefxJWhmBZLX1,Law Yeua'idni El Hawa - 2000 Digital Remaster;,spotify:track:3pYezDCd9TefxJWhmBZLX1,0.491,0.633,0.726,0,0.104,-9.404,0.0546,141.924,0.864,22
+234,Kalam Ennas,4,14gaFCnNH6QG3HD6MAeUiM,Harimna Min Onsak - 2000 Digital Remaster;,spotify:track:14gaFCnNH6QG3HD6MAeUiM,0.643,0.686,0.786,0,0.358,-5.973,0.068,124.885,0.725,22
+235,Kalam Ennas,5,2xrNC0YeIdMjXItS1V0QnS,El Houb El Awalani - 2000 Digital Remaster;,spotify:track:2xrNC0YeIdMjXItS1V0QnS,0.553,0.733,0.654,9.85e-05,0.0682,-9.577,0.0595,98.173,0.583,29
+236,Kalam Ennas,6,31xnf3zZUIX9w33rIlg9bH,Kalam Ennas,spotify:track:31xnf3zZUIX9w33rIlg9bH,0.558,0.582,0.548,5.2e-05,0.0503,-9.941,0.0757,185.122,0.774,40
+237,Haflet Taj Mahal,1,4Pc7JLt3LpI0uJ1WVFfYvw,Awal Alshoir - Mawal,spotify:track:4Pc7JLt3LpI0uJ1WVFfYvw,0.505,0.456,0.292,3.72e-05,0.717,-9.07,0.0461,56.305,0.267,6
+238,Haflet Taj Mahal,2,3RWPwzLDGG78s7wXhG7tpy,Yalli Te'ebna Snin Bihawak,spotify:track:3RWPwzLDGG78s7wXhG7tpy,0.0291,0.338,0.381,0.00118,0.355,-13.259,0.0621,168.132,0.262,5
+239,Haflet Taj Mahal,3,3O32eI5Pda8QER6FtUwwJ2,Mawal,spotify:track:3O32eI5Pda8QER6FtUwwJ2,0.204,0.348,0.503,0,0.784,-10.012,0.0543,152.233,0.572,5
+240,Haflet Taj Mahal,4,6sEBJujnDNS7u5bWV5BHOk,Te'eb L'ouloub,spotify:track:6sEBJujnDNS7u5bWV5BHOk,0.772,0.403,0.87,0.0122,0.588,-2.841,0.106,133.849,0.255,4
+241,Haflet Taj Mahal,5,37iV2gUWKIdfzqrzqgtiCv,Ma Endaksh Fikrah,spotify:track:37iV2gUWKIdfzqrzqgtiCv,0.714,0.337,0.708,0.000219,0.87,-7.701,0.0595,136.794,0.439,4
+242,Haflet Taj Mahal,6,6MjiV55Mb2SOUNBNdd37lw,Debna a Ghyabak,spotify:track:6MjiV55Mb2SOUNBNdd37lw,0.601,0.323,0.793,6.04e-05,0.701,-3.075,0.047,142.598,0.394,6
+243,Haflet Taj Mahal,7,4KcUaw1wNfZ6S8SgJCmSUQ,Ya Mwaldani,spotify:track:4KcUaw1wNfZ6S8SgJCmSUQ,0.501,0.401,0.771,3.56e-06,0.686,-6.682,0.0633,131.179,0.657,5
+244,Haflet Taj Mahal,8,2geNWyPVIuXJpdPJR1RWno,Mawal Layali,spotify:track:2geNWyPVIuXJpdPJR1RWno,0.124,0.239,0.329,0.000441,0.276,-8.588,0.0342,89.319,0.039,4
+245,Haflet Taj Mahal,9,4tEux9lPJn2FuwxkRpx9E6,Terghalli,spotify:track:4tEux9lPJn2FuwxkRpx9E6,0.122,0.497,0.746,0.00382,0.684,-6.155,0.0559,104.341,0.66,22
+246,Haflet Taj Mahal,10,3NY7YtEuLGZtyXL7WDPe6H,Baeed Anak,spotify:track:3NY7YtEuLGZtyXL7WDPe6H,0.00114,0.288,0.584,0,0.907,-9.164,0.0514,97.083,0.478,7
+247,Sahran,1,1xmSeL8euzzCRuNa0hCpqC,Gamda Bas,spotify:track:1xmSeL8euzzCRuNa0hCpqC,0.104,0.832,0.9,0.000168,0.0719,-5.234,0.0601,116.699,0.867,44
+248,Sahran,2,1VPjnnkxsxXdgaIbH2dhnq,Sahran,spotify:track:1VPjnnkxsxXdgaIbH2dhnq,0.149,0.707,0.88,0.000213,0.0673,-5.266,0.0274,103.17,0.941,48
+249,Sahran,3,4aiH98c8gTiuTQdfjjWQpg,Hayeish Yeftekerni,spotify:track:4aiH98c8gTiuTQdfjjWQpg,0.405,0.595,0.57,0,0.101,-7.438,0.0254,142.138,0.361,45
+250,Sahran,4,796viozwVOxsj2jmSyN7YC,Mahragan,spotify:track:796viozwVOxsj2jmSyN7YC,0.0731,0.698,0.889,0.00491,0.0823,-4.707,0.0312,136.563,0.959,43
+251,Sahran,5,32YXTvPWnUPSTIUaGBbLXm,Gamila,spotify:track:32YXTvPWnUPSTIUaGBbLXm,0.48,0.672,0.916,0.000905,0.353,-5.438,0.0339,103.182,0.69,44
+252,Sahran,6,0HK4aIxz0XLDfodEGsz6ji,Bel Dehhka Dee,spotify:track:0HK4aIxz0XLDfodEGsz6ji,0.2,0.782,0.799,0.000336,0.0325,-6.697,0.0279,123.402,0.817,42
+253,Sahran,7,4BZ68zlPAqoyrH2cUrjMAw,Aam El Tabeeb,spotify:track:4BZ68zlPAqoyrH2cUrjMAw,0.511,0.783,0.787,0.000195,0.163,-5.619,0.031,106.536,0.816,43
+254,Sahran,8,62cVreHHzIORKsd8duIDCd,Makanak Fe Alby,spotify:track:62cVreHHzIORKsd8duIDCd,0.529,0.386,0.573,0,0.243,-6.575,0.0465,72.065,0.479,44
+255,Sahran,9,19MM1Xtb205Zeh7VSMCjTO,Helwa El Bedayat,spotify:track:19MM1Xtb205Zeh7VSMCjTO,0.0291,0.631,0.84,0.000737,0.302,-6.389,0.0374,134.566,0.394,45
+256,Sahran,10,0sBlL6G2SWW34V0Ykwj8kc,Zay Manty,spotify:track:0sBlL6G2SWW34V0Ykwj8kc,0.85,0.624,0.651,3.53e-06,0.0879,-5.953,0.0344,96.366,0.752,44
+257,Sahran,11,63z26Te7baeagaYRW3BvbY,Ya Rawa'anek,spotify:track:63z26Te7baeagaYRW3BvbY,0.0988,0.715,0.841,0.00015,0.0735,-6.348,0.0316,122.342,0.746,41
+258,Sahran,12,4QbRA1cZONmKXZjtX6Z6Q3,Rooh,spotify:track:4QbRA1cZONmKXZjtX6Z6Q3,0.348,0.476,0.693,0.00375,0.321,-7.079,0.0669,182.495,0.452,41
+259,Sahran,13,1HPiNrK6F3dwedYvu9I915,Bahebo,spotify:track:1HPiNrK6F3dwedYvu9I915,0.183,0.676,0.91,0.218,0.339,-6.518,0.0291,129.545,0.963,45
+260,Sahran,14,37Icr8v8N2lUpWMSL7jAhE,Odam Merayetha,spotify:track:37Icr8v8N2lUpWMSL7jAhE,0.0803,0.624,0.834,0.00151,0.0448,-5.599,0.0583,186.133,0.741,45
+261,Sahran,15,73Hs327rPf9rJTKNKvbt5N,Youm Talat,spotify:track:73Hs327rPf9rJTKNKvbt5N,0.147,0.788,0.847,0.000489,0.107,-5.509,0.0402,108.56,0.787,44
+262,Sahran,16,3A2HYaRHDocsMoYns3UQf3,Awel Youm Fi Elboad,spotify:track:3A2HYaRHDocsMoYns3UQf3,0.539,0.572,0.625,0.000951,0.0718,-5.323,0.132,166.253,0.443,39
+263,Ya Tariq Ya Tariq,1,3cmBzakKv0J2SH0ws7Gq1j,Waqt w 3eshnah,spotify:track:3cmBzakKv0J2SH0ws7Gq1j,0.563,0.377,0.279,0.00263,0.263,-13.17,0.0296,92.363,0.288,29
+264,Ya Tariq Ya Tariq,2,2Ajg4PVwmmLvn3dwVrWdbI,Ahdan ElGabal,spotify:track:2Ajg4PVwmmLvn3dwVrWdbI,0.757,0.402,0.276,0.000191,0.511,-14.06,0.0308,107.842,0.244,28
+265,Ya Tariq Ya Tariq,3,30sQsWpjZ0dR9obi7xT5Lh,Baheb Elhayah,spotify:track:30sQsWpjZ0dR9obi7xT5Lh,0.542,0.34,0.457,0,0.137,-12.973,0.0412,127.425,0.488,28
+266,Ya Tariq Ya Tariq,4,7w8G1RczxDyJisr8mBFQXd,Nawar Ya Liel,spotify:track:7w8G1RczxDyJisr8mBFQXd,0.509,0.616,0.705,2.18e-06,0.129,-11.101,0.0365,140.845,0.916,28
+267,Ya Tariq Ya Tariq,5,0B0P6TkBySJZLKJJtdTGex,Ya Tariq Ya Tariq,spotify:track:0B0P6TkBySJZLKJJtdTGex,0.663,0.351,0.507,4.52e-06,0.143,-11.552,0.0544,161.063,0.803,28
+268,Ya Tariq Ya Tariq,6,4wkzpEANMATQJNavuT87M2,Elzaman,spotify:track:4wkzpEANMATQJNavuT87M2,0.591,0.333,0.358,3.64e-06,0.246,-12.406,0.0312,95.913,0.288,21
+269,Ya Tariq Ya Tariq,7,1nUXjxPiyTjLrf7a8h0laZ,Elmadina,spotify:track:1nUXjxPiyTjLrf7a8h0laZ,0.315,0.287,0.45,1.08e-05,0.4,-10.436,0.0307,107.307,0.413,12
+270,Ya Tariq Ya Tariq,8,2Pk01ezE188K4XJSgpXHSa,Ahla Ya Donia,spotify:track:2Pk01ezE188K4XJSgpXHSa,0.78,0.569,0.577,0,0.239,-10.632,0.0424,121.632,0.717,11
+271,Kol Hayaty,1,5zTTLxkSSofIcs40jy0fUt,Ya Saher,spotify:track:5zTTLxkSSofIcs40jy0fUt,0.0963,0.745,0.939,0,0.0791,-4.35,0.134,101.486,0.74,36
+272,Kol Hayaty,2,14uPFDa5HWImdrhPJMbVxm,Yetalemo,spotify:track:14uPFDa5HWImdrhPJMbVxm,0.243,0.757,0.879,0,0.081,-5.509,0.0365,126.769,0.722,43
+273,Kol Hayaty,3,37ZlsLp27dJXoQqQwedIS8,Kont Fe Baly,spotify:track:37ZlsLp27dJXoQqQwedIS8,0.899,0.349,0.293,7.12e-06,0.555,-8.204,0.0428,82.23,0.456,38
+274,Kol Hayaty,4,6rmOoVm1U6ttz35u9Zk7HR,Enta Maghroor,spotify:track:6rmOoVm1U6ttz35u9Zk7HR,0.227,0.745,0.715,5.46e-06,0.0533,-6.354,0.208,93.76,0.695,37
+275,Kol Hayaty,5,7EKL6tqwaXDlvioAsah2on,Bayen Habeit,spotify:track:7EKL6tqwaXDlvioAsah2on,0.193,0.785,0.766,0.000125,0.285,-5.712,0.0429,111.641,0.779,45
+276,Kol Hayaty,6,5rQ67XZ8DM8tww6pkknMLZ,Da Law Etsab,spotify:track:5rQ67XZ8DM8tww6pkknMLZ,0.288,0.703,0.902,0.00402,0.0752,-5.556,0.0406,130.286,0.961,42
+277,Kol Hayaty,7,7jf7Nzv8hMfj5YvX5GNtwj,Hadded,spotify:track:7jf7Nzv8hMfj5YvX5GNtwj,0.563,0.663,0.723,4.11e-06,0.201,-4.4,0.0514,154.184,0.51,39
+278,Kol Hayaty,8,21X6Z30QMtWSrOirPNhR4l,Kol Hayaty,spotify:track:21X6Z30QMtWSrOirPNhR4l,0.599,0.497,0.523,0,0.234,-5.091,0.0304,121.947,0.37,36
+279,Kol Hayaty,9,3HCzMoiU3CvND8hNuhSkvy,Malak Elhosn,spotify:track:3HCzMoiU3CvND8hNuhSkvy,0.114,0.715,0.81,1.71e-05,0.0431,-6.692,0.11,103.739,0.619,34
+280,Kol Hayaty,10,4Utk1Y6hN9UdobjuwNKB9e,A'alk Nedem,spotify:track:4Utk1Y6hN9UdobjuwNKB9e,0.0755,0.667,0.782,0.000317,0.263,-4.685,0.0285,125.148,0.777,34
+281,Kol Hayaty,11,3giRh9oiBgGJ0uzCWjUJea,Bayen Habeit (Inspired by Amr Diab),spotify:track:3giRh9oiBgGJ0uzCWjUJea,0.806,0.695,0.364,3.18e-06,0.0635,-6.558,0.0245,96.675,0.549,37
+282,Kol Hayaty,12,2UeFcgBwZyb5iSYgoEccWI,Ya Hanaah,spotify:track:2UeFcgBwZyb5iSYgoEccWI,0.207,0.392,0.871,0.000507,0.354,-8.238,0.0664,97.091,0.628,35
+283,Kol Hayaty,13,4zrQ4jqL92zMJFTwQtc5v7,Taali,spotify:track:4zrQ4jqL92zMJFTwQtc5v7,0.0243,0.72,0.725,2.87e-05,0.0689,-5.811,0.0575,129.875,0.528,36
+284,Meaddy El Nas,1,2G8hCbEMe4WoOhtw2EKJd5,Alby Etmannah,spotify:track:2G8hCbEMe4WoOhtw2EKJd5,0.482,0.714,0.754,4.37e-05,0.0438,-7.005,0.0376,100.28,0.866,50
+285,Meaddy El Nas,2,5nLO0E9TM2qiVocZRvER8Y,Amar Eah,spotify:track:5nLO0E9TM2qiVocZRvER8Y,0.0309,0.682,0.772,0.00867,0.0642,-6.653,0.0421,132.248,0.757,30
+286,Meaddy El Nas,3,2oJ6rsS4EQUsHY6NGkuDVh,Ah Habiby,spotify:track:2oJ6rsS4EQUsHY6NGkuDVh,0.074,0.718,0.728,0.00563,0.0178,-7.341,0.0314,115.939,0.96,36
+287,Meaddy El Nas,4,0aGmjPcdSl5edkQSdfdjVs,Awel Kol Haga,spotify:track:0aGmjPcdSl5edkQSdfdjVs,0.614,0.548,0.576,0.000888,0.144,-6.105,0.055,80.355,0.326,34
+288,Meaddy El Nas,5,5tV2fZ1rEFoqg813UG0z5c,Agmal Eyoun,spotify:track:5tV2fZ1rEFoqg813UG0z5c,0.509,0.767,0.796,3.87e-06,0.0973,-6.908,0.0453,110.892,0.749,41
+289,Meaddy El Nas,6,7fAXfwMh9TVM21exmkxuGR,Nghamet El Herman,spotify:track:7fAXfwMh9TVM21exmkxuGR,0.383,0.683,0.908,0.135,0.0778,-6.02,0.0582,147.482,0.942,31
+290,Meaddy El Nas,7,4dyfpLJRjNN2HMQLCOiPXC,Ganb Habiby,spotify:track:4dyfpLJRjNN2HMQLCOiPXC,0.0905,0.699,0.843,1.2e-05,0.0875,-5.961,0.0646,130.236,0.606,33
+291,Meaddy El Nas,8,1x2kms0jM3NbH5YhpfNnyW,Habayeb Eh,spotify:track:1x2kms0jM3NbH5YhpfNnyW,0.87,0.607,0.368,2.79e-06,0.113,-10.063,0.0342,117.042,0.188,34
+292,Meaddy El Nas,9,60x4i2VFfWwA9mCVHLQUqU,Meaddy El Nas,spotify:track:60x4i2VFfWwA9mCVHLQUqU,0.484,0.6,0.864,0.158,0.145,-6.848,0.0521,189.313,0.887,35
+293,Meaddy El Nas,10,4NJ8D3g3xGkhKtlqH4OSqO,Ya Ahla Haga,spotify:track:4NJ8D3g3xGkhKtlqH4OSqO,0.504,0.593,0.73,0.00388,0.269,-6.981,0.0422,122.015,0.338,35
+294,Mn Asmaa Allah Al Hosna,1,3ZqlVr4VTWgxTj4CeBB2DK,Allah,spotify:track:3ZqlVr4VTWgxTj4CeBB2DK,0.814,0.361,0.261,9.64e-05,0.124,-9.502,0.0337,85.635,0.401,13
+295,Mn Asmaa Allah Al Hosna,2,34giYIfWLFalVULSBaq1la,Al Rahman,spotify:track:34giYIfWLFalVULSBaq1la,0.844,0.334,0.312,3.94e-06,0.0924,-8.543,0.0411,73.53,0.336,12
+296,Mn Asmaa Allah Al Hosna,3,0msLvlm36pdXf8I8rNUSIW,Al Salam,spotify:track:0msLvlm36pdXf8I8rNUSIW,0.895,0.352,0.283,0,0.0692,-7.446,0.0485,72.814,0.293,11
+297,Mn Asmaa Allah Al Hosna,4,1W7eyXiT92c3MvILSk1Rjg,Al Khaliq,spotify:track:1W7eyXiT92c3MvILSk1Rjg,0.871,0.364,0.201,0,0.115,-11.458,0.0448,167.568,0.346,11
+298,Mn Asmaa Allah Al Hosna,5,2uO5V8GfQGFtYLApdW9dRp,Al Musawwir,spotify:track:2uO5V8GfQGFtYLApdW9dRp,0.938,0.306,0.21,0,0.1,-7.507,0.038,77.015,0.342,10
+299,Mn Asmaa Allah Al Hosna,6,4MY5usgbrICa11fGk2425J,Al Ghaffar,spotify:track:4MY5usgbrICa11fGk2425J,0.82,0.371,0.284,0,0.102,-6.512,0.0507,158.724,0.34,10
+300,Mn Asmaa Allah Al Hosna,7,4Re0VACyr98DCJaacHI8ev,Al Razaq,spotify:track:4Re0VACyr98DCJaacHI8ev,0.924,0.354,0.303,0,0.107,-7.812,0.039,88.556,0.389,10
+301,Mn Asmaa Allah Al Hosna,8,6Pzs1VOMqZuOWsTvIDe1Vh,Al Fatah,spotify:track:6Pzs1VOMqZuOWsTvIDe1Vh,0.869,0.461,0.297,8.71e-06,0.0787,-6.976,0.0356,108.424,0.46,10
+302,Mn Asmaa Allah Al Hosna,9,4OivTIvwpYCZglmxvraPVE,Al Baset,spotify:track:4OivTIvwpYCZglmxvraPVE,0.931,0.388,0.269,7.31e-05,0.116,-8.553,0.0302,86.249,0.22,10
+303,Mn Asmaa Allah Al Hosna,10,4mPI5eaMiWh3oXXi9wfn4y,Al Haq,spotify:track:4mPI5eaMiWh3oXXi9wfn4y,0.905,0.457,0.315,4.03e-05,0.125,-7.7,0.046,111.024,0.344,10
+304,Mn Asmaa Allah Al Hosna,11,5vSV0ObLTUKoKYDHceoFnO,Al Qawwi,spotify:track:5vSV0ObLTUKoKYDHceoFnO,0.823,0.406,0.286,0,0.124,-8.174,0.0478,125.868,0.594,10
+305,Mn Asmaa Allah Al Hosna,12,1jf3mjjxv8LQkU059TGbwI,Al Barr,spotify:track:1jf3mjjxv8LQkU059TGbwI,0.907,0.322,0.309,0.000613,0.079,-8.612,0.033,77.043,0.384,10
+306,Mn Asmaa Allah Al Hosna,13,3WeSdTyff00rF1stsElRRo,Al Afuw,spotify:track:3WeSdTyff00rF1stsElRRo,0.856,0.37,0.299,0,0.216,-8.132,0.0386,113.765,0.318,10
+307,Mn Asmaa Allah Al Hosna,14,2FJJwXAgxijp1CSRN9RyW1,Al Ghanni,spotify:track:2FJJwXAgxijp1CSRN9RyW1,0.857,0.292,0.325,0.00251,0.102,-9.213,0.0311,85.064,0.411,9
+308,Mn Asmaa Allah Al Hosna,15,2Nt3ubRKT3NGeafsSAHRC0,Al Moghni,spotify:track:2Nt3ubRKT3NGeafsSAHRC0,0.902,0.401,0.25,0,0.102,-9.501,0.0307,74.678,0.424,9
+309,Mn Asmaa Allah Al Hosna,16,1tAfEPrZfSAJ6Hjt48NewL,Al Noor,spotify:track:1tAfEPrZfSAJ6Hjt48NewL,0.758,0.274,0.284,0,0.174,-8.317,0.0357,82.893,0.379,10
+310,Mn Asmaa Allah Al Hosna,17,009QdfPiC2fSTeHBef3Phm,Al Hadi,spotify:track:009QdfPiC2fSTeHBef3Phm,0.901,0.36,0.306,0,0.173,-9.483,0.0436,148.98,0.115,9
+311,Mn Asmaa Allah Al Hosna,18,4peinJMRk5L0pSCv9uSCWp,Al Badea,spotify:track:4peinJMRk5L0pSCv9uSCWp,0.916,0.408,0.228,8.17e-05,0.244,-10.075,0.041,114.814,0.288,9
+312,Mn Asmaa Allah Al Hosna,19,1Laww7Fjoqo216x7TswfZ2,Al Baqi,spotify:track:1Laww7Fjoqo216x7TswfZ2,0.829,0.378,0.272,0,0.231,-7.133,0.0362,91.651,0.358,9
+313,Mn Asmaa Allah Al Hosna,20,3GGVCOG1e9qdkz7TkLc47h,Al Sabour,spotify:track:3GGVCOG1e9qdkz7TkLc47h,0.764,0.319,0.365,0,0.0831,-8.042,0.0473,177.115,0.417,9
+314,Ahla W Ahla,1,2BMdVYe6k5IjNpZc790g4M,Rasmaha,spotify:track:2BMdVYe6k5IjNpZc790g4M,0.154,0.628,0.882,7.64e-05,0.325,-5.615,0.16,198.842,0.771,30
+315,Ahla W Ahla,2,2FxWPDd23X6vgWhEgezHcf,Ahla W Ahla,spotify:track:2FxWPDd23X6vgWhEgezHcf,0.111,0.673,0.743,2.93e-05,0.038,-6.09,0.0272,105.455,0.8,30
+316,Ahla W Ahla,3,4aFXqrd5qmJsli38ldN04N,Maak Alby,spotify:track:4aFXqrd5qmJsli38ldN04N,0.723,0.411,0.368,0,0.106,-11.068,0.0371,129.355,0.322,39
+317,Ahla W Ahla,4,0MrYfkRHpSzxIfgQldu3k6,Amentak,spotify:track:0MrYfkRHpSzxIfgQldu3k6,0.551,0.587,0.687,0.000276,0.0553,-7.625,0.0647,191.716,0.626,26
+318,Ahla W Ahla,5,3ZkLiD4Lsqr83yHGHKfVEJ,La La,spotify:track:3ZkLiD4Lsqr83yHGHKfVEJ,0.0517,0.654,0.85,0.00721,0.116,-6.979,0.0466,139.95,0.796,33
+319,Ahla W Ahla,6,4yq1bJmhSCLCcWlZqVxTc9,Aks Baad,spotify:track:4yq1bJmhSCLCcWlZqVxTc9,0.341,0.56,0.576,0,0.0796,-6.765,0.0292,143.898,0.28,30
+320,Ahla W Ahla,7,51NdKV9btXK4ZULMEzT5KG,Habibty,spotify:track:51NdKV9btXK4ZULMEzT5KG,0.337,0.75,0.804,0.00724,0.0507,-7.964,0.0354,126.818,0.925,25
+321,Ahla W Ahla,8,0mpkns1PV7z7iPFyTfYvFE,Waadtak,spotify:track:0mpkns1PV7z7iPFyTfYvFE,0.611,0.63,0.911,0.00073,0.0978,-6.322,0.117,193.113,0.851,29
+322,Ahla W Ahla,9,2oKbg2MSHXn4L12WY6q3Xr,Ragea,spotify:track:2oKbg2MSHXn4L12WY6q3Xr,0.28,0.737,0.488,0,0.0863,-8.788,0.0344,146.055,0.68,40
+323,Ahla W Ahla,10,51gQZa8nqcMjK5GqltmfZ9,Ala Hobak,spotify:track:51gQZa8nqcMjK5GqltmfZ9,0.522,0.738,0.747,0.00239,0.137,-8.505,0.03,104.222,0.738,29
+324,Ahla W Ahla,11,187dnTpBnGSWK2eszCPVfH,Ana W Enta,spotify:track:187dnTpBnGSWK2eszCPVfH,0.733,0.6,0.458,0,0.303,-7.692,0.0335,121.538,0.333,31
+325,Ahla W Ahla,12,1C1QcOk6beFICQwQIHu1Ge,Omrena Ma Hanergea,spotify:track:1C1QcOk6beFICQwQIHu1Ge,0.0612,0.657,0.916,0.00432,0.274,-7.136,0.0485,135.013,0.849,26
+326,أحلى ما غنى عمرو دياب,1,2nDrsRHXfr0vISqLuUrZG3,عايش معاك,spotify:track:2nDrsRHXfr0vISqLuUrZG3,0.102,0.754,0.708,9.96e-05,0.0502,-8.874,0.048,134.764,0.957,21
+327,أحلى ما غنى عمرو دياب,2,6KfjupPn6gnfaYPFmiud8k,مش كل واحد,spotify:track:6KfjupPn6gnfaYPFmiud8k,0.336,0.628,0.547,5.63e-06,0.0922,-7.398,0.0359,81.045,0.256,22
+328,أحلى ما غنى عمرو دياب,3,06kkNpDhfgVLSkZS4d6AnB,رضيت,spotify:track:06kkNpDhfgVLSkZS4d6AnB,0.0237,0.677,0.853,0,0.0793,-8.115,0.0355,132.752,0.938,17
+329,أحلى ما غنى عمرو دياب,4,4smgNjgaANRjvkZtMp5T2o,وهي ذكريات,spotify:track:4smgNjgaANRjvkZtMp5T2o,0.59,0.526,0.492,1.4e-05,0.109,-9.543,0.0457,153.576,0.224,25
+330,أحلى ما غنى عمرو دياب,5,1ebH9t405kfdhWnoM2movK,يهمك في إيه,spotify:track:1ebH9t405kfdhWnoM2movK,0.188,0.539,0.555,1.03e-06,0.0935,-8.243,0.0309,145.172,0.481,22
+331,أحلى ما غنى عمرو دياب,6,7wANtPswMKhwJBvTFCkTAX,مقدرش أنا,spotify:track:7wANtPswMKhwJBvTFCkTAX,0.302,0.777,0.862,0.000409,0.0541,-5.841,0.0361,133.08,0.971,21
+332,أحلى ما غنى عمرو دياب,7,5AL0dO5nefiuholwX4tJTX,جماله,spotify:track:5AL0dO5nefiuholwX4tJTX,0.261,0.699,0.937,0.0194,0.0563,-5.682,0.055,105.522,0.941,20
+333,أحلى ما غنى عمرو دياب,8,0RJU2vX2gg16xByYoMiNPd,انا مش اناني,spotify:track:0RJU2vX2gg16xByYoMiNPd,0.231,0.56,0.862,0.0372,0.164,-6.883,0.0363,157.234,0.764,21
+334,أحلى ما غنى عمرو دياب,9,3UF1hJEPVPg8rvHtP355eM,قصاد عيني,spotify:track:3UF1hJEPVPg8rvHtP355eM,0.437,0.656,0.491,1.68e-05,0.364,-9.647,0.0417,77.922,0.444,26
+335,أحلى ما غنى عمرو دياب,10,4U3X7qsbSqvscPbCnRhRiH,ايوا اتغيرت,spotify:track:4U3X7qsbSqvscPbCnRhRiH,0.254,0.724,0.802,0.000772,0.355,-5.872,0.0339,127.623,0.771,18
+336,أحلى ما غنى عمرو دياب,11,3khactnaFEawFJu5rFWgHT,وماله,spotify:track:3khactnaFEawFJu5rFWgHT,0.358,0.645,0.644,2.55e-06,0.0862,-7.904,0.0399,144.675,0.507,22
+337,أحلى ما غنى عمرو دياب,12,6w1ydqTHL0t1KOQlT19yj2,يا حب دوبنا,spotify:track:6w1ydqTHL0t1KOQlT19yj2,0.155,0.617,0.885,0.00423,0.249,-6.402,0.0384,143.134,0.885,17
+338,أحلى ما غنى عمرو دياب,13,4pB7u463FiEnGDIsipEpBG,ساعة الفراق,spotify:track:4pB7u463FiEnGDIsipEpBG,0.768,0.478,0.504,0.000903,0.128,-7.866,0.034,135.628,0.143,19
+339,أحلى ما غنى عمرو دياب,14,30eVS36D2HiYWDX3SNBjoE,وحشتينى,spotify:track:30eVS36D2HiYWDX3SNBjoE,0.172,0.639,0.643,0,0.0658,-9.513,0.0407,76.258,0.569,21
+340,أحلى ما غنى عمرو دياب,15,63nmy601K3kyNahwRd4MqV,سبت فراغ كبير,spotify:track:63nmy601K3kyNahwRd4MqV,0.169,0.558,0.677,0,0.198,-6.711,0.0274,131.439,0.422,25
+341,أحلى ما غنى عمرو دياب,16,1bp3HigQpAnNozK8CGttDj,يوم ما إتقابلنا,spotify:track:1bp3HigQpAnNozK8CGttDj,0.361,0.447,0.73,7.88e-05,0.179,-7.31,0.0448,71.926,0.643,18
+342,Ya Tareeq,1,2IWmhbZfkMyawzIkUVJ55D,Ya Tareeq Ya Tareeq,spotify:track:2IWmhbZfkMyawzIkUVJ55D,0.515,0.574,0.793,0.0192,0.067,-7.703,0.0856,81.539,0.672,7
+343,Ya Tareeq,2,3OI6c9p4wNbn0rMOtFtXZJ,El Madeena,spotify:track:3OI6c9p4wNbn0rMOtFtXZJ,0.0349,0.276,0.496,0.00215,0.328,-8.33,0.0301,107.348,0.427,6
+344,Ya Tareeq,3,5L6jU1Yrlu231JaRAPmOcK,Bheb El Hayah,spotify:track:5L6jU1Yrlu231JaRAPmOcK,0.621,0.51,0.711,0.198,0.0899,-8.955,0.0555,127.076,0.692,7
+345,Ya Tareeq,4,1UcxELyKTlvPCehSHPOGZ7,El Zaman,spotify:track:1UcxELyKTlvPCehSHPOGZ7,0.348,0.436,0.539,1.08e-06,0.0982,-7.915,0.0291,96.126,0.345,6
+346,Ya Tareeq,5,5OMITWxsMGHnc4EsYHoWSk,Nawar Ya Leyl,spotify:track:5OMITWxsMGHnc4EsYHoWSk,0.336,0.68,0.831,0.00158,0.0477,-7.851,0.0474,145.653,0.974,6
+347,Ya Tareeq,6,29S5ZGmuXDRs53yadsXedF,Wa't We Eshnah,spotify:track:29S5ZGmuXDRs53yadsXedF,0.566,0.373,0.461,1.62e-06,0.165,-7.996,0.0278,91.751,0.248,5
+348,Ya Tareeq,7,5Yab1rwK1tfxLzmZHhUjKC,Ahla Donia,spotify:track:5Yab1rwK1tfxLzmZHhUjKC,0.621,0.424,0.583,0.000196,0.242,-9.895,0.0599,125.22,0.582,4
+349,Ya Tareeq,8,07rkCrNQss35smXZ8P9dNW,Ahdan El Gabal,spotify:track:07rkCrNQss35smXZ8P9dNW,0.831,0.131,0.402,0.0158,0.438,-9.458,0.035,75.005,0.221,5
+350,Shoft El Ayam,1,3G4eOUJ9CdbRGp6scP0FnP,Shoft El Ayam,spotify:track:3G4eOUJ9CdbRGp6scP0FnP,0.0764,0.584,0.786,0.000349,0.124,-5.926,0.0309,128.637,0.651,22
+351,Shoft El Ayam,2,4NpyEQIHnt2nc274qPeVlP,Gamalo,spotify:track:4NpyEQIHnt2nc274qPeVlP,0.261,0.699,0.937,0.0194,0.0563,-5.682,0.055,105.522,0.941,23
+352,Shoft El Ayam,3,1vzJTCjnpdqalPqDeIuafP,We Hatebtady,spotify:track:1vzJTCjnpdqalPqDeIuafP,0.103,0.604,0.953,0.012,0.0645,-6.141,0.0455,142.061,0.955,20
+353,Shoft El Ayam,4,7EKlXkBvIJmnL4FMSynKu9,Ana Mosh Anani,spotify:track:7EKlXkBvIJmnL4FMSynKu9,0.231,0.56,0.862,0.0372,0.164,-6.883,0.0363,157.234,0.764,24
+354,Shoft El Ayam,5,3HVXmF0r1vpdXsueKTkrwA,We Neesh,spotify:track:3HVXmF0r1vpdXsueKTkrwA,0.0321,0.636,0.868,1.42e-05,0.1,-6.053,0.034,127.88,0.864,15
+355,Shoft El Ayam,6,7rOtJk6m3mAIfK4f4yr5rV,Mosh Gedid,spotify:track:7rOtJk6m3mAIfK4f4yr5rV,0.0579,0.596,0.942,0.00964,0.264,-5.992,0.0666,132.737,0.933,16
+356,Shoft El Ayam,7,2ODAJ6jycYr1hfNFS4sE9f,Saet El Forak,spotify:track:2ODAJ6jycYr1hfNFS4sE9f,0.768,0.478,0.504,0.000903,0.128,-7.866,0.034,135.628,0.143,23
+357,Shoft El Ayam,8,7mTU3S1kgeawkiHCUqkCjr,Jana,spotify:track:7mTU3S1kgeawkiHCUqkCjr,0.128,0.658,0.852,0.00075,0.0375,-6.61,0.0664,105.236,0.716,17
+358,Shoft El Ayam,9,2DNA95JHntPwFjiR33BzMF,Kan Kol Haga,spotify:track:2DNA95JHntPwFjiR33BzMF,0.103,0.712,0.817,0.00415,0.362,-6.174,0.0399,128.645,0.943,22
+359,Shoft El Ayam,10,3KYm3bAa03eQqTDQfW7wSz,Aiwa Etghaiart,spotify:track:3KYm3bAa03eQqTDQfW7wSz,0.254,0.724,0.802,0.000772,0.355,-5.872,0.0339,127.623,0.771,21
+360,Shoft El Ayam,11,7cO2iUoHRDApMFCnuEfeK8,Aho Leli We Adda,spotify:track:7cO2iUoHRDApMFCnuEfeK8,0.104,0.63,0.942,0.0122,0.161,-5.523,0.0365,126.58,0.87,16
+361,Banadeek Ta'ala,1,2imrmRR1GwsogVYhG6rgyh,Banadeek Ta'ala,spotify:track:2imrmRR1GwsogVYhG6rgyh,0.00421,0.653,0.884,0,0.0571,-4.893,0.0497,128.3,0.926,26
+362,Banadeek Ta'ala,2,3dgFDqiqTcZ8SpI6gtbNiB,Halla Halla,spotify:track:3dgFDqiqTcZ8SpI6gtbNiB,0.0989,0.762,0.864,0.000102,0.0871,-5.892,0.114,94.808,0.854,16
+363,Banadeek Ta'ala,3,18gw5vPY2Jj81lwhncO7VV,Ma'drrsh Ana,spotify:track:18gw5vPY2Jj81lwhncO7VV,0.302,0.777,0.862,0.000409,0.0541,-5.841,0.0361,133.08,0.971,21
+364,Banadeek Ta'ala,4,0bG85Jv0FwrXLSlwjvLEgi,Allumak Leh,spotify:track:0bG85Jv0FwrXLSlwjvLEgi,0.228,0.699,0.74,1.08e-05,0.102,-6.977,0.0321,126.987,0.827,19
+365,Banadeek Ta'ala,5,1uxVmXQ1yTAYWzUn3LK33e,Ma'ak Bartaah,spotify:track:1uxVmXQ1yTAYWzUn3LK33e,0.0222,0.569,0.84,0.42,0.339,-7.632,0.0337,129.022,0.458,29
+366,Banadeek Ta'ala,6,1HfJlqw4Ku7nqEfOM6qaEe,Yareet Senk,spotify:track:1HfJlqw4Ku7nqEfOM6qaEe,0.0256,0.632,0.747,0.0103,0.0693,-6.726,0.0468,169.937,0.964,14
+367,Banadeek Ta'ala,7,3K46OxiPFyG91NgBQ1K1xl,Mally Einaya,spotify:track:3K46OxiPFyG91NgBQ1K1xl,0.106,0.679,0.924,0.222,0.299,-3.247,0.0296,136.204,0.963,16
+368,Banadeek Ta'ala,8,6nD2KLPhYF6U2UD31WVhCi,Heya Hayaty,spotify:track:6nD2KLPhYF6U2UD31WVhCi,0.212,0.691,0.772,0.106,0.121,-8.048,0.0537,131.051,0.81,21
+369,Banadeek Ta'ala,9,1sCpF7rk0A5twKRHLaOxsM,Youm Mat'belna,spotify:track:1sCpF7rk0A5twKRHLaOxsM,0.361,0.447,0.73,7.88e-05,0.179,-7.31,0.0448,71.926,0.643,22
+370,Banadeek Ta'ala,10,74xMp72IHy2d40xUMqjY2p,Aghla Min Omry,spotify:track:74xMp72IHy2d40xUMqjY2p,0.068,0.707,0.903,0.00144,0.0769,-6.061,0.0348,128.472,0.898,18
+371,Banadeek Ta'ala,11,3COQBeZNFTIPh7Fzl65OSI,Aref Habiby,spotify:track:3COQBeZNFTIPh7Fzl65OSI,0.32,0.702,0.728,0.00145,0.111,-7.584,0.028,127.376,0.76,18
+372,Banadeek Ta'ala,12,7yaSoNLmQgkehrr7xnA3wi,Tagroba Wa Addet,spotify:track:7yaSoNLmQgkehrr7xnA3wi,0.018,0.713,0.964,0.00185,0.0692,-4.844,0.0348,131.443,0.924,20
+373,Wayah,1,7CiGdjCsXTCwDDVKiisPoE,Wayah,spotify:track:7CiGdjCsXTCwDDVKiisPoE,0.0236,0.747,0.618,8.46e-05,0.103,-9.383,0.0655,126.081,0.468,39
+374,Wayah,2,7AC2Scx8xISzQa21qCPRZ3,Ba'adem Alby,spotify:track:7AC2Scx8xISzQa21qCPRZ3,0.144,0.686,0.72,2.67e-06,0.198,-7.94,0.0347,153.353,0.96,20
+375,Wayah,3,0OfSEWTCjeKvGgGP5k5KQ8,Illa Habibi,spotify:track:0OfSEWTCjeKvGgGP5k5KQ8,0.337,0.679,0.777,6.04e-06,0.182,-8.326,0.0311,141.309,0.973,42
+376,Wayah,4,5904UzO3M6mRPWz7GKPWTR,Allah Ala Hobak,spotify:track:5904UzO3M6mRPWz7GKPWTR,0.0124,0.72,0.64,0.0104,0.0825,-10.124,0.053,131.13,0.626,24
+377,Wayah,5,3moYJczpMd7JrmNss8RzEZ,Yehemak Fe Eh,spotify:track:3moYJczpMd7JrmNss8RzEZ,0.207,0.54,0.546,0,0.0938,-8.236,0.0302,145.062,0.506,28
+378,Wayah,6,6cEmHsPgZsWJvk9ftCjIHQ,Helwa El Ayam,spotify:track:6cEmHsPgZsWJvk9ftCjIHQ,0.169,0.611,0.67,0,0.0793,-7.298,0.06,102.524,0.671,22
+379,Wayah,7,5Swsxe7Co4YDfHgT10tsWF,Tameny,spotify:track:5Swsxe7Co4YDfHgT10tsWF,0.218,0.851,0.676,5.28e-05,0.251,-8.565,0.0752,110.658,0.968,21
+380,Wayah,8,4SyFd0aH1Pp5iCsQpFV8Yp,Malak,spotify:track:4SyFd0aH1Pp5iCsQpFV8Yp,0.129,0.638,0.784,0.00976,0.373,-7.981,0.0374,134.772,0.896,21
+381,Wayah,9,00F5TE2BdxeLbAV9kEsjrd,Wehyati Khaliki,spotify:track:00F5TE2BdxeLbAV9kEsjrd,0.352,0.741,0.583,0.000233,0.116,-11.745,0.0482,137.116,0.251,21
+382,Wayah,10,3gUzjr6zOlv8Veovwk40Uk,Einy Wana Shayfo,spotify:track:3gUzjr6zOlv8Veovwk40Uk,0.00398,0.653,0.751,2.23e-06,0.069,-8.794,0.0409,130.817,0.692,25
+383,Wayah,11,1dLtd0hi8Pd9cC0NY23bWD,Ah Min El Foraa,spotify:track:1dLtd0hi8Pd9cC0NY23bWD,0.129,0.687,0.739,0.661,0.0556,-8.48,0.0372,132.728,0.966,20
+384,Wayah,12,6tLkwvWTkuMxYoemVFqJgE,Ba'et Leh,spotify:track:6tLkwvWTkuMxYoemVFqJgE,0.155,0.668,0.715,0,0.172,-9.27,0.0317,150.903,0.848,19
+385,El Lilady (Tonight),1,1To68XtzPhfnJzUeZuThtj,Ne'oul Aih,spotify:track:1To68XtzPhfnJzUeZuThtj,0.012,0.737,0.866,0.000581,0.0844,-5.605,0.0389,128.756,0.931,35
+386,El Lilady (Tonight),2,1lzySEYOfUqb6Bfy76281O,El Lilady,spotify:track:1lzySEYOfUqb6Bfy76281O,0.276,0.806,0.644,0,0.166,-5.44,0.0397,118.25,0.732,28
+387,El Lilady (Tonight),3,4sqnT8cpQub8kv2mg30YIJ,Toul Ma'an Shaifak,spotify:track:4sqnT8cpQub8kv2mg30YIJ,0.094,0.682,0.8,0.000173,0.285,-6.763,0.0364,134.769,0.908,19
+388,El Lilady (Tonight),4,0aCuU7FbDRNqgXKc7VbhHZ,Hikayat,spotify:track:0aCuU7FbDRNqgXKc7VbhHZ,0.434,0.555,0.707,1.91e-05,0.0667,-7.207,0.0365,161.388,0.739,18
+389,El Lilady (Tonight),5,7sNoXDYXsvNaByysvDh5ad,Inta El Ghaly,spotify:track:7sNoXDYXsvNaByysvDh5ad,0.0843,0.841,0.7,0.000583,0.0346,-7.57,0.0737,110.321,0.683,30
+390,El Lilady (Tonight),6,52VCejoxzbU2lUtYigIZOg,Rohy Mertahalak,spotify:track:52VCejoxzbU2lUtYigIZOg,0.478,0.747,0.791,0.00195,0.0742,-6.567,0.0547,99.588,0.961,24
+391,El Lilady (Tonight),7,6hI6crgWZLlwINWV4IVEi0,Aletly Oul,spotify:track:6hI6crgWZLlwINWV4IVEi0,0.128,0.722,0.789,0.000111,0.349,-5.542,0.037,131.51,0.838,19
+392,El Lilady (Tonight),8,3Aq5U01Y2MB2KnZs3aG8Nv,We Fehmt Einak,spotify:track:3Aq5U01Y2MB2KnZs3aG8Nv,0.176,0.708,0.682,1.91e-05,0.0925,-8.095,0.0257,121.707,0.734,16
+393,El Lilady (Tonight),9,7rUhmCfqWKxhuqIapyCgA7,Dehket,spotify:track:7rUhmCfqWKxhuqIapyCgA7,0.242,0.712,0.823,0.000271,0.292,-6.334,0.0301,136.761,0.873,24
+394,El Lilady (Tonight),10,1U1vX8SfyTjOuiZWzHu4q1,Khalik Ma'aya,spotify:track:1U1vX8SfyTjOuiZWzHu4q1,0.18,0.592,0.732,0,0.111,-7.44,0.0312,77.874,0.551,30
+395,Kammel Kalamak,1,7DQjoshJYTYgxOrQ09ZU9x,Kammel Kalamak,spotify:track:7DQjoshJYTYgxOrQ09ZU9x,0.00104,0.653,0.751,0.00231,0.102,-9.004,0.0568,104.991,0.787,18
+396,Kammel Kalamak,2,6f2aBgk2JOljih6vXhFpjh,We Maloh,spotify:track:6f2aBgk2JOljih6vXhFpjh,0.358,0.645,0.644,2.55e-06,0.0862,-7.904,0.0399,144.675,0.507,33
+397,Kammel Kalamak,3,4fJg2drcRWryUQbLJxlxig,Hkaytak Eih,spotify:track:4fJg2drcRWryUQbLJxlxig,0.197,0.676,0.839,0.000499,0.0495,-6.585,0.0336,139.018,0.964,26
+398,Kammel Kalamak,4,73wy5BlS2ngmSSGV8JBcdn,Ayyam We Ben'eshha,spotify:track:73wy5BlS2ngmSSGV8JBcdn,0.0618,0.636,0.852,0.000108,0.0691,-8.379,0.0424,148.014,0.951,21
+399,Kammel Kalamak,5,5lPO3tQg0RFQ88J8BvQFFY,Allah La Yehremmy Minak,spotify:track:5lPO3tQg0RFQ88J8BvQFFY,0.0119,0.681,0.779,1.49e-06,0.277,-8.742,0.0423,100.011,0.886,27
+400,Kammel Kalamak,6,4cxM4H6SP6YQw2FX4EOXUC,Odam Oyoonak,spotify:track:4cxM4H6SP6YQw2FX4EOXUC,0.332,0.593,0.865,2.02e-05,0.382,-8.336,0.0379,92.976,0.816,18
+401,Kammel Kalamak,7,3sPGxt5DITcWIpYMZtXpyt,Ma'ak Bgad,spotify:track:3sPGxt5DITcWIpYMZtXpyt,0.164,0.691,0.853,0.27,0.0397,-8.621,0.0337,132.01,0.885,19
+402,Kammel Kalamak,8,6x2ZrTT6nfSMQHZwBQWipM,Away Ana A'ref,spotify:track:6x2ZrTT6nfSMQHZwBQWipM,0.701,0.873,0.515,1.96e-05,0.213,-9.891,0.0418,120.017,0.7,16
+403,Kammel Kalamak,9,2F32wMdvWUKkLM4CGMzkIA,Bethaby Leih,spotify:track:2F32wMdvWUKkLM4CGMzkIA,0.0915,0.754,0.838,1.81e-05,0.0965,-8.558,0.0682,102.0,0.625,17
+404,Kammel Kalamak,10,4Bv7gkEvLPOCJYk7B3It9s,Agheeb,spotify:track:4Bv7gkEvLPOCJYk7B3It9s,0.268,0.749,0.607,3.61e-05,0.407,-9.623,0.0304,115.98,0.436,23
+405,أحلى ما غنى عمرو دياب,6,6upIR0Pr0OFiGxucJ9Dm7G,نور العين,spotify:track:6upIR0Pr0OFiGxucJ9Dm7G,0.246,0.752,0.805,3.89e-06,0.0622,-7.737,0.0787,99.99,0.745,22
+406,أحلى ما غنى عمرو دياب,8,1v4czbOS2uT0R35PXFJD5k,إليوس مع انجيلا,spotify:track:1v4czbOS2uT0R35PXFJD5k,0.423,0.668,0.679,0,0.357,-7.071,0.0328,133.998,0.503,16
+407,أحلى ما غنى عمرو دياب,9,7MdRk6yghR9vz10lalLi1w,مهما كبرت,spotify:track:7MdRk6yghR9vz10lalLi1w,0.757,0.68,0.508,0,0.113,-9.614,0.0365,140.236,0.366,19
+408,أحلى ما غنى عمرو دياب,12,534u3zvHacLt9jtfihNwGX,قلبى إختارك,spotify:track:534u3zvHacLt9jtfihNwGX,0.503,0.754,0.618,1.81e-05,0.1,-8.494,0.0272,114.908,0.776,20
+409,علم قلبى,1,64YdFIZAL6wkIc054TiXp5,علم قلبى,spotify:track:64YdFIZAL6wkIc054TiXp5,0.0314,0.725,0.676,0,0.132,-8.211,0.0461,92.278,0.723,29
+410,علم قلبى,2,0dCDNlZIJENBbRCVXVny7d,أنا عايش,spotify:track:0dCDNlZIJENBbRCVXVny7d,0.625,0.678,0.665,6.25e-05,0.0706,-6.317,0.134,83.223,0.854,34
+411,علم قلبى,3,0dVuTFF29LqTatzfwoIwp6,قالى الوداع,spotify:track:0dVuTFF29LqTatzfwoIwp6,0.0725,0.685,0.557,0.00616,0.0871,-8.449,0.0487,85.253,0.651,28
+412,علم قلبى,4,0UQDcztRBh8uso9A7AlnXF,يا كنزى,spotify:track:0UQDcztRBh8uso9A7AlnXF,0.0384,0.752,0.632,0.00179,0.125,-7.894,0.0785,92.251,0.718,21
+413,علم قلبى,5,2OTxhOuz8c1s7um0tgumox,تقدر تتكلم,spotify:track:2OTxhOuz8c1s7um0tgumox,0.137,0.692,0.745,0.00238,0.0894,-10.589,0.0383,148.416,0.809,29
+414,علم قلبى,6,7kgZuz7clQLgtXO5QlsGNM,لو عشقانى,spotify:track:7kgZuz7clQLgtXO5QlsGNM,0.197,0.796,0.668,0,0.0936,-8.808,0.046,110.349,0.678,24
+415,علم قلبى,7,5SOe8x6kiBlFcBS2EUNewo,علمنى هواك,spotify:track:5SOe8x6kiBlFcBS2EUNewo,0.174,0.806,0.474,0.215,0.121,-10.846,0.0814,93.274,0.504,25
+416,علم قلبى,8,2cAkNObsWtAjiEs8HlNIqH,حببيى يا عمرى,spotify:track:2cAkNObsWtAjiEs8HlNIqH,0.0536,0.338,0.431,0.000615,0.211,-10.239,0.0484,83.652,0.227,27
+417,علم قلبى,9,00fVOsnF3xy1hc0u7InEgq,إنت ما قولتش ليه,spotify:track:00fVOsnF3xy1hc0u7InEgq,0.00889,0.719,0.9,0.000142,0.369,-7.915,0.052,108.349,0.454,23
+418,علم قلبى,10,129Jn4opU6SGLegyKuz4bL,حنيت,spotify:track:129Jn4opU6SGLegyKuz4bL,0.658,0.726,0.612,0.153,0.365,-11.174,0.0785,98.275,0.547,22
+419,علم قلبى,11,7i0t4w5052hhai9AjioHAv,كلهم,spotify:track:7i0t4w5052hhai9AjioHAv,0.0688,0.647,0.805,0.00638,0.304,-8.288,0.0445,130.397,0.961,23
+420,علم قلبى,12,3G8KOPoJaxcpyXrx324e7F,خلينى جنبك,spotify:track:3G8KOPoJaxcpyXrx324e7F,0.0531,0.547,0.673,0.00101,0.0617,-8.856,0.176,88.218,0.127,24
+421,علم قلبى,13,3scrMXNctsv72ejBLRsM4n,علم قلبى ريمكس,spotify:track:3scrMXNctsv72ejBLRsM4n,0.00119,0.691,0.695,0.00682,0.0877,-10.59,0.0612,92.015,0.297,16
+422,أكتر واحد,1,3Myno7mzYuIaNrOGPlIheQ,ولا على باله,spotify:track:3Myno7mzYuIaNrOGPlIheQ,0.155,0.758,0.805,0.0184,0.113,-7.98,0.0376,116.966,0.331,37
+423,أكتر واحد,2,5d0PC29PLRZqem6ZvjXkg2,أكتر واحد,spotify:track:5d0PC29PLRZqem6ZvjXkg2,0.0596,0.695,0.96,0.000711,0.0603,-6.93,0.0477,107.917,0.519,33
+424,أكتر واحد,3,0wp1CXcc6zoTGt09exCO9t,كان طيب,spotify:track:0wp1CXcc6zoTGt09exCO9t,0.185,0.708,0.862,0.00129,0.0654,-7.305,0.0338,127.864,0.961,26
+425,أكتر واحد,4,4K7FIcGEC85tziKhg48aBm,بعد الليالى,spotify:track:4K7FIcGEC85tziKhg48aBm,0.0994,0.663,0.739,5.18e-05,0.0558,-8.803,0.038,89.942,0.62,30
+426,أكتر واحد,5,6FztXlnzRvHDbrwZNkev9Y,قلت إيه,spotify:track:6FztXlnzRvHDbrwZNkev9Y,0.0814,0.851,0.525,8.13e-06,0.0562,-8.876,0.0345,115.893,0.764,24
+427,أكتر واحد,6,5JvTzecqTOUvPHen19aFt5,ولا ليله,spotify:track:5JvTzecqTOUvPHen19aFt5,0.108,0.746,0.881,1.44e-05,0.108,-6.474,0.052,109.932,0.903,19
+428,أكتر واحد,7,38zjiMApyBeQw0QFHfRj2R,أدينى رجعتلك,spotify:track:38zjiMApyBeQw0QFHfRj2R,0.27,0.613,0.884,0,0.0607,-7.842,0.0466,179.877,0.679,25
+429,أكتر واحد,8,1Ca9EpXKb3YhcB1l82oDhz,صدقنى خلاص,spotify:track:1Ca9EpXKb3YhcB1l82oDhz,0.257,0.572,0.463,0,0.155,-8.172,0.025,71.983,0.325,30
+430,أكتر واحد,9,4Hk1KEIxPTidIsz4OshQ6O,أحبك أكرهك,spotify:track:4Hk1KEIxPTidIsz4OshQ6O,0.0204,0.734,0.811,1.26e-05,0.063,-7.624,0.0513,164.028,0.946,20
+431,أكتر واحد,10,1367ZTVL5WmEQf4jviYm40,ياحبيبى لا,spotify:track:1367ZTVL5WmEQf4jviYm40,0.19,0.637,0.711,0,0.114,-8.713,0.0326,82.937,0.689,27
+432,تملى معاك,1,0iHyLzEeCcu19aEC2M3o5M,العالم الله,spotify:track:0iHyLzEeCcu19aEC2M3o5M,0.125,0.721,0.799,4.62e-05,0.366,-7.998,0.0392,107.886,0.771,46
+433,تملى معاك,2,6TYFcqqQVQPb3YsgfRhvqs,تملى معاك,spotify:track:6TYFcqqQVQPb3YsgfRhvqs,0.121,0.623,0.781,2.77e-05,0.101,-9.651,0.0373,167.874,0.346,53
+434,تملى معاك,3,0Bu6NNsRKZR7a8pwrYVjWF,كده عينى عينك,spotify:track:0Bu6NNsRKZR7a8pwrYVjWF,0.295,0.739,0.82,0.00814,0.0478,-9.212,0.0331,127.839,0.965,33
+435,تملى معاك,4,4hAfq4rgNhCBBLbHIQXGfX,وهى عامله إيه,spotify:track:4hAfq4rgNhCBBLbHIQXGfX,0.634,0.704,0.733,2.66e-05,0.226,-8.27,0.0368,149.92,0.785,34
+436,تملى معاك,5,1u6ePI05DWTGlVTu0SIFIk,سنين,spotify:track:1u6ePI05DWTGlVTu0SIFIk,0.0561,0.692,0.77,3.64e-05,0.227,-8.924,0.0475,101.877,0.411,29
+437,تملى معاك,6,69mTJOksbGpHsylQ5Vburn,أعمل إيه,spotify:track:69mTJOksbGpHsylQ5Vburn,0.471,0.697,0.844,0.00262,0.0877,-9.794,0.0452,147.819,0.753,29
+438,تملى معاك,7,0W1hHxJIZqtPDajzDBDInO,لو كان يرضيك,spotify:track:0W1hHxJIZqtPDajzDBDInO,0.468,0.682,0.661,1.86e-05,0.274,-8.646,0.0368,89.942,0.754,29
+439,تملى معاك,8,3Qh2xcleGnc1ESFYUhCNK0,بعترف,spotify:track:3Qh2xcleGnc1ESFYUhCNK0,0.65,0.564,0.472,8.56e-06,0.104,-10.014,0.0333,131.823,0.068,29
+440,تملى معاك,9,7pqmDQxsJBouUVjkZT1u3m,قلبى اختارك,spotify:track:7pqmDQxsJBouUVjkZT1u3m,0.44,0.75,0.644,2.32e-05,0.0896,-8.063,0.0266,114.893,0.74,27
+441,تملى معاك,10,3X6Nog2CmG9ZgNIJpxzVOM,صعبان عليا,spotify:track:3X6Nog2CmG9ZgNIJpxzVOM,0.447,0.766,0.64,6.96e-06,0.0536,-9.314,0.0967,99.93,0.889,29
+442,قمرين,1,0WcFWvjYOAEFJn1LuvqX7F,قمرين,spotify:track:0WcFWvjYOAEFJn1LuvqX7F,0.604,0.716,0.709,0.000139,0.0868,-9.835,0.0605,99.9,0.926,42
+443,قمرين,2,2MWpt3VxROkj2rnw6YKbyK,أنا,spotify:track:2MWpt3VxROkj2rnw6YKbyK,0.00624,0.845,0.55,0.0002,0.0296,-12.505,0.13,87.922,0.668,31
+444,قمرين,3,0KBvzId54EcxXie2jiX73a,قلبى,spotify:track:0KBvzId54EcxXie2jiX73a,0.0684,0.646,0.912,0.000312,0.146,-6.035,0.035,93.997,0.944,32
+445,قمرين,4,2j2Df34I18dGe26EeQOvRe,بحبك أكتر,spotify:track:2j2Df34I18dGe26EeQOvRe,0.0675,0.857,0.749,0.00074,0.0576,-10.352,0.0378,120.992,0.881,32
+446,قمرين,5,6x6Ym1jvM9SGlJCg26Hn6E,بتوحشنى,spotify:track:6x6Ym1jvM9SGlJCg26Hn6E,0.229,0.806,0.648,4.74e-05,0.0774,-8.862,0.0327,130.638,0.933,31
+447,قمرين,6,7LRCNmATjS81c87NCNFyqy,ولسه بتحبه,spotify:track:7LRCNmATjS81c87NCNFyqy,0.419,0.727,0.617,0.0048,0.151,-12.685,0.0369,91.4,0.719,33
+448,قمرين,7,7DYa99MDxGMIFouOh8bHdi,خليك فاكرنى,spotify:track:7DYa99MDxGMIFouOh8bHdi,0.311,0.514,0.36,1.67e-06,0.34,-10.675,0.0324,144.963,0.276,33
+449,قمرين,8,1v8fkym83RD6kdudBfJVZM,حكاياتى,spotify:track:1v8fkym83RD6kdudBfJVZM,0.292,0.774,0.735,0.00234,0.347,-9.733,0.0343,126.982,0.906,32
+450,Awedouny,1,0XF5zzSWlG49jVH8pRq7pp,Awedouny,spotify:track:0XF5zzSWlG49jVH8pRq7pp,0.177,0.589,0.517,0,0.0772,-14.798,0.145,171.84,0.713,30
+451,Awedouny,2,7jLrONcGhNfJZHrI1WH3ES,Kol El Kalam,spotify:track:7jLrONcGhNfJZHrI1WH3ES,0.169,0.734,0.544,1.34e-05,0.0723,-14.287,0.0631,99.884,0.678,19
+452,Awedouny,3,0FbEgZzVRxIhbvIkK4LNQM,El Malak El Baree,spotify:track:0FbEgZzVRxIhbvIkK4LNQM,0.379,0.667,0.511,0.00301,0.134,-14.349,0.0511,183.908,0.867,20
+453,Awedouny,4,60z7bx2p87SvZshYlYhc6L,Enta Yally,spotify:track:60z7bx2p87SvZshYlYhc6L,0.0896,0.706,0.529,0.0442,0.262,-15.517,0.0351,129.865,0.924,16
+454,Awedouny,5,6VvE0Ho7JvyO6ForHH8phc,Ya Habiba,spotify:track:6VvE0Ho7JvyO6ForHH8phc,0.223,0.646,0.596,0,0.0567,-14.142,0.0497,171.911,0.85,15
+455,Awedouny,6,1ppjNVw09FKEoqnYXABLFb,Layaly El Omr,spotify:track:1ppjNVw09FKEoqnYXABLFb,0.101,0.782,0.52,0.053,0.0345,-14.525,0.0439,125.282,0.933,17
+456,Awedouny,7,4yoLFy33wdIwH8NA3GYfAM,Wi Ghalawtek,spotify:track:4yoLFy33wdIwH8NA3GYfAM,0.694,0.762,0.403,0.0555,0.11,-18.74,0.0414,100.788,0.751,18
+457,Awedouny,8,6KWSzeZU8ogpBJXH7zW8YM,Melk Eideik,spotify:track:6KWSzeZU8ogpBJXH7zW8YM,0.494,0.794,0.571,0.00345,0.115,-15.589,0.0346,118.97,0.895,18
+458,Mashy El Tarek,1,30EjWXE9bGctLZTWOQL630,Mashy El Tarek,spotify:track:30EjWXE9bGctLZTWOQL630,0.94,0.357,0.433,0.795,0.576,-12.909,0.0376,98.876,0.386,14
+459,Mashy El Tarek,2,7kVGUNE6KoYQVd7d8rCM4T,Ya Elah El Koun,spotify:track:7kVGUNE6KoYQVd7d8rCM4T,0.949,0.231,0.141,0.00508,0.107,-14.11,0.0362,105.678,0.0928,14
+460,Mashy El Tarek,3,6mgX6jyaIcdTUzLi6FXH2e,Zaka Eid,spotify:track:6mgX6jyaIcdTUzLi6FXH2e,0.893,0.212,0.357,0.00215,0.127,-10.028,0.0374,97.116,0.463,7
+461,Mashy El Tarek,4,50IqLtEuy7mVFdozhB7WVg,Beny We Ben Alby,spotify:track:50IqLtEuy7mVFdozhB7WVg,0.955,0.445,0.231,3.67e-06,0.34,-11.772,0.0408,123.274,0.536,7
+462,Mashy El Tarek,5,2NsWtsvs6KGvQhr1aBS8Qg,Asmr Ya Asmarany,spotify:track:2NsWtsvs6KGvQhr1aBS8Qg,0.968,0.345,0.24,0,0.174,-12.192,0.0368,138.642,0.407,19
+463,Mashy El Tarek,6,4z29FgCPCpccR3enxVmVGY,Nedaa El Mady,spotify:track:4z29FgCPCpccR3enxVmVGY,0.953,0.25,0.279,0.216,0.224,-11.202,0.036,100.286,0.465,5
+464,Mashy El Tarek,7,1o2vuHrNSzoF2VmE92W6sf,Bahlam Be Youm,spotify:track:1o2vuHrNSzoF2VmE92W6sf,0.822,0.198,0.287,0.0369,0.207,-10.568,0.038,64.913,0.337,6
+465,حلو وكداب,1,4xJkllxpl420wH4u7F1O4U,ربيع شاعر,spotify:track:4xJkllxpl420wH4u7F1O4U,0.962,0.31,0.195,0.00048,0.0753,-11.687,0.0361,130.235,0.112,4
+466,حلو وكداب,2,72Z8fBw3lXQjN7jkUfKQI0,ضحك و لعب,spotify:track:72Z8fBw3lXQjN7jkUfKQI0,0.897,0.489,0.273,0,0.373,-11.07,0.0499,126.228,0.592,8
+467,حلو وكداب,3,6va85hTZCPILJnKV8CQB2S,إللى إنشغلت عليه,spotify:track:6va85hTZCPILJnKV8CQB2S,0.988,0.414,0.271,6.97e-06,0.118,-11.636,0.0372,118.044,0.548,15
+468,حلو وكداب,4,7CWMY60HMt5j4Fm3YM3GR4,ربما,spotify:track:7CWMY60HMt5j4Fm3YM3GR4,0.986,0.292,0.186,0.0115,0.112,-12.972,0.0357,95.231,0.204,4
+469,حلو وكداب,5,2W1LwHBHiVv9W3U2ySGwpV,حلو وكداب,spotify:track:2W1LwHBHiVv9W3U2ySGwpV,0.987,0.291,0.267,0.0129,0.365,-11.698,0.0649,81.938,0.404,8
+470,حلو وكداب,6,3rY8QAzJtonRbyre9AmJx8,لقاء,spotify:track:3rY8QAzJtonRbyre9AmJx8,0.988,0.23,0.175,0.688,0.166,-14.87,0.0363,101.636,0.138,13
+471,عبد الحليم حافظ ومصر الجزء الأول,1,62DoY5MiVPp5cyNuXGLeIy,مقدمه الوطنيات,spotify:track:62DoY5MiVPp5cyNuXGLeIy,0.963,0.411,0.109,0.000671,0.567,-18.347,0.0599,109.666,0.284,3
+472,عبد الحليم حافظ ومصر الجزء الأول,2,5CgFKGB0byiFGPWT7mB7HW,ثورتنا المصرية,spotify:track:5CgFKGB0byiFGPWT7mB7HW,0.974,0.583,0.221,6.83e-05,0.588,-13.503,0.0654,81.143,0.699,3
+473,عبد الحليم حافظ ومصر الجزء الأول,3,7x8m7akuSE5LGqA62Iah3k,الله يا بلادنا,spotify:track:7x8m7akuSE5LGqA62Iah3k,0.945,0.468,0.217,4.22e-05,0.262,-14.289,0.0728,143.925,0.73,2
+474,عبد الحليم حافظ ومصر الجزء الأول,4,7Lfdhh76J8eXLYgFxAU6ii,الوطن الاكبر,spotify:track:7Lfdhh76J8eXLYgFxAU6ii,0.827,0.449,0.369,0.000231,0.25,-13.543,0.092,122.096,0.623,5
+475,عبد الحليم حافظ ومصر الجزء الأول,5,5h8ed0D4znKfReQSqpXEwl,ذات ليلة,spotify:track:5h8ed0D4znKfReQSqpXEwl,0.847,0.388,0.147,0,0.715,-16.438,0.144,84.81,0.358,2
+476,عبد الحليم حافظ ومصر الجزء الأول,6,24S6diEdmzaOOlFN6mi0gf,ذكريات,spotify:track:24S6diEdmzaOOlFN6mi0gf,0.818,0.498,0.227,0,0.775,-13.933,0.0491,115.849,0.371,2
+477,يا مالكاً قلبى,1,2TMBJ7zT8nDNqYvlQ07BiN,ياهلى ياهلى,spotify:track:2TMBJ7zT8nDNqYvlQ07BiN,0.939,0.361,0.361,5.83e-06,0.308,-9.825,0.0409,79.773,0.55,4
+478,يا مالكاً قلبى,2,1KWvkXQVnZUNzXh9TyLM5z,يا مالكاً قلبى,spotify:track:1KWvkXQVnZUNzXh9TyLM5z,0.898,0.266,0.509,0.138,0.618,-10.377,0.0426,109.118,0.185,8
+479,يا مالكاً قلبى,3,2Zfd6UciwcShzL8lUHJLXr,لست أدرى,spotify:track:2Zfd6UciwcShzL8lUHJLXr,0.9,0.3,0.213,7.67e-05,0.0825,-12.25,0.0351,106.914,0.223,6
+480,يا مالكاً قلبى,4,3eNckU5bHaPop44sFe5SpV,يا فرحة السمار,spotify:track:3eNckU5bHaPop44sFe5SpV,0.96,0.399,0.281,3.75e-06,0.329,-10.876,0.0408,136.214,0.47,2
+481,يا مالكاً قلبى,5,5zV9ZVHair8kNmqw28qgGp,كفاية نورك,spotify:track:5zV9ZVHair8kNmqw28qgGp,0.935,0.346,0.198,0,0.167,-12.99,0.0468,74.515,0.284,4
+482,على حسب وداد,1,2CarjPGUW0d2U7hCre5IGe,على حسب وداد حفلة,spotify:track:2CarjPGUW0d2U7hCre5IGe,0.866,0.392,0.423,8.66e-06,0.675,-12.457,0.0508,121.934,0.6,23
+483,على حسب وداد,2,5eRULLX2xIszp0Dgvh5WKU,التوبة حفلة,spotify:track:5eRULLX2xIszp0Dgvh5WKU,0.899,0.404,0.486,2.06e-06,0.869,-10.71,0.063,132.766,0.624,20
+484,على حسب وداد,3,2Nb3xLCne11dbzoCwpIYp3,ضى القناديل,spotify:track:2Nb3xLCne11dbzoCwpIYp3,0.759,0.353,0.281,0,0.525,-11.495,0.0379,114.313,0.429,7
+485,على حسب وداد,4,0GQWUeMUaFpqMNvSVcjMk3,الويل الويل حفلة,spotify:track:0GQWUeMUaFpqMNvSVcjMk3,0.608,0.328,0.378,0.000593,0.899,-10.44,0.0367,139.678,0.382,7
+486,على حسب وداد,5,5JxwUb9zRFAhPZYrbfAqqE,أعز الناس,spotify:track:5JxwUb9zRFAhPZYrbfAqqE,0.808,0.307,0.228,1.63e-06,0.132,-14.668,0.0349,100.528,0.358,16
+487,على حسب وداد,6,3oGI8e0LZvc4VUidwKwMZF,صدفة,spotify:track:3oGI8e0LZvc4VUidwKwMZF,0.989,0.529,0.276,0.00454,0.0674,-14.243,0.0506,125.532,0.72,7
+488,يا مركبى سيرى,1,3asHCkQEYqul7s26nnj3zJ,يا مركبى سيرى,spotify:track:3asHCkQEYqul7s26nnj3zJ,0.8,0.276,0.33,0.0016,0.0626,-11.842,0.0434,75.722,0.0732,0
+489,يا مركبى سيرى,2,2mDYWkhwEUB0Rbm90Glnm4,فيه ناس,spotify:track:2mDYWkhwEUB0Rbm90Glnm4,0.905,0.353,0.0947,0.00264,0.108,-16.303,0.0418,84.789,0.126,0
+490,يا مركبى سيرى,3,6CY2dcNozeuEdbKn4bG50g,والله ما أقول الأه,spotify:track:6CY2dcNozeuEdbKn4bG50g,0.953,0.296,0.108,0.0097,0.0935,-13.675,0.037,152.782,0.0869,0
+491,يا مركبى سيرى,4,4GrgnwpT1G3Rw6la5gQrqO,مين أنا تعبير,spotify:track:4GrgnwpT1G3Rw6la5gQrqO,0.71,0.417,0.18,9.95e-05,0.194,-10.997,0.0387,100.241,0.124,0
+492,يا مركبى سيرى,5,4QDV0WZnJvJZsR4beiuHPs,مين أنا تطريب,spotify:track:4QDV0WZnJvJZsR4beiuHPs,0.812,0.41,0.14,1.43e-05,0.14,-11.224,0.031,104.334,0.155,0
+493,يا مركبى سيرى,6,52z7TLTXtMoOvjEkLRxmBQ,يا ليالى العيد,spotify:track:52z7TLTXtMoOvjEkLRxmBQ,0.909,0.406,0.261,5.6e-05,0.321,-12.098,0.0307,95.954,0.329,0
+494,يا مركبى سيرى,7,0IBUz63Z33PAx0cMgKpwAx,الماء والخضرة,spotify:track:0IBUz63Z33PAx0cMgKpwAx,0.882,0.328,0.238,0,0.119,-11.678,0.0517,82.18,0.366,0
+495,أحضان الحبايب,1,3fstP8YEZlLZGjC2jwVwEd,أحضان الحبايب,spotify:track:3fstP8YEZlLZGjC2jwVwEd,0.898,0.358,0.131,6.14e-05,0.117,-16.992,0.0418,116.016,0.118,5
+496,أحضان الحبايب,2,4EkFoRtqdPfVHSqc7BrGsv,بينى وبينك,spotify:track:4EkFoRtqdPfVHSqc7BrGsv,0.964,0.481,0.343,1.45e-06,0.149,-9.958,0.0379,136.382,0.731,6
+497,أحضان الحبايب,3,7Dx80gZXT1HC2cf5qVs0lb,كامل الأوصاف,spotify:track:7Dx80gZXT1HC2cf5qVs0lb,0.787,0.327,0.359,0.000886,0.696,-13.613,0.0385,112.79,0.455,17
+498,أدهم الشرقاوى,1,0aF10nCoZoOULrcha1kYXx,أدهم الشرقاوى,spotify:track:0aF10nCoZoOULrcha1kYXx,0.822,0.48,0.186,0,0.088,-9.423,0.06,132.538,0.157,2
+499,أدهم الشرقاوى,2,1AU8jQ0cJR4lYvZNsEXEdh,بستان الإشتراكية,spotify:track:1AU8jQ0cJR4lYvZNsEXEdh,0.867,0.422,0.557,0,0.233,-6.769,0.103,139.799,0.477,1
+500,إبنك يقول لك,1,6yURM6fkw9IABg4INeS9lN,إبنك يقولك,spotify:track:6yURM6fkw9IABg4INeS9lN,0.786,0.543,0.345,0,0.849,-15.923,0.247,91.842,0.765,2
+501,إبنك يقول لك,2,1F8FgSWH7LGMCdorAKQgTA,أحلف بسماها,spotify:track:1F8FgSWH7LGMCdorAKQgTA,0.798,0.644,0.634,0,0.673,-10.803,0.187,79.093,0.643,4
+502,إبنك يقول لك,3,1KmBLUaeVAV9G0fbYQ1CKz,موال النهار,spotify:track:1KmBLUaeVAV9G0fbYQ1CKz,0.956,0.352,0.136,0.00142,0.395,-16.835,0.059,134.113,0.306,3
+503,إبنك يقول لك,4,382DeTLf7FTz3LZOGPAw4K,المسيح تسجيل حفلة,spotify:track:382DeTLf7FTz3LZOGPAw4K,0.902,0.287,0.403,0.000267,0.893,-12.847,0.16,94.133,0.364,2
+504,إبنك يقول لك,5,1yyuHA5q3uBvx3d6YCi31V,البندقيه,spotify:track:1yyuHA5q3uBvx3d6YCi31V,0.822,0.347,0.375,5.85e-05,0.9,-10.676,0.0415,139.323,0.56,2
+505,إبنك يقول لك,6,7BBLdJedpB98c7jtwDsU6Z,عاش اللى قال,spotify:track:7BBLdJedpB98c7jtwDsU6Z,0.669,0.532,0.325,0,0.38,-9.145,0.0543,110.224,0.518,2
+506,إبنك يقول لك,7,19FPpBonJOrWiVEcQrV3zB,خلى السلاح صاحى,spotify:track:19FPpBonJOrWiVEcQrV3zB,0.855,0.734,0.311,0,0.656,-11.099,0.0806,109.659,0.877,2
+507,إبنك يقول لك,8,1DJ5AJObIXTBrZnuie4p06,صباح الخير ياسينا,spotify:track:1DJ5AJObIXTBrZnuie4p06,0.749,0.414,0.205,0.000516,0.228,-14.785,0.0475,93.158,0.549,2
+508,التوبة,1,4vN8c5cbkX3Zg9NyWGf661,جانا الهوا تسجيل حفلة,spotify:track:4vN8c5cbkX3Zg9NyWGf661,0.852,0.337,0.536,0,0.953,-8.494,0.0446,104.628,0.616,33
+509,التوبة,2,4HbhY5V9rPAcEzPFU1YiME,يا خلى القلب,spotify:track:4HbhY5V9rPAcEzPFU1YiME,0.911,0.427,0.216,0.000301,0.194,-11.444,0.0372,109.372,0.236,6
+510,التوبة,3,6bU1jVnuqwkrL72IApkUR5,سواح تسجيل حفلة,spotify:track:6bU1jVnuqwkrL72IApkUR5,0.916,0.366,0.411,0,0.983,-10.71,0.046,133.553,0.357,25
+511,التوبة,4,48ALI2bMC7wecpcFT7gjLN,التوبة تسجيل حفلة,spotify:track:48ALI2bMC7wecpcFT7gjLN,0.971,0.4,0.481,0.00674,0.931,-9.755,0.0663,132.702,0.633,12
+512,المسئولية,1,4Is72e5pIJiu0CbkAu2iwk,المسئولية,spotify:track:4Is72e5pIJiu0CbkAu2iwk,0.875,0.414,0.706,0,0.952,-7.441,0.494,107.645,0.463,1
+513,المسئولية,2,6j4xZNsOKprYnutr6U6MId,راية العرب,spotify:track:6j4xZNsOKprYnutr6U6MId,0.889,0.603,0.588,0,0.226,-6.114,0.0678,116.182,0.864,0
+514,المسئولية,3,6jMsX4M5hxKxk3NCbX6cEK,مطالب شعب,spotify:track:6jMsX4M5hxKxk3NCbX6cEK,0.974,0.439,0.471,0,0.883,-10.658,0.379,117.121,0.441,1
+515,المسئولية,4,2mEeMYTDbnSLcHVN4aoioi,بالدم,spotify:track:2mEeMYTDbnSLcHVN4aoioi,0.75,0.727,0.838,0,0.2,-7.765,0.116,121.325,0.679,0
+516,صورة,1,0OjDeaOmeT310yGfi0qT5U,صورة صورة,spotify:track:0OjDeaOmeT310yGfi0qT5U,0.838,0.351,0.441,0,0.582,-9.583,0.0899,83.922,0.472,4
+517,صورة,2,3EtOqqITt7phRuj0DG9RTQ,ناصر يا حرية,spotify:track:3EtOqqITt7phRuj0DG9RTQ,0.751,0.443,0.66,0,0.384,-6.719,0.0809,112.593,0.77,1
+518,صورة,3,6GQkAKchuP2tfwxQaSvsGQ,بلدى,spotify:track:6GQkAKchuP2tfwxQaSvsGQ,0.843,0.41,0.343,0,0.152,-9.271,0.0494,139.161,0.422,1
+519,صورة,4,4qsF764XKdDg4AMLh91r8s,بركان الغضب,spotify:track:4qsF764XKdDg4AMLh91r8s,0.791,0.397,0.79,0,0.377,-8.178,0.153,132.844,0.903,1
+520,عبدالحليم حافظ,1,1bzeJpNR0xEYKOqgywC1uW,حبك نار,spotify:track:1bzeJpNR0xEYKOqgywC1uW,0.878,0.372,0.275,0,0.219,-11.595,0.0344,111.466,0.363,17
+521,عبدالحليم حافظ,2,7rbX7LLfw52mRmpS2kJ7yi,مالك ومالى,spotify:track:7rbX7LLfw52mRmpS2kJ7yi,0.92,0.35,0.325,9.72e-05,0.767,-9.97,0.0353,123.123,0.371,2
+522,عبدالحليم حافظ,3,08ZOlXGLcutdZULFGfBklz,بتقولى بكره,spotify:track:08ZOlXGLcutdZULFGfBklz,0.95,0.299,0.266,8.76e-05,0.153,-10.668,0.0348,98.635,0.213,2
+523,عبدالحليم حافظ,4,0wCyaFxmLs8USzn2w8mfZw,الليالى,spotify:track:0wCyaFxmLs8USzn2w8mfZw,0.829,0.357,0.271,0,0.155,-9.387,0.037,106.953,0.254,4
+524,عبدالحليم حافظ,5,2b9dBJ4iDxL1QorYZC9uzV,صافينى مرة,spotify:track:2b9dBJ4iDxL1QorYZC9uzV,0.945,0.278,0.403,0.000347,0.167,-9.308,0.0391,156.759,0.442,18
+525,عبدالحليم حافظ,6,5ukfrxicE0rNPZYnI3h09v,لايق عليك الخال,spotify:track:5ukfrxicE0rNPZYnI3h09v,0.936,0.319,0.41,3.57e-06,0.272,-8.561,0.0311,125.495,0.377,4
+526,عبدالحليم حافظ,1,2tYRbXuxhCiuAfvm5HZwyu,أنا من تراب,spotify:track:2tYRbXuxhCiuAfvm5HZwyu,0.975,0.271,0.0305,2.34e-06,0.11,-19.154,0.0462,204.759,0.0395,1
+527,عبدالحليم حافظ,2,7KsnlCIVTTSXe2sEtYQe61,عينى ضناها السهر,spotify:track:7KsnlCIVTTSXe2sEtYQe61,0.961,0.321,0.155,0,0.652,-13.655,0.0463,79.486,0.359,1
+528,عبدالحليم حافظ,3,1yg4lla6PTa0fuEh0KPDKF,كان فى زمان,spotify:track:1yg4lla6PTa0fuEh0KPDKF,0.936,0.233,0.181,2.21e-05,0.159,-13.602,0.0319,85.326,0.272,1
+529,عبدالحليم حافظ,4,2Y2BuPcDhxJJmdRIoAvEYW,الهوا هوايا,spotify:track:2Y2BuPcDhxJJmdRIoAvEYW,0.745,0.329,0.362,0,0.308,-13.455,0.0447,139.219,0.564,5
+530,عبدالحليم حافظ,5,35JtaY3XWKZYFYQlGcGCef,حرام يا نار,spotify:track:35JtaY3XWKZYFYQlGcGCef,0.892,0.255,0.164,0,0.139,-13.771,0.0382,81.224,0.207,1
+531,عبدالحليم حافظ,1,2asMV2AJL0XWezqDUSkI2w,أدعوك ياسامع دعايا,spotify:track:2asMV2AJL0XWezqDUSkI2w,0.981,0.356,0.0809,8.61e-05,0.112,-12.787,0.0324,91.891,0.0554,1
+532,عبدالحليم حافظ,3,7eajB6rs9QzUokWipb6vau,أقول ما أقولش,spotify:track:7eajB6rs9QzUokWipb6vau,0.979,0.331,0.225,0,0.112,-10.4,0.0382,70.411,0.37,1
+533,عبدالحليم حافظ,4,4Xm4pGsPkSLtVKKKob8IwI,حاجة غريبة,spotify:track:4Xm4pGsPkSLtVKKKob8IwI,0.833,0.524,0.264,0,0.235,-9.326,0.0383,122.244,0.336,4
+534,عبدالحليم حافظ,5,0ZsMcWithxGtByCutRU8lM,بأمر الحب,spotify:track:0ZsMcWithxGtByCutRU8lM,0.944,0.382,0.15,1.58e-05,0.112,-10.579,0.0346,112.33,0.134,4
+535,عبدالحليم حافظ,1,0vruDdTq7PkxmZXtMtP6Hv,الليالى تسجيل حفلة,spotify:track:0vruDdTq7PkxmZXtMtP6Hv,0.977,0.335,0.384,0.00159,0.974,-10.06,0.0499,106.866,0.321,1
+536,عبدالحليم حافظ,2,1VC31L3muWfxGImZlocWiG,بتقولى بكره تسجيل حفلة,spotify:track:1VC31L3muWfxGImZlocWiG,0.959,0.214,0.4,0.00859,0.931,-9.092,0.0353,85.161,0.175,1
+537,عبدالحليم حافظ,1,2Un4ABQxUwEYpL3cDUq8XL,إحنا الشعب,spotify:track:2Un4ABQxUwEYpL3cDUq8XL,0.824,0.458,0.312,0,0.224,-11.953,0.313,82.118,0.56,0
+538,عبدالحليم حافظ,2,5kpZzGAiklnuAMbdKCk5La,يا جمال يا حبيب الملايين,spotify:track:5kpZzGAiklnuAMbdKCk5La,0.741,0.462,0.41,1.14e-05,0.304,-8.5,0.0397,128.158,0.675,0
+539,عبدالحليم حافظ,3,3re8swXsyaS57rrVcwl9nu,يا بلدنا لاتنامى,spotify:track:3re8swXsyaS57rrVcwl9nu,0.354,0.348,0.456,0,0.405,-9.909,0.0571,170.963,0.807,0
+540,عبدالحليم حافظ,4,3kPqJXTVxyeeNC3hCKHVfA,يا أهلاً بالمعارك,spotify:track:3kPqJXTVxyeeNC3hCKHVfA,0.874,0.404,0.395,0,0.206,-8.868,0.0727,82.567,0.453,2
+541,عبدالحليم حافظ,1,4aiGuFZXJUKJZYvc19g7M7,بحلم بيك,spotify:track:4aiGuFZXJUKJZYvc19g7M7,0.817,0.51,0.339,0,0.301,-8.013,0.0354,122.432,0.49,28
+542,عبدالحليم حافظ,2,2sM3SQwxMsIkAtftW7Fl4w,خسارة,spotify:track:2sM3SQwxMsIkAtftW7Fl4w,0.837,0.366,0.317,0,0.109,-9.575,0.0398,144.829,0.437,33
+543,عبدالحليم حافظ,3,4Rrlff6HvKvuS5WNulaw2K,أول مرة,spotify:track:4Rrlff6HvKvuS5WNulaw2K,0.79,0.439,0.312,0,0.219,-9.029,0.0378,133.571,0.508,13
+544,عبدالحليم حافظ,5,7kGyOEc60o3FpN8351c4Yi,تخونوه,spotify:track:7kGyOEc60o3FpN8351c4Yi,0.774,0.436,0.236,0,0.0911,-11.082,0.0317,94.006,0.354,21
+545,عبدالحليم حافظ,6,3WsthIWNVAwiQ34gmrOaRE,يا قلبى خبى,spotify:track:3WsthIWNVAwiQ34gmrOaRE,0.8,0.296,0.213,0,0.137,-12.001,0.0424,145.742,0.285,16
+546,عبدالحليم حافظ,1,4vKtnfxej365yuQLXU4LDN,فى يوم فى شهر فى سنة,spotify:track:4vKtnfxej365yuQLXU4LDN,0.942,0.271,0.166,3.82e-06,0.362,-12.502,0.0341,93.57,0.122,7
+547,عبدالحليم حافظ,2,3AZiiW9UCMqIAK5mv5q2b7,حلفنى,spotify:track:3AZiiW9UCMqIAK5mv5q2b7,0.958,0.328,0.253,9.21e-06,0.113,-9.903,0.0352,144.057,0.416,5
+548,عبدالحليم حافظ,3,25bQXV67oTOcLSl4vqMvoc,هى دى هى,spotify:track:25bQXV67oTOcLSl4vqMvoc,0.969,0.422,0.287,0,0.181,-8.75,0.0444,132.37,0.637,15
+549,عبدالحليم حافظ,4,6RH8WcElf1DuGmumoRWtaz,أسمر يا أسمرانى,spotify:track:6RH8WcElf1DuGmumoRWtaz,0.968,0.278,0.332,1.42e-06,0.349,-7.858,0.0337,76.422,0.353,20
+550,عبدالحليم حافظ,5,4NgQb26LAlljBL1BYnyTtb,على قد الشوق,spotify:track:4NgQb26LAlljBL1BYnyTtb,0.937,0.312,0.322,0,0.322,-7.998,0.0323,71.085,0.535,21
+551,عبدالحليم حافظ,6,4NwvLLPuSpu2jgYzbaLvrw,إيه ذنبى أيه,spotify:track:4NwvLLPuSpu2jgYzbaLvrw,0.986,0.33,0.344,2.17e-05,0.16,-8.692,0.033,104.588,0.506,5
+552,عبدالحليم حافظ,1,1chsFxuRdocgGwhhCYfZ9m,أهواك,spotify:track:1chsFxuRdocgGwhhCYfZ9m,0.877,0.342,0.296,0,0.188,-11.74,0.0394,126.112,0.394,44
+553,عبدالحليم حافظ,2,6uTx9YizA9u1TygZIX5MuT,عقبالك يوم ميلادك,spotify:track:6uTx9YizA9u1TygZIX5MuT,0.764,0.39,0.343,0,0.125,-8.676,0.0324,87.437,0.306,22
+554,عبدالحليم حافظ,3,0QTLxgEN3hlc9z23VyAVDc,يا قلبى يا خالى,spotify:track:0QTLxgEN3hlc9z23VyAVDc,0.875,0.426,0.29,0,0.449,-10.414,0.0358,95.174,0.491,25
+555,عبدالحليم حافظ,4,6Z9cII89Boh1jh97xw2fXb,عشانك يا قمر,spotify:track:6Z9cII89Boh1jh97xw2fXb,0.868,0.513,0.432,0,0.102,-7.351,0.0339,123.063,0.652,18
+556,عبدالحليم حافظ,5,463xNIeV700zPD76R2wXQq,توبة,spotify:track:463xNIeV700zPD76R2wXQq,0.941,0.566,0.274,0,0.215,-8.532,0.0367,83.98,0.645,33
+557,عبدالحليم حافظ,6,7yEfKZgOmWHRA0Hf1vKDiz,كنت فين,spotify:track:7yEfKZgOmWHRA0Hf1vKDiz,0.765,0.526,0.267,0,0.316,-10.06,0.036,99.627,0.508,21
+558,عبدالحليم حافظ,7,2t7t9AnA3jh3Yuzn62Pywa,أنا لك على طول,spotify:track:2t7t9AnA3jh3Yuzn62Pywa,0.868,0.248,0.208,0,0.0929,-10.887,0.0308,85.42,0.136,30
+559,'Anasheed Fadel,1,4GhU11oRLSZyMEx7Qbdfgo,Ena el Massih Mobarak,spotify:track:4GhU11oRLSZyMEx7Qbdfgo,0.907,0.267,0.31,0,0.205,-11.039,0.0417,169.237,0.471,17
+560,'Anasheed Fadel,2,45VryGS3tp84JPgNgYN8PR,Eisheq el Hawas,spotify:track:45VryGS3tp84JPgNgYN8PR,0.957,0.474,0.301,0,0.121,-9.864,0.0314,95.114,0.321,5
+561,'Anasheed Fadel,3,1LGx3lgOAKYuL2w9GEuEzQ,Nouri Ktamal,spotify:track:1LGx3lgOAKYuL2w9GEuEzQ,0.856,0.386,0.36,0,0.254,-6.669,0.0307,83.968,0.485,5
+562,'Anasheed Fadel,4,0JDHJL66bb9CcLvqtcgAnB,Abky Ala Sham al Hawa (Mishary al Afasi),spotify:track:0JDHJL66bb9CcLvqtcgAnB,0.918,0.529,0.279,0,0.542,-7.142,0.0811,88.703,0.426,4
+563,'Anasheed Fadel,5,2fFJ6jlwiMUovRW8VoLtkT,Bahebik Ya Falastine,spotify:track:2fFJ6jlwiMUovRW8VoLtkT,0.511,0.682,0.685,0,0.153,-7.474,0.0306,132.038,0.846,6
+564,'Anasheed Fadel,6,4R9PtZfdycrsLGjju5dZ77,Qudsona,spotify:track:4R9PtZfdycrsLGjju5dZ77,0.931,0.307,0.324,0,0.157,-8.261,0.0326,121.082,0.32,4
+565,'Anasheed Fadel,7,37NSz7YWcGNaOo2Coe4kXj,Satus'aloon Ya Muslimoon,spotify:track:37NSz7YWcGNaOo2Coe4kXj,0.946,0.561,0.166,0,0.131,-8.489,0.0592,120.024,0.451,3
+566,Sahra (Live Rare Concert Recording),1,2IRfMCKGYuZdymA6fEfRie,Tair ya hawa - Live,spotify:track:2IRfMCKGYuZdymA6fEfRie,0.117,0.476,0.816,0,0.131,-5.914,0.0851,142.802,0.646,30
+567,Sahra (Live Rare Concert Recording),2,7foZcrSugkCx062oIi4wVQ,Ya habibi - Live,spotify:track:7foZcrSugkCx062oIi4wVQ,0.246,0.554,0.851,1.14e-05,0.329,-4.874,0.0436,131.016,0.776,29
+568,Sahra (Live Rare Concert Recording),3,5U0IjphYUxRurDvT4X14x4,W al nabi da haram - Live,spotify:track:5U0IjphYUxRurDvT4X14x4,0.424,0.511,0.706,7.06e-05,0.325,-5.851,0.0442,127.441,0.483,16
+569,Sahra (Live Rare Concert Recording),4,4k0ojNcpxeJaDeMptvOVoB,Ya manta waheshni - Live,spotify:track:4k0ojNcpxeJaDeMptvOVoB,0.41,0.397,0.668,0.00227,0.332,-5.855,0.0372,107.172,0.701,23
+570,Sahra (Live Rare Concert Recording),5,6jmz2f0MQGvQMbFoWejFtH,Mali - Live,spotify:track:6jmz2f0MQGvQMbFoWejFtH,0.451,0.439,0.686,0.000127,0.435,-4.569,0.0522,90.081,0.659,30
+571,Sahra (Live Rare Concert Recording),6,6O9bhL8oqJEKTpECH4NVPK,Law saalouk - Live,spotify:track:6O9bhL8oqJEKTpECH4NVPK,0.394,0.272,0.609,4.43e-05,0.0919,-7.003,0.0548,86.387,0.385,13
+572,Sahra (Live Rare Concert Recording),7,1WPb6ZiEkdxkHg6ZKhrg8t,Qoulou - Live,spotify:track:1WPb6ZiEkdxkHg6ZKhrg8t,0.0976,0.572,0.7,0.0107,0.349,-6.08,0.0341,122.164,0.688,24
+573,Sahra (Live Rare Concert Recording),8,2KvCM7Tftl0uYyD1TooYkl,Mekhasemni baalo moddah - Live,spotify:track:2KvCM7Tftl0uYyD1TooYkl,0.349,0.53,0.73,0.000136,0.109,-4.304,0.044,146.712,0.717,24
+574,Baada Aal Bal,1,3MsTOPFnA16WzFAx4OYRmw,Faker Lama Tqool,spotify:track:3MsTOPFnA16WzFAx4OYRmw,0.219,0.555,0.727,0.00821,0.083,-8.455,0.0722,192.068,0.898,32
+575,Baada Aal Bal,2,5uObgYYbcIMDcEQj1SkpF3,Ahkel Ali Baali,spotify:track:5uObgYYbcIMDcEQj1SkpF3,0.0679,0.388,0.558,0,0.179,-8.072,0.0753,144.724,0.456,19
+576,Baada Aal Bal,3,1poxxU2mFgPC8A96393uYT,Jouwa El Roh,spotify:track:1poxxU2mFgPC8A96393uYT,0.479,0.439,0.639,2.8e-06,0.215,-6.878,0.0663,180.039,0.538,40
+577,Baada Aal Bal,4,7uXj9n3qJAaVDgko8wOovJ,Bi Faker Bil Saat,spotify:track:7uXj9n3qJAaVDgko8wOovJ,0.141,0.507,0.649,4.56e-06,0.0868,-8.155,0.0574,159.939,0.564,18
+578,Baada Aal Bal,5,1CCBucene0rG1crFpUM2oH,Min Akhirha,spotify:track:1CCBucene0rG1crFpUM2oH,0.129,0.613,0.923,0.00274,0.0872,-7.224,0.0647,125.041,0.919,16
+579,Baada Aal Bal,6,6PFE4Ne6qrq7CNjZXF5MIX,Baada Aal Bal,spotify:track:6PFE4Ne6qrq7CNjZXF5MIX,0.522,0.593,0.703,0.159,0.169,-6.774,0.0408,131.966,0.728,23
+580,Baada Aal Bal,7,6KEtcKmY010j26AYP1ke0w,Nasiti Ensak,spotify:track:6KEtcKmY010j26AYP1ke0w,0.392,0.474,0.646,0.000232,0.0957,-6.484,0.0407,120.069,0.365,23
+581,Baada Aal Bal,8,01nK2VDR0GCs93BsyGf49g,Weftara'ena,spotify:track:01nK2VDR0GCs93BsyGf49g,0.661,0.302,0.622,0.431,0.0953,-6.923,0.0362,101.23,0.501,19
+582,Baada Aal Bal,9,37Lg9Y9euftJ3ZhnmzbSfr,Rouh,spotify:track:37Lg9Y9euftJ3ZhnmzbSfr,0.52,0.428,0.719,0.000843,0.105,-6.075,0.0436,171.93,0.577,28
+583,Baada Aal Bal,10,0IDqWjvzT6RGIhgawQ2Wxc,Majrooh,spotify:track:0IDqWjvzT6RGIhgawQ2Wxc,0.346,0.346,0.588,8.14e-06,0.212,-10.28,0.0443,163.785,0.404,24
+584,الله اعلم,1,6k9aCzQQ1qpiFUCll78lzX,انسي اللي راح,spotify:track:6k9aCzQQ1qpiFUCll78lzX,0.217,0.74,0.721,4.51e-05,0.135,-8.154,0.075,113.981,0.808,26
+585,الله اعلم,2,6gBa0m2m9r8ifv5u0uwz7U,اللي انت شايفه,spotify:track:6gBa0m2m9r8ifv5u0uwz7U,0.416,0.636,0.666,2.65e-05,0.265,-7.231,0.11,170.041,0.449,23
+586,الله اعلم,3,0USLgoRhonlVS5fYOgLxI1,الله اعلم,spotify:track:0USLgoRhonlVS5fYOgLxI1,0.279,0.613,0.743,0.00026,0.354,-8.328,0.0416,163.855,0.531,33
+587,الله اعلم,4,1ia6YZypDe9TA6dg7ofsBF,انا بحبك,spotify:track:1ia6YZypDe9TA6dg7ofsBF,0.023,0.67,0.828,0.00663,0.0703,-8.427,0.0361,125.019,0.587,22
+588,الله اعلم,5,3F3Q1iLBtLXXQ3jByB85lQ,قلبي عايش,spotify:track:3F3Q1iLBtLXXQ3jByB85lQ,0.217,0.734,0.706,0.0212,0.0692,-7.892,0.033,88.015,0.833,29
+589,الله اعلم,6,7uLiqclIAbWfGdkRXHPxkG,غايب عني ليه,spotify:track:7uLiqclIAbWfGdkRXHPxkG,0.145,0.766,0.684,0.00247,0.0437,-7.998,0.0413,129.978,0.667,19
+590,الله اعلم,7,6EvnyGCe1lx1UB732C3KaD,لحظة لؤي,spotify:track:6EvnyGCe1lx1UB732C3KaD,0.348,0.653,0.763,0.000753,0.259,-8.413,0.0339,104.005,0.6,23
+591,الله اعلم,8,7BF0iimfuPDET1qQ3yuAZt,كنت مفكر,spotify:track:7BF0iimfuPDET1qQ3yuAZt,0.238,0.505,0.669,0.00409,0.31,-8.385,0.0572,113.311,0.529,33
+592,الله اعلم,9,4EVV2QGqShgVPsrMEF76kf,بوسني صالحني,spotify:track:4EVV2QGqShgVPsrMEF76kf,0.18,0.644,0.73,0.000255,0.298,-8.525,0.051,80.988,0.856,16
+593,الله اعلم,10,1Ff6JGS4TOaVYT8U5f8tvr,امبارح بليل,spotify:track:1Ff6JGS4TOaVYT8U5f8tvr,0.0414,0.67,0.729,0.00518,0.152,-8.521,0.0319,109.979,0.322,19
+594,الله اعلم,11,1oWwZHieitXjG3mbxqEN40,ودعتك,spotify:track:1oWwZHieitXjG3mbxqEN40,0.194,0.573,0.689,0.0129,0.131,-8.544,0.0844,184.126,0.524,20
+595,الله اعلم,12,5ZKYv1idhjhqIvgRGB9fl4,اخدني معك,spotify:track:5ZKYv1idhjhqIvgRGB9fl4,0.225,0.506,0.623,0.000153,0.0482,-8.804,0.063,176.247,0.276,45
+596,Hafla 2004,1,6UaYRYIxWjMt3AFNlVzp4U,Law Faker,spotify:track:6UaYRYIxWjMt3AFNlVzp4U,0.81,0.44,0.748,0,0.77,-6.783,0.0752,103.322,0.683,12
+597,Hafla 2004,2,3ixavHNs4Rw5miFIrCMLsv,Sidi Rohi,spotify:track:3ixavHNs4Rw5miFIrCMLsv,0.698,0.48,0.892,3.92e-06,0.876,-6.127,0.113,102.085,0.761,9
+598,Hafla 2004,3,1RUeYtIwPxxt4J3i0jtPy0,Ma’agool,spotify:track:1RUeYtIwPxxt4J3i0jtPy0,0.693,0.463,0.782,4.81e-05,0.714,-6.728,0.0572,108.152,0.614,22
+599,Hafla 2004,4,1gQQKSpg01FhFFSgs8vAKI,Ya Ghayeb,spotify:track:1gQQKSpg01FhFFSgs8vAKI,0.683,0.308,0.864,4.06e-06,0.715,-5.75,0.12,107.875,0.572,44
+600,Hafla 2004,5,6NBao819uVHV39S5xhe0X9,Hobbak Khayal,spotify:track:6NBao819uVHV39S5xhe0X9,0.766,0.339,0.759,1.93e-06,0.864,-6.208,0.091,137.344,0.64,18
+601,Hafla 2004,6,1mAt85b1M4lZEwbMU2LiwI,Ya Habibi Ta’ala,spotify:track:1mAt85b1M4lZEwbMU2LiwI,0.517,0.41,0.837,0,0.769,-5.776,0.065,130.186,0.698,18
+602,Hafla 2004,7,1DkGOGsBE5jARaqwcIOWIw,Meta Habibi,spotify:track:1DkGOGsBE5jARaqwcIOWIw,0.78,0.442,0.849,2.53e-05,0.935,-6.467,0.157,107.284,0.815,18
+603,Hafla 2004,8,0zwZPMwZEmtlf07M3zOaei,Dehkat Aldonya,spotify:track:0zwZPMwZEmtlf07M3zOaei,0.697,0.422,0.85,1.46e-05,0.722,-6.461,0.0563,135.418,0.644,19
+604,Hafla 2004,9,4a5C2CFqdxynIdzxC5acWJ,La Telomuni,spotify:track:4a5C2CFqdxynIdzxC5acWJ,0.732,0.422,0.751,6.12e-06,0.676,-6.516,0.06,143.779,0.955,7
+605,Hafla 2004,10,6An6BFJl3Nnj54c9SZxR46,Baya’a Al Qoloub,spotify:track:6An6BFJl3Nnj54c9SZxR46,0.817,0.267,0.698,0,0.947,-6.241,0.168,184.52,0.573,12
+606,Saharni El Shok,1,4GQQ7aShCIDGWho1x7EjQM,Saharni El Shok,spotify:track:4GQQ7aShCIDGWho1x7EjQM,0.238,0.689,0.672,4.84e-05,0.328,-8.132,0.0357,123.034,0.365,18
+607,Saharni El Shok,2,2kaX55oNGxUfA4Y7FzNzif,Gouwaya,spotify:track:2kaX55oNGxUfA4Y7FzNzif,0.171,0.644,0.912,7.52e-05,0.0449,-7.49,0.0301,130.015,0.962,11
+608,Saharni El Shok,3,6pPticMOUffphgiT9KtR1y,Ya Habibi,spotify:track:6pPticMOUffphgiT9KtR1y,0.0569,0.725,0.935,0.00636,0.077,-7.641,0.0464,109.988,0.84,9
+609,Saharni El Shok,4,5vJRLuqZDBP1RwaBmGRsMa,Tadri Leh,spotify:track:5vJRLuqZDBP1RwaBmGRsMa,0.514,0.59,0.752,0.000769,0.0628,-8.137,0.0476,96.989,0.614,19
+610,Saharni El Shok,5,2Yn3PaNRkuohherVYaRtpZ,Awal Ma Bashoufak,spotify:track:2Yn3PaNRkuohherVYaRtpZ,0.333,0.684,0.597,0.0003,0.124,-7.739,0.059,169.994,0.841,19
+611,Saharni El Shok,6,6opaM6GRAMUqiKwWxvfqho,Nar El Shok,spotify:track:6opaM6GRAMUqiKwWxvfqho,0.0932,0.586,0.879,0.0831,0.41,-8.704,0.0386,104.989,0.614,19
+612,Saharni El Shok,7,1NwJmFInPZB2H1PliubF2g,Min Awal Omri,spotify:track:1NwJmFInPZB2H1PliubF2g,0.331,0.676,0.766,0.0314,0.0703,-6.38,0.0354,120.055,0.796,7
+613,Saharni El Shok,8,2jH23QkhtHWhsfLs90DM8f,Khallast Kalamak,spotify:track:2jH23QkhtHWhsfLs90DM8f,0.439,0.528,0.516,2.5e-05,0.13,-8.887,0.0428,143.937,0.333,6
+614,Saharni El Shok,9,5pfZlTXU5gdcx5Lp2ZRsCM,Snin El Shok,spotify:track:5pfZlTXU5gdcx5Lp2ZRsCM,0.158,0.662,0.871,0.291,0.107,-7.416,0.036,130.035,0.941,5
+615,Saharni El Shok,10,5gpWGse7I0M9wogoiTcXYT,El Dor Aala Min,spotify:track:5gpWGse7I0M9wogoiTcXYT,0.0431,0.584,0.849,3.29e-05,0.229,-7.547,0.0899,170.006,0.72,9
+616,Saharni El Shok,11,7eC2BmMrlJSMuU1QVDdN7W,El Hal,spotify:track:7eC2BmMrlJSMuU1QVDdN7W,0.178,0.526,0.83,0.000467,0.0538,-8.678,0.0417,176.115,0.876,8
+617,Saharni El Shok,12,11JVsTZDE9UWLbBfCijgyr,Fen Layalik,spotify:track:11JVsTZDE9UWLbBfCijgyr,0.508,0.638,0.648,0.0111,0.137,-8.375,0.0466,94.975,0.728,20
+618,Saharni El Shok,13,0VzvH72GDo7nlCoxwmIXug,Ya Hayat El Roh,spotify:track:0VzvH72GDo7nlCoxwmIXug,0.536,0.739,0.777,0.000856,0.385,-7.946,0.0321,104.994,0.815,35
+619,Saharni El Shok,14,7KeGqR3VwfJg4PQXzNkgy8,Main Allak,spotify:track:7KeGqR3VwfJg4PQXzNkgy8,0.729,0.352,0.306,5.36e-06,0.102,-7.738,0.0304,129.163,0.25,6
+620,Sahret Tarab,1,1JLU4p1oursYNDPpgu3cgS,Ya Zalimni,spotify:track:1JLU4p1oursYNDPpgu3cgS,0.779,0.314,0.522,5.58e-06,0.0975,-7.712,0.037,119.708,0.365,4
+621,Sahret Tarab,2,0rT1540w4jnqXz4I0pZMbg,Mawawil,spotify:track:0rT1540w4jnqXz4I0pZMbg,0.727,0.442,0.305,1.72e-06,0.372,-6.67,0.0459,98.79,0.4,2
+622,Sahret Tarab,3,6UeLGirWgrQals8OERP7gb,Aghadan Alkak,spotify:track:6UeLGirWgrQals8OERP7gb,0.799,0.469,0.758,0.00231,0.144,-2.87,0.0653,98.541,0.579,3
+623,Sahret Tarab,4,4ru9DfvEFXMq1ZfSyLg2Aa,Ya Malikan Kalbi,spotify:track:4ru9DfvEFXMq1ZfSyLg2Aa,0.898,0.46,0.417,0.00021,0.71,-7.929,0.0307,113.097,0.339,2
+624,Sahret Tarab,5,617pIczfwu0LW92Kf9SepC,Lana L'lah,spotify:track:617pIczfwu0LW92Kf9SepC,0.699,0.658,0.64,0.0389,0.126,-8.354,0.0346,110.43,0.837,2
+625,Sahret Tarab,6,1FKWXHbvq3K5tzhwTjXnyO,Zayl' Assal,spotify:track:1FKWXHbvq3K5tzhwTjXnyO,0.821,0.318,0.4,1.25e-06,0.0898,-10.782,0.0464,93.838,0.53,5
+626,بياع القلوب,1,0WulwNGhsHj9oqEeEzWgr9,عشقتك,spotify:track:0WulwNGhsHj9oqEeEzWgr9,0.17,0.723,0.629,0,0.105,-13.146,0.0548,151.467,0.915,5
+627,بياع القلوب,2,6YoX84TFlVZg9gySCuGDDW,بياع القلوب,spotify:track:6YoX84TFlVZg9gySCuGDDW,0.262,0.627,0.573,0.000125,0.141,-12.336,0.0338,83.939,0.905,7
+628,بياع القلوب,3,3sBPd4EOu74iwLjb1P8fjq,عيونه سود,spotify:track:3sBPd4EOu74iwLjb1P8fjq,0.382,0.686,0.584,7.9e-06,0.0845,-13.642,0.0394,94.637,0.805,4
+629,بياع القلوب,4,05xcOREoAZ5rWnnlGjJnaF,زيد الملام,spotify:track:05xcOREoAZ5rWnnlGjJnaF,0.487,0.628,0.576,3.82e-06,0.284,-13.127,0.0394,159.476,0.902,1
+630,بياع القلوب,5,0lRiDhalGeEUCJLMbnLUpl,أمعى تصدقني,spotify:track:0lRiDhalGeEUCJLMbnLUpl,0.528,0.703,0.543,4.07e-06,0.0987,-12.234,0.0743,93.998,0.642,2
+631,بياع القلوب,6,7rpl7ix3nmqx39fNOjkmKh,أول حب,spotify:track:7rpl7ix3nmqx39fNOjkmKh,0.225,0.604,0.738,8.24e-06,0.0685,-11.861,0.0577,175.231,0.959,2
+632,بياع القلوب,7,3tDQSe8QKqhUTXNjl5oKeQ,أحبابي,spotify:track:3tDQSe8QKqhUTXNjl5oKeQ,0.309,0.641,0.699,0.000111,0.0605,-12.195,0.0427,159.372,0.92,1
+633,بياع القلوب,8,5S1CSGrnKtmfEk53u24ov5,مليت أنا أعذار,spotify:track:5S1CSGrnKtmfEk53u24ov5,0.418,0.573,0.591,0.00192,0.307,-12.833,0.0484,175.325,0.619,2
+634,والله زمان,1,78CHq9MHhP5FatPvMKpcO2,متى حبيبي متى,spotify:track:78CHq9MHhP5FatPvMKpcO2,0.384,0.486,0.777,0.00011,0.405,-11.374,0.0427,188.133,0.878,3
+635,والله زمان,2,3uyK2zKdB2qvEE7iPEuqM4,يلي اشتروك بالذهب,spotify:track:3uyK2zKdB2qvEE7iPEuqM4,0.356,0.542,0.756,0.000107,0.398,-11.144,0.0478,175.988,0.759,1
+636,والله زمان,3,5mWJe1GkrIzjdzuNFiqMkc,عدي ولا تسلمشى,spotify:track:5mWJe1GkrIzjdzuNFiqMkc,0.286,0.49,0.712,5.72e-05,0.466,-10.623,0.0501,177.95,0.895,1
+637,والله زمان,4,3xJai4UlDP3zZeczsmyKW2,كل الحلوين,spotify:track:3xJai4UlDP3zZeczsmyKW2,0.214,0.631,0.731,7.57e-06,0.261,-10.606,0.0323,95.009,0.792,1
+638,والله زمان,5,5JP506wddyNS9mVxqeIshH,والله زمان,spotify:track:5JP506wddyNS9mVxqeIshH,0.0969,0.625,0.699,0,0.169,-11.913,0.0556,96.173,0.766,1
+639,والله زمان,6,3knwGFfFjLxXD95CIisRRK,مصيرك حبيبي,spotify:track:3knwGFfFjLxXD95CIisRRK,0.203,0.543,0.579,1.32e-06,0.0598,-12.515,0.0593,175.007,0.85,1
+640,والله زمان,7,1j1ZC1vSfSfiWWvqqeRp00,يا تكون حبيبي,spotify:track:1j1ZC1vSfSfiWWvqqeRp00,0.349,0.532,0.624,4.89e-05,0.0911,-11.053,0.0429,176.18,0.786,2
+641,والله زمان,8,3AuJk9uvUlKiY6cQBNYh9i,نظره واحده,spotify:track:3AuJk9uvUlKiY6cQBNYh9i,0.263,0.699,0.673,0.000392,0.043,-10.886,0.0413,99.16,0.837,1
+642,يا غافية قومي,1,30WjYV7jvPslfY42c60UWc,تذكرين,spotify:track:30WjYV7jvPslfY42c60UWc,0.53,0.591,0.688,0,0.321,-5.659,0.0469,130.035,0.666,1
+643,يا غافية قومي,2,6IRvvELbefVMNsF2QZP8MD,يا غافية قومي,spotify:track:6IRvvELbefVMNsF2QZP8MD,0.368,0.513,0.722,0,0.353,-4.202,0.0485,141.927,0.45,1
+644,يا غافية قومي,3,6NNguBavtpAP4mWI3IiIz3,كتبت لك خط,spotify:track:6NNguBavtpAP4mWI3IiIz3,0.554,0.452,0.731,0,0.175,-4.724,0.102,187.996,0.645,1
+645,يا غافية قومي,4,2JmOuHDRU4wJOEJVGjigWa,أنا سمعت إسمك,spotify:track:2JmOuHDRU4wJOEJVGjigWa,0.454,0.524,0.806,5.15e-06,0.158,-3.529,0.0813,139.983,0.375,0
+646,يا غافية قومي,5,0d3RqupUQfFazqG8ybWBQz,تضحك معي,spotify:track:0d3RqupUQfFazqG8ybWBQz,0.522,0.601,0.756,0,0.159,-3.304,0.0414,143.892,0.777,0
+647,يا غافية قومي,6,6TtTAIuFN9yADhSI1INtuu,تساوت,spotify:track:6TtTAIuFN9yADhSI1INtuu,0.326,0.666,0.918,0,0.239,-3.689,0.0706,81.012,0.934,0
+648,يا غافية قومي,7,0bK5PA7Q3ZUyIUhvTnlLbs,مريت,spotify:track:0bK5PA7Q3ZUyIUhvTnlLbs,0.382,0.534,0.644,0,0.31,-4.417,0.0358,129.987,0.479,0
+649,يا غافية قومي,8,4wLZbx9oegnpf8kc9OUNr4,أستطيع,spotify:track:4wLZbx9oegnpf8kc9OUNr4,0.162,0.451,0.739,0,0.0679,-2.812,0.0665,133.361,0.342,0
+650,يا غافية قومي,9,4PBLecCpPmpkyehZJCoSxr,أنا من أكون,spotify:track:4PBLecCpPmpkyehZJCoSxr,0.372,0.622,0.774,0,0.544,-3.648,0.0633,129.896,0.579,2
+651,يا غافية قومي,10,7eSn6BEJR1OUBKhOCsbo9i,وين الدليل,spotify:track:7eSn6BEJR1OUBKhOCsbo9i,0.255,0.606,0.807,0,0.275,-3.358,0.049,138.002,0.722,0
+652,يا غافية قومي,11,5UngumSElkzQrLcahfFIZJ,أحلي خبر,spotify:track:5UngumSElkzQrLcahfFIZJ,0.642,0.712,0.735,0,0.429,-3.508,0.0384,105.959,0.801,0
+653,يا غافية قومي,12,3hO4uqcxJY6fnDL3E9JYrD,ابيك,spotify:track:3hO4uqcxJY6fnDL3E9JYrD,0.131,0.564,0.874,1.04e-06,0.138,-5.486,0.198,130.036,0.435,0
+654,يا راحلة,1,3ytfBN18lBJaeGMvp0IEoy,يا راحلة,spotify:track:3ytfBN18lBJaeGMvp0IEoy,0.0649,0.483,0.684,0,0.205,-5.525,0.039,135.927,0.271,2
+655,يا راحلة,2,2aMlLUgYYZShxfVfZZlvUe,ابعد,spotify:track:2aMlLUgYYZShxfVfZZlvUe,0.105,0.462,0.906,0,0.303,-4.401,0.0782,82.883,0.913,1
+656,يا راحلة,3,6hqPJzoXK5tszQIBsTsXpH,وضوح,spotify:track:6hqPJzoXK5tszQIBsTsXpH,0.0947,0.335,0.688,0,0.311,-4.973,0.0392,137.971,0.363,1
+657,يا راحلة,4,0hEJzAOP1z007dNFEE9yKj,راعني,spotify:track:0hEJzAOP1z007dNFEE9yKj,0.145,0.572,0.8,0.000587,0.0843,-4.86,0.0375,131.97,0.473,1
+658,يا راحلة,5,36B0yBTAYEDe1sFc5zgZ1x,كلي وله,spotify:track:36B0yBTAYEDe1sFc5zgZ1x,0.175,0.567,0.718,0,0.0988,-4.743,0.0549,141.903,0.676,1
+659,يا راحلة,6,0b3uiiHJGNhbjakzjpTlZs,سلم,spotify:track:0b3uiiHJGNhbjakzjpTlZs,0.201,0.666,0.714,3.56e-05,0.0888,-5.343,0.0509,137.946,0.497,1
+660,عالي السكوت,1,2UNk9FCl5pPSq09UE9vD6Y,عالي السكوت,spotify:track:2UNk9FCl5pPSq09UE9vD6Y,0.203,0.48,0.616,2.62e-06,0.0977,-4.014,0.0294,139.973,0.309,5
+661,عالي السكوت,2,7aeQThX1ndd0NqOuOxxA4F,الله معـــاك,spotify:track:7aeQThX1ndd0NqOuOxxA4F,0.362,0.437,0.84,5.71e-06,0.0885,-3.939,0.0543,111.776,0.683,5
+662,عالي السكوت,3,02zJW6AUBRRwEuuBd3ErMv,خــريــف,spotify:track:02zJW6AUBRRwEuuBd3ErMv,0.26,0.472,0.806,0,0.105,-4.505,0.0522,141.198,0.352,4
+663,عالي السكوت,4,4Q2OhnH6lwSDNp05ZP2x3V,روحي فداه,spotify:track:4Q2OhnH6lwSDNp05ZP2x3V,0.731,0.622,0.497,2.06e-06,0.33,-4.466,0.0286,104.903,0.503,5
+664,عود 2,1,4EGF1yTl3zTc0oulAySVMp,Sehert El Lyel,spotify:track:4EGF1yTl3zTc0oulAySVMp,0.819,0.521,0.84,0,0.165,0.843,0.0322,96.345,0.589,21
+665,عود 2,2,1IDictH3Zd7Z9rdrVV9bwW,Yal Habib Al Ghali,spotify:track:1IDictH3Zd7Z9rdrVV9bwW,0.637,0.568,0.706,2.32e-06,0.185,-3.211,0.0348,147.051,0.733,15
+666,عود 2,3,6vMJTV8LH4Ze8locIK7xy5,Ghafal El Hamm Qalbi,spotify:track:6vMJTV8LH4Ze8locIK7xy5,0.846,0.589,0.787,0,0.0986,-0.077,0.0319,144.408,0.671,20
+667,عود 2,4,1Io4Lhn4UN3FzT24BpR6AR,Ya Aashiri,spotify:track:1Io4Lhn4UN3FzT24BpR6AR,0.677,0.508,0.751,3.56e-06,0.106,-1.202,0.0334,96.958,0.74,13
+668,عود 2,5,7y15ugCqD6iaIhfKp2feuJ,Ekhtalafna Meen,spotify:track:7y15ugCqD6iaIhfKp2feuJ,0.838,0.483,0.718,0,0.394,-1.006,0.0319,142.505,0.488,27
+669,عود 2,6,3CTOSF58TDeblyolvWzwhZ,Tenaseni,spotify:track:3CTOSF58TDeblyolvWzwhZ,0.82,0.417,0.667,0,0.0899,-0.172,0.042,182.216,0.568,13
+670,عود 2,7,4RogCwqUGbqzyfuyUHuW3b,Youm Aqbalat,spotify:track:4RogCwqUGbqzyfuyUHuW3b,0.765,0.561,0.841,0.000323,0.0715,-1.102,0.0421,81.956,0.435,14
+671,عود 2,8,4z5fXeZGPdMiXODNGO2DQR,Tenshed An Al Hal,spotify:track:4z5fXeZGPdMiXODNGO2DQR,0.646,0.643,0.869,0,0.12,-0.603,0.0318,153.896,0.892,18
+672,عود 2,9,7H2VSWG3VGF31Ds4F5rtz5,Marratni Al Doniya,spotify:track:7H2VSWG3VGF31Ds4F5rtz5,0.672,0.465,0.929,0.00741,0.674,-2.082,0.032,142.431,0.964,19
+673,عود 2,10,7jP2ZxvfyRQwygMgxbREHW,Ala Al Bal,spotify:track:7jP2ZxvfyRQwygMgxbREHW,0.833,0.491,0.607,0,0.161,-1.634,0.0326,142.215,0.59,28
+674,عود 2,11,4XlPsEuuuaMYW2vG2DtdUu,Namat Oyouni Ala Hesnak,spotify:track:4XlPsEuuuaMYW2vG2DtdUu,0.492,0.673,0.813,0.213,0.212,-1.451,0.0405,146.566,0.831,13
+675,عود 2,12,7Kx8ybv8b06C8WcjszcPKz,El Jarh Arham,spotify:track:7Kx8ybv8b06C8WcjszcPKz,0.8,0.439,0.669,3.48e-06,0.0966,-4.006,0.0358,138.489,0.607,12
+676,Balean Aleha Elhob,1,69Idf4twcHw4xOFLprHhp4,Amout We Areaf,spotify:track:69Idf4twcHw4xOFLprHhp4,0.361,0.576,0.649,0,0.134,-4.428,0.0434,152.068,0.753,1
+677,Balean Aleha Elhob,2,4qe9GDyblS2SQpykx7PxxD,Balean Aleha Elhob,spotify:track:4qe9GDyblS2SQpykx7PxxD,0.155,0.519,0.647,0,0.103,-4.386,0.0321,141.985,0.299,1
+678,Balean Aleha Elhob,3,1Bd0wNjFeNR2szZdRNHuBe,Hawalt,spotify:track:1Bd0wNjFeNR2szZdRNHuBe,0.241,0.586,0.72,0,0.0519,-4.538,0.0682,141.979,0.619,1
+679,Balean Aleha Elhob,4,4gl3bkCnSui2vapnQGlSww,Hes Taar,spotify:track:4gl3bkCnSui2vapnQGlSww,0.357,0.68,0.649,9.16e-06,0.265,-6.638,0.0271,100.027,0.637,1
+680,Balean Aleha Elhob,5,1IBuTzVEuIId91N6qWT9SV,Kalam El Qalab,spotify:track:1IBuTzVEuIId91N6qWT9SV,0.24,0.579,0.618,0,0.105,-4.904,0.0362,144.984,0.465,1
+681,Balean Aleha Elhob,6,6aBTuu1GgM0RI5gwnLGzMY,Najm Aleye,spotify:track:6aBTuu1GgM0RI5gwnLGzMY,0.232,0.513,0.747,0,0.12,-3.773,0.0501,137.883,0.448,1
+682,Balean Aleha Elhob,7,5QBN3F27RPlM1qICqMsNfI,Shakaak ElNouman,spotify:track:5QBN3F27RPlM1qICqMsNfI,0.112,0.526,0.868,0,0.0893,-6.95,0.0727,163.963,0.838,0
+683,Balean Aleha Elhob,8,08RGIeX8jknJyjRF4htX7B,Shekenalak,spotify:track:08RGIeX8jknJyjRF4htX7B,0.787,0.605,0.755,0,0.0555,-4.875,0.0325,98.017,0.689,1
+684,Balean Aleha Elhob,9,1LCSttQkZ9GrU5tJz0dBNS,Wahda Be Wahda,spotify:track:1LCSttQkZ9GrU5tJz0dBNS,0.243,0.65,0.785,0,0.0667,-5.104,0.0487,100.03,0.948,0
+685,Mohammad Abdu Songs,1,3gfOOQZ89gedyutOnXtQ12,Ma Kan Lh Daee,spotify:track:3gfOOQZ89gedyutOnXtQ12,0.264,0.543,0.714,0,0.127,-6.066,0.177,159.856,0.656,4
+686,Mohammad Abdu Songs,2,3wzbRYOZmGfe6Yc5jWKgyG,Ya Ayoha,spotify:track:3wzbRYOZmGfe6Yc5jWKgyG,0.465,0.598,0.747,0,0.107,-8.366,0.0854,158.019,0.83,4
+687,Mohammad Abdu Songs,3,3yrfkaIRfj1SYqlnYpMakl,Akher Tomohati,spotify:track:3yrfkaIRfj1SYqlnYpMakl,0.35,0.497,0.865,0,0.0558,-7.46,0.151,82.177,0.684,4
+688,Mohammad Abdu Songs,4,10NCKe18IrCEPRLuMWfZjD,Layel,spotify:track:10NCKe18IrCEPRLuMWfZjD,0.573,0.603,0.732,0,0.18,-7.114,0.0757,87.503,0.672,2
+689,Mohammad Abdu Songs,5,0eQOJL4SBLz7BxxKDnlny4,Faman Allah,spotify:track:0eQOJL4SBLz7BxxKDnlny4,0.127,0.648,0.837,0,0.206,-4.892,0.0889,157.924,0.8,2
+690,Mohammad Abdu Songs,6,4482eSV8Tg1AVY4eqZI0a8,Alla Khalaq,spotify:track:4482eSV8Tg1AVY4eqZI0a8,0.25,0.572,0.655,0,0.0907,-7.383,0.134,159.887,0.862,2
+691,Mohammad Abdu Songs,7,39VPW9gUwMDVtoPWaRdaSg,Adab,spotify:track:39VPW9gUwMDVtoPWaRdaSg,0.577,0.549,0.668,6.22e-06,0.263,-7.74,0.12,158.159,0.442,2
+692,Mohammad Abdu Songs,8,37SVimXBJjwwZ0tpcFeNE2,Qemt Al Damaa,spotify:track:37SVimXBJjwwZ0tpcFeNE2,0.0972,0.589,0.662,4.4e-06,0.0564,-9.264,0.0463,78.999,0.602,1
+693,Mohammad Abdu Songs,9,6SgiLzkPOvmrYASRPmBPMQ,Hawa Al Emarat,spotify:track:6SgiLzkPOvmrYASRPmBPMQ,0.466,0.546,0.66,0,0.17,-8.365,0.196,155.98,0.373,1
+694,Mohammad Abdu Songs,10,54V2oSiaZbhzvfip2aaEqh,Hokomt Al Hob,spotify:track:54V2oSiaZbhzvfip2aaEqh,0.234,0.539,0.771,0,0.0779,-4.597,0.0458,82.894,0.655,1
+695,Mohammad Abdu Songs,11,7wQ01tSVGNdLOuhjWCRT86,Dniya Al Qaseed,spotify:track:7wQ01tSVGNdLOuhjWCRT86,0.203,0.614,0.698,3.07e-06,0.525,-8.101,0.0981,158.027,0.734,1
+696,Wahdak,1,6NYlMugxnfvQgjAWzSwuT7,Allah Alalim,spotify:track:6NYlMugxnfvQgjAWzSwuT7,0.323,0.552,0.758,0,0.121,-8.406,0.0445,159.948,0.697,5
+697,Wahdak,2,2Bjvr6otHRa1TAXBYoBtx3,Alqolob Ashab,spotify:track:2Bjvr6otHRa1TAXBYoBtx3,0.233,0.543,0.802,2.06e-06,0.296,-10.302,0.0794,176.049,0.583,2
+698,Wahdak,3,12uPjfksHltH5sC8mEdD9C,Bahir Aloyon,spotify:track:12uPjfksHltH5sC8mEdD9C,0.205,0.605,0.713,1.24e-06,0.0667,-8.069,0.0492,137.96,0.804,2
+699,Wahdak,4,0K7jA49n9siOviCyTRsseP,Albariha,spotify:track:0K7jA49n9siOviCyTRsseP,0.0984,0.516,0.487,3.27e-06,0.0947,-9.123,0.0266,108.065,0.151,1
+700,Wahdak,5,394kyjLvt4wVCE3pDtLJ0m,Salim,spotify:track:394kyjLvt4wVCE3pDtLJ0m,0.128,0.668,0.678,0,0.0796,-8.003,0.181,85.973,0.5,1
+701,Wahdak,6,0MggbGR8L1GKiDPz4YuYdK,Wahdak,spotify:track:0MggbGR8L1GKiDPz4YuYdK,0.378,0.631,0.605,0,0.177,-9.574,0.0619,128.065,0.566,1
+702,Wahdak,7,1LLFvxcPBN7T6H5548XTxD,Wahashni Zamanak,spotify:track:1LLFvxcPBN7T6H5548XTxD,0.0624,0.614,0.493,0,0.154,-8.492,0.0296,142.046,0.162,3
+703,Wahdak,8,4kuEaUNRpGghtifj2bGtRi,Shakhbarak,spotify:track:4kuEaUNRpGghtifj2bGtRi,0.0361,0.563,0.744,2.39e-06,0.259,-7.384,0.0549,150.007,0.514,7
+704,La Warabi,1,0hlyttcQUCy4CKwakzjfaz,La Warabi,spotify:track:0hlyttcQUCy4CKwakzjfaz,0.939,0.254,0.327,0.817,0.452,-16.13,0.0555,175.545,0.388,11
+705,La Warabi,2,1O9dVPxlisHZ7REa2FD5we,Al Sail,spotify:track:1O9dVPxlisHZ7REa2FD5we,0.44,0.608,0.289,1.24e-06,0.113,-17.116,0.0771,153.622,0.582,16
+706,La Warabi,3,4ZA3BeXRs7qDN7OyKoH96X,Law Kalaftini Al Mahabah,spotify:track:4ZA3BeXRs7qDN7OyKoH96X,0.339,0.577,0.362,0.00144,0.397,-11.244,0.104,117.714,0.586,7
+707,La Warabi,4,1Hok8EFnDwjQgiiAGkdQsq,Galbi Yalli,spotify:track:1Hok8EFnDwjQgiiAGkdQsq,0.421,0.258,0.456,0.00332,0.84,-17.718,0.0549,143.102,0.413,12
+708,La Warabi,5,6L1Ypy3vhFy72tBtHTY1fh,Min Badi Al Wagt,spotify:track:6L1Ypy3vhFy72tBtHTY1fh,0.919,0.619,0.117,0.0155,0.107,-20.24,0.0607,70.412,0.832,22
+709,La Warabi,6,0NgZr9wJkKC6y8GUuIiRJU,Wain Ahib Al Layalh,spotify:track:0NgZr9wJkKC6y8GUuIiRJU,0.832,0.436,0.373,1.16e-05,0.148,-14.32,0.081,206.804,0.894,14
+710,La Warabi,7,4vC514rZlY5DcAKdVFBpK8,Hala Bel Tayeb Al Ghali,spotify:track:4vC514rZlY5DcAKdVFBpK8,0.0619,0.427,0.468,0,0.178,-9.937,0.0675,170.777,0.718,13
+711,La Warabi,8,6OZZzW2bZm6w1GOcfbUlN8,Warayum,spotify:track:6OZZzW2bZm6w1GOcfbUlN8,0.849,0.321,0.334,0.0282,0.306,-19.357,0.0496,83.268,0.605,7
+712,Law Wafeet,1,1zIx9V9Q1uoA294v1nbSuG,Law Wafeet,spotify:track:1zIx9V9Q1uoA294v1nbSuG,0.872,0.657,0.404,0,0.406,-12.411,0.0767,110.231,0.506,17
+713,Law Wafeet,2,57TEUo6f4ORVPMedkcsKIB,Li Thalath Ayam,spotify:track:57TEUo6f4ORVPMedkcsKIB,0.0415,0.265,0.416,0,0.653,-18.753,0.0719,162.258,0.587,12
+714,Law Wafeet,3,0neYdApW0HLuFWA1B27Znm,Layali Najd,spotify:track:0neYdApW0HLuFWA1B27Znm,0.689,0.497,0.269,6.98e-05,0.284,-15.727,0.0406,77.945,0.443,13
+715,Law Wafeet,4,4T3K90x6xSSc2zIZEWzjND,Laytaik Maei Dayem,spotify:track:4T3K90x6xSSc2zIZEWzjND,0.699,0.341,0.38,0,0.806,-13.253,0.0383,112.963,0.676,8
+716,Law Wafeet,5,35sW1rP4H8EcZ1BsZA2roN,Laytim Maei Sahir,spotify:track:35sW1rP4H8EcZ1BsZA2roN,0.0256,0.576,0.647,1.51e-06,0.23,-11.814,0.0918,163.132,0.713,8
+717,Law Wafeet,6,0ibVb9z6AN4aJ10YGfJlFw,Muzhilah,spotify:track:0ibVb9z6AN4aJ10YGfJlFw,0.277,0.436,0.544,0,0.6,-13.362,0.11,147.637,0.647,25
+718,Law Wafeet,7,4xx8oe8vbKdB2X06zhfJYt,Laylat Khamees,spotify:track:4xx8oe8vbKdB2X06zhfJYt,0.921,0.349,0.599,0.000177,0.714,-8.704,0.0323,148.831,0.536,17
+719,Law Wafeet,8,1zCsiPXnOpLIzkwGaGiF9I,Ma Bagalli Galb,spotify:track:1zCsiPXnOpLIzkwGaGiF9I,0.887,0.474,0.229,0.0119,0.113,-20.189,0.0367,146.509,0.658,12
+720,Ma Fi Daii,1,3sZX5XkErTatkFUY0My1Sd,Mafi Daii,spotify:track:3sZX5XkErTatkFUY0My1Sd,0.927,0.507,0.225,0.47,0.0851,-20.069,0.105,110.873,0.784,2
+721,Ma Fi Daii,2,24ccobvx7i33zRYFSwVSkJ,Mali Araha,spotify:track:24ccobvx7i33zRYFSwVSkJ,0.649,0.517,0.311,0,0.135,-16.191,0.0438,158.373,0.621,1
+722,Ma Fi Daii,3,3ziKlUEGvvAM642QO55gQg,Mali Ghena Annak,spotify:track:3ziKlUEGvvAM642QO55gQg,0.588,0.606,0.212,0.00014,0.103,-17.029,0.0478,96.566,0.556,1
+723,Ma Fi Daii,4,1hFLzv1npzjFWoTOjiBQbZ,Majomooat Ensan,spotify:track:1hFLzv1npzjFWoTOjiBQbZ,0.151,0.595,0.751,0,0.0456,-9.235,0.114,157.983,0.783,3
+724,Ma Fi Daii,5,6GiIE4qn6atGFxCjWG9K8J,Majnounha,spotify:track:6GiIE4qn6atGFxCjWG9K8J,0.834,0.548,0.222,0.00124,0.0711,-19.652,0.0371,144.673,0.628,3
+725,Ma Fi Daii,6,1V000xdM2k7OZUc9qhpjDd,Muhtaj Laha,spotify:track:1V000xdM2k7OZUc9qhpjDd,0.688,0.448,0.403,0,0.144,-17.39,0.0645,179.45,0.883,1
+726,Ma Fi Daii,7,3a80Q4filHbzF69w7UruQ7,Balkhair,spotify:track:3a80Q4filHbzF69w7UruQ7,0.743,0.547,0.267,0.00877,0.566,-16.785,0.0523,157.363,0.493,1
+727,Ma Fi Daii,8,7v3dTNwyLsUP3pzoGue9wl,Gali Al Hatham,spotify:track:7v3dTNwyLsUP3pzoGue9wl,0.274,0.499,0.428,0.00032,0.416,-13.972,0.248,152.904,0.315,1
+728,Ma Fi Daii,9,6CaXpnppo2mEkqThCt1H8o,Etna,spotify:track:6CaXpnppo2mEkqThCt1H8o,0.808,0.379,0.208,0.00417,0.222,-19.459,0.0547,165.643,0.535,1
+729,Agrab Al Nass,1,50CMxb2cVViiNfWHdFOiXR,Agrab Al Nass,spotify:track:50CMxb2cVViiNfWHdFOiXR,0.737,0.541,0.274,0.00023,0.208,-15.924,0.0444,156.257,0.494,12
+730,Agrab Al Nass,2,6Cq9jxYMafA9QZwqNolvJo,Aglagni Al Tarr,spotify:track:6Cq9jxYMafA9QZwqNolvJo,0.905,0.552,0.43,0.791,0.107,-13.626,0.0388,89.193,0.865,7
+731,Agrab Al Nass,3,7qXb6Xw1V0H9N7jHurMwa5,Al Amakin,spotify:track:7qXb6Xw1V0H9N7jHurMwa5,0.198,0.276,0.635,0,0.677,-7.498,0.0566,149.037,0.556,30
+732,Agrab Al Nass,4,3Ujk9gQFphOXMwVOHgmt6N,Al Brouaz,spotify:track:3Ujk9gQFphOXMwVOHgmt6N,0.493,0.277,0.3,0,0.703,-16.51,0.0608,74.214,0.505,12
+733,Agrab Al Nass,5,4KhoZ3tNPvpn1fHgYp5AjZ,Al Tamani,spotify:track:4KhoZ3tNPvpn1fHgYp5AjZ,0.663,0.451,0.515,0,0.924,-16.144,0.0541,153.78,0.839,10
+734,Agrab Al Nass,6,3uvOTHQ0uYuXFzP65Q2zAV,Al Rasyaeel,spotify:track:3uvOTHQ0uYuXFzP65Q2zAV,0.609,0.319,0.506,0.000694,0.133,-10.964,0.0361,141.437,0.343,13
+735,Agrab Al Nass,7,0h1nERXXoj5TrkklMMCSka,Al Sahil Al Shargi,spotify:track:0h1nERXXoj5TrkklMMCSka,0.85,0.491,0.664,7.88e-05,0.156,-11.114,0.0449,82.973,0.8,11
+736,Ala Albal,1,16vujuNQfDiwiKtxXVejNf,Ala Albal,spotify:track:16vujuNQfDiwiKtxXVejNf,0.753,0.537,0.342,0,0.0951,-14.735,0.0431,156.041,0.775,14
+737,Ala Albal,2,38IpeAozW6CT3PW8nbXSmr,Murtah Ahibak,spotify:track:38IpeAozW6CT3PW8nbXSmr,0.921,0.652,0.22,0.511,0.108,-20.121,0.0645,149.836,0.671,14
+738,Ala Albal,3,0JO0WuDv1BboOR7soWVZWw,Abaad,spotify:track:0JO0WuDv1BboOR7soWVZWw,0.0779,0.328,0.517,0,0.347,-15.195,0.0817,161.005,0.742,18
+739,Ala Albal,4,1QKWswwQRnngOUtWqKfgz3,Abatizir,spotify:track:1QKWswwQRnngOUtWqKfgz3,0.819,0.393,0.49,1.23e-06,0.669,-9.016,0.16,79.556,0.475,14
+740,Ala Albal,5,6MphHr5HoPNWtOw47QBfCM,Esmahili Ya Gharam,spotify:track:6MphHr5HoPNWtOw47QBfCM,0.761,0.453,0.544,0,0.716,-12.006,0.051,91.188,0.631,14
+741,Ala Albal,6,3SPxrgsmCxj11dMzJw9TgF,Ashofak Kil Youm,spotify:track:3SPxrgsmCxj11dMzJw9TgF,0.275,0.379,0.312,0,0.523,-19.65,0.0493,83.951,0.858,28
+742,Ana Habibi,1,1qnJjgdQ1GDbvV1Pg6WvHN,Ana Habibi,spotify:track:1qnJjgdQ1GDbvV1Pg6WvHN,0.203,0.335,0.785,0,0.9,-7.576,0.0579,161.147,0.861,31
+743,Ana Habibi,2,6YKvw6uPNLWAqPnSmJWczD,Ana Wa Khili,spotify:track:6YKvw6uPNLWAqPnSmJWczD,0.398,0.315,0.538,0,0.912,-16.01,0.0622,154.324,0.69,19
+744,Ana Habibi,3,1KXuTC9dF06SEnFaLZIKcm,Enta Mahboubi,spotify:track:1KXuTC9dF06SEnFaLZIKcm,0.586,0.272,0.437,1.39e-06,0.331,-16.237,0.0405,149.484,0.507,15
+745,Ana Habibi,4,7wjjCbUBkim0OHh7l3Mukh,Anwarat Begedoumak,spotify:track:7wjjCbUBkim0OHh7l3Mukh,0.793,0.376,0.42,0,0.961,-22.674,0.445,156.036,0.687,12
+746,Ana Habibi,5,246bQ2hRixnOS8FDkE9Mob,Awah,spotify:track:246bQ2hRixnOS8FDkE9Mob,0.743,0.626,0.299,0.000233,0.138,-17.362,0.038,136.487,0.543,11
+747,Ana Habibi,6,2wnqqFF8rWlnzA5RYEA4eC,Ayouh,spotify:track:2wnqqFF8rWlnzA5RYEA4eC,0.892,0.219,0.356,0.981,0.416,-20.745,0.0511,80.134,0.655,14
+748,Ban Sahi Al Tarf,1,2RGmtl8KSAAJeyDtuFTZpn,Ban Sahi Al Tarf,spotify:track:2RGmtl8KSAAJeyDtuFTZpn,0.925,0.507,0.225,0.503,0.0878,-20.072,0.111,110.83,0.778,1
+749,Ban Sahi Al Tarf,2,6aklzKiVOAQlIOdedGQYl5,Tedalal Alayna,spotify:track:6aklzKiVOAQlIOdedGQYl5,0.631,0.515,0.311,0,0.0759,-16.198,0.0437,158.455,0.625,1
+750,Ban Sahi Al Tarf,3,4pTdgTFrSNC7VlmoU4xxBd,Terhab Be Ghayri,spotify:track:4pTdgTFrSNC7VlmoU4xxBd,0.604,0.611,0.211,0.000125,0.0663,-17.013,0.0484,97.343,0.547,1
+751,Ban Sahi Al Tarf,4,4FQsuJMbfDxFIoPszX551y,Taal,spotify:track:4FQsuJMbfDxFIoPszX551y,0.156,0.596,0.751,0,0.043,-9.262,0.12,157.966,0.769,2
+752,Ban Sahi Al Tarf,5,3iKGIuiAaYeifwC05Cjedk,Teazbni,spotify:track:3iKGIuiAaYeifwC05Cjedk,0.842,0.546,0.221,0.00102,0.0705,-19.648,0.0371,144.474,0.632,2
+753,Ban Sahi Al Tarf,7,771fSWLyu0eaJB5yAXMzE0,Hajm Al Masafah,spotify:track:771fSWLyu0eaJB5yAXMzE0,0.703,0.553,0.264,0.0103,0.49,-16.776,0.0482,157.361,0.512,1
+754,Ban Sahi Al Tarf,8,756Eg8281h9fap5pCFteQY,Helmana Al Wardi,spotify:track:756Eg8281h9fap5pCFteQY,0.309,0.484,0.434,0.000242,0.492,-13.977,0.245,152.853,0.343,1
+755,Ban Sahi Al Tarf,9,33GCjrA7g0lnENRXkuAMr9,Hamam Al Shahar,spotify:track:33GCjrA7g0lnENRXkuAMr9,0.819,0.416,0.21,0.00176,0.184,-19.429,0.0602,166.203,0.53,1
+756,Dastour,1,65vyTHXNFvyqOU2X73ogiJ,Dastour,spotify:track:65vyTHXNFvyqOU2X73ogiJ,0.941,0.267,0.326,0.835,0.186,-16.104,0.0538,175.602,0.412,4
+757,Dastour,2,78hrUhEJPcrbEQrVAMVaMM,Zikrah,spotify:track:78hrUhEJPcrbEQrVAMVaMM,0.436,0.61,0.285,1.52e-06,0.0828,-17.092,0.0844,153.631,0.576,7
+758,Dastour,3,7nmK67NnOq89gEzEeR0rqM,Raba Hajir,spotify:track:7nmK67NnOq89gEzEeR0rqM,0.333,0.577,0.358,0.0014,0.313,-11.231,0.111,119.476,0.574,3
+759,Dastour,4,0wQerDEFU3cforCXB4Y913,Rudi Salami,spotify:track:0wQerDEFU3cforCXB4Y913,0.427,0.257,0.461,0.00285,0.85,-17.713,0.0536,144.437,0.404,12
+760,Dastour,5,7KHg686k77wmtXvzoXVI7E,Rasouli Goum,spotify:track:7KHg686k77wmtXvzoXVI7E,0.92,0.614,0.118,0.0149,0.107,-20.236,0.0617,70.345,0.843,9
+761,Dastour,6,3j1SRbJB2VtdrN4A9I1pN3,Still Janahah,spotify:track:3j1SRbJB2VtdrN4A9I1pN3,0.82,0.435,0.366,8.22e-06,0.115,-14.345,0.0821,205.07,0.899,6
+762,Dastour,7,4XM3KTcSSpyEYllaYDqHKF,Sara Al Layl,spotify:track:4XM3KTcSSpyEYllaYDqHKF,0.0578,0.402,0.469,0,0.138,-9.954,0.0696,114.006,0.731,6
+763,Dastour,8,1ZmYbKHHiySuMnYoihQR5m,Sikat Al Tayeheen,spotify:track:1ZmYbKHHiySuMnYoihQR5m,0.84,0.262,0.331,0.0239,0.32,-19.35,0.0487,79.657,0.607,6
+764,Eid Al Farah,1,34ccHdE5b03sZB0KZbfJ7l,Eid Al Farah,spotify:track:34ccHdE5b03sZB0KZbfJ7l,0.522,0.397,0.339,0.0118,0.408,-17.184,0.0357,149.17,0.74,6
+765,Eid Al Farah,2,0GRCyLxMDMKEnZrNCzATaa,Eyounak La Tuareeha,spotify:track:0GRCyLxMDMKEnZrNCzATaa,0.0424,0.46,0.64,0,0.101,-10.365,0.0551,150.254,0.603,6
+766,Eid Al Farah,3,1TXijGsNyAf3IzxvXh9fWB,Eyouni Hazeenah,spotify:track:1TXijGsNyAf3IzxvXh9fWB,0.691,0.441,0.429,0.654,0.7,-18.577,0.0462,72.922,0.938,4
+767,Eid Al Farah,4,4Rc0aDnWOTsrV4OJScqxTj,Gafil Al Hamm,spotify:track:4Rc0aDnWOTsrV4OJScqxTj,0.853,0.448,0.221,1.42e-05,0.151,-21.672,0.0535,146.636,0.843,6
+768,Eid Al Farah,5,5PMMVCrjKCK38fUJoREYyI,Gareeb Al Dar,spotify:track:5PMMVCrjKCK38fUJoREYyI,0.878,0.565,0.294,0.326,0.0664,-17.416,0.0342,141.904,0.822,6
+769,Eid Al Farah,6,4DjZx5NGJ5ePL2mMl0RRCC,Mouj Al Naseem,spotify:track:4DjZx5NGJ5ePL2mMl0RRCC,0.905,0.418,0.0889,0.0355,0.12,-21.603,0.076,199.401,0.601,4
+770,Eid Al Farah,7,7xTVjYSRW8A1SmgWEKTRNb,Fi Al Jou Ghaim,spotify:track:7xTVjYSRW8A1SmgWEKTRNb,0.706,0.271,0.432,8.27e-06,0.807,-16.036,0.0557,156.816,0.517,5
+771,Eid Al Farah,8,23uOhCSTNwpkuWWHroEhGH,Fi Eyounak,spotify:track:23uOhCSTNwpkuWWHroEhGH,0.661,0.542,0.393,0.00379,0.136,-16.518,0.0489,153.692,0.891,4
+772,Enta Al Hawa,1,7DTdwTKylFigR2j2qsMpt9,Enta Al Hawa,spotify:track:7DTdwTKylFigR2j2qsMpt9,0.811,0.398,0.214,0.00855,0.245,-19.023,0.0618,79.148,0.522,4
+773,Enta Al Hawa,2,5A0BPoW1rgO8Tatr3zCs6i,Al Ougad,spotify:track:5A0BPoW1rgO8Tatr3zCs6i,0.396,0.481,0.299,0,0.337,-17.853,0.0368,154.187,0.87,5
+774,Enta Al Hawa,3,1hUZ65HTVBdH8jqGZxFRQ9,Al Maazeem,spotify:track:1hUZ65HTVBdH8jqGZxFRQ9,0.775,0.313,0.343,4.48e-06,0.676,-14.584,0.0629,75.105,0.381,14
+775,Enta Al Hawa,4,4Fh0PD8gltJbWSts3ZVJVK,Al Wafa Tabbi,spotify:track:4Fh0PD8gltJbWSts3ZVJVK,0.0161,0.226,0.695,2.49e-06,0.61,-13.198,0.0888,169.73,0.708,3
+776,Enta Al Hawa,5,0FR3m8YZ0eSAymFNn77trD,Al Wannah,spotify:track:0FR3m8YZ0eSAymFNn77trD,0.449,0.538,0.683,3.6e-05,0.945,-11.125,0.0403,147.292,0.709,5
+777,Enta Al Hawa,6,05mSwaZ4fPRnud0vI4KPsr,Ela Man,spotify:track:05mSwaZ4fPRnud0vI4KPsr,0.637,0.426,0.401,2.51e-05,0.308,-11.862,0.0511,157.088,0.779,4
+778,Gaswah,1,1GYEUeLLIy1P59Wf8O3gYI,Gaswah,spotify:track:1GYEUeLLIy1P59Wf8O3gYI,0.308,0.388,0.668,0,0.97,-7.08,0.0873,151.988,0.729,5
+779,Gaswah,2,5lSl6qw1OWKD3RSLtv9nE0,Kan Al Wafa Tabbee,spotify:track:5lSl6qw1OWKD3RSLtv9nE0,0.0345,0.222,0.402,0,0.541,-21.11,0.1,172.543,0.668,4
+780,Gaswah,3,3KW2kRAXqLbbDVhBuCS58t,Kifani Azab,spotify:track:3KW2kRAXqLbbDVhBuCS58t,0.52,0.37,0.535,4.45e-05,0.686,-10.547,0.055,153.71,0.606,12
+781,Gaswah,4,2dwtmaTXMMCMHUy3ZkSpp8,Kul Ma Gafayet,spotify:track:2dwtmaTXMMCMHUy3ZkSpp8,0.334,0.35,0.502,0,0.473,-15.517,0.0499,149.947,0.592,10
+782,Gaswah,5,4JXZhk5lO3ZUtLWy2fecH5,Kulak Nazar,spotify:track:4JXZhk5lO3ZUtLWy2fecH5,0.0312,0.472,0.546,0,0.122,-14.725,0.0616,151.387,0.791,4
+783,Gaswah,6,5SWY9tkHunsx6DYeoGNpDy,La Tejraheeni,spotify:track:5SWY9tkHunsx6DYeoGNpDy,0.882,0.537,0.186,0.00171,0.113,-18.459,0.0307,96.899,0.625,4
+784,Gaswah,7,2rscdhin0g0G1GsKPGeg94,Lak Hagg Tezaal,spotify:track:2rscdhin0g0G1GsKPGeg94,0.837,0.55,0.339,0.0398,0.149,-14.525,0.086,77.28,0.755,3
+785,La Tisrig Al Wagt,1,5r0fnxRqMvk1piTuaeuIcC,La Tisrig Al Wagt,spotify:track:5r0fnxRqMvk1piTuaeuIcC,0.418,0.463,0.247,0,0.458,-17.981,0.0461,154.368,0.6,10
+786,La Tisrig Al Wagt,2,6K1dWPjrLeElyR02k9aDSu,Ma Ajmalak,spotify:track:6K1dWPjrLeElyR02k9aDSu,0.577,0.622,0.452,0,0.255,-17.238,0.0879,87.575,0.932,3
+787,La Tisrig Al Wagt,3,1yQXCkFX2alhL1sn41LZVF,Ya Haseeb Al Rouh,spotify:track:1yQXCkFX2alhL1sn41LZVF,0.957,0.547,0.298,0.444,0.118,-20.026,0.0566,80.398,0.96,3
+788,La Tisrig Al Wagt,4,6Lif4Orc81gP7pdfEqxcs1,Ya Mashaaalah Allah,spotify:track:6Lif4Orc81gP7pdfEqxcs1,0.654,0.662,0.712,5.36e-05,0.302,-11.235,0.0543,88.685,0.922,2
+789,La Tisrig Al Wagt,5,2UGz0u3xr6nkOm5AWtBvZ6,Ya Hamamah,spotify:track:2UGz0u3xr6nkOm5AWtBvZ6,0.832,0.411,0.724,0,0.421,-7.709,0.133,149.607,0.813,9
+790,La Tisrig Al Wagt,6,4MR0gU9pM45PstlGrqWWgR,Ya Sahaeeb,spotify:track:4MR0gU9pM45PstlGrqWWgR,0.866,0.372,0.339,5.27e-06,0.108,-13.591,0.0643,170.14,0.4,4
+791,La Tisrig Al Wagt,7,5umi0zWqiYKgEpKbhT5VQS,Ghartin Al Ayam,spotify:track:5umi0zWqiYKgEpKbhT5VQS,0.757,0.503,0.54,0.0135,0.488,-13.472,0.0413,80.12,0.94,3
+792,La Tisrig Al Wagt,8,0h5MG7jush2ROJx0nuHxDc,Hayati Kulha,spotify:track:0h5MG7jush2ROJx0nuHxDc,0.826,0.386,0.412,0.00266,0.29,-11.703,0.0529,203.111,0.75,3
+793,La Tisrig Al Wagt,9,5YrUCGoik9eat2EySKC0Zg,La Tishtaki,spotify:track:5YrUCGoik9eat2EySKC0Zg,0.838,0.683,0.523,0.00488,0.126,-10.787,0.0441,93.913,0.678,4
+794,La Tisrig Al Wagt,10,1wlkdyx6VpXQ49WEXvvkt1,Washaib Aini,spotify:track:1wlkdyx6VpXQ49WEXvvkt1,0.874,0.365,0.37,0.082,0.199,-14.441,0.0937,157.664,0.534,3
+795,Ounshoudat Al Matar,1,1uhpsRe2CUJfQGu3AbjJU6,Ounshoudat Al Matar,spotify:track:1uhpsRe2CUJfQGu3AbjJU6,0.585,0.382,0.475,0,0.415,-8.204,0.0366,101.596,0.54,12
+796,Ounshoudat Al Matar,2,0uP8WOPWOQB7c2IVrX7Rpf,Al Ghazal Alaredeah,spotify:track:0uP8WOPWOQB7c2IVrX7Rpf,0.0992,0.543,0.537,0,0.208,-15.192,0.204,89.971,0.74,3
+797,Ounshoudat Al Matar,3,5J1vxK5cuAaKvsQTSY7vr5,Al Moaanah,spotify:track:5J1vxK5cuAaKvsQTSY7vr5,0.66,0.539,0.772,1.58e-06,0.119,-8.043,0.11,83.788,0.291,4
+798,Ounshoudat Al Matar,4,2mLLl8ZPR6uuX9K6z6AOTo,Sammi,spotify:track:2mLLl8ZPR6uuX9K6z6AOTo,0.0294,0.271,0.559,0,0.598,-13.763,0.0761,83.582,0.61,3
+799,Ounshoudat Al Matar,5,0dtfekqTz6oP3DfkaIT5vp,Alamtha,spotify:track:0dtfekqTz6oP3DfkaIT5vp,0.843,0.544,0.534,0.0278,0.0694,-11.009,0.04,145.487,0.563,4
+800,Ounshoudat Al Matar,6,1XjNljwCvZvfp58ZObweo5,Eyoun Al Lail,spotify:track:1XjNljwCvZvfp58ZObweo5,0.0481,0.423,0.59,0,0.133,-10.333,0.0479,152.965,0.802,4
+801,أغاني على العود الجزء الرابع,1,18CC10UTWLPHhEBjWYspsO,ألا يا وقت,spotify:track:18CC10UTWLPHhEBjWYspsO,0.927,0.523,0.304,0,0.109,-7.02,0.0344,113.643,0.324,4
+802,أغاني على العود الجزء الرابع,2,4qttbLGGmY15fOa4IE2E1g,حبكم وسط الحشى,spotify:track:4qttbLGGmY15fOa4IE2E1g,0.894,0.493,0.443,0,0.0889,-3.029,0.0336,105.606,0.306,3
+803,أغاني على العود الجزء الرابع,3,262XNTLTBbpuBD2Rz6RIrC,ساعات,spotify:track:262XNTLTBbpuBD2Rz6RIrC,0.94,0.484,0.299,0,0.105,-6.919,0.0329,107.821,0.306,4
+804,أغاني على العود الجزء الرابع,4,3kPJsaYkXIOiKuRjB2Vkzp,قهر,spotify:track:3kPJsaYkXIOiKuRjB2Vkzp,0.937,0.537,0.246,0,0.106,-7.293,0.0462,100.574,0.352,2
+805,أغاني على العود الجزء الرابع,5,2EfMSVPakvcCgKFVmarLKJ,لبيه,spotify:track:2EfMSVPakvcCgKFVmarLKJ,0.937,0.584,0.364,0,0.2,-4.877,0.044,117.596,0.431,2
+806,أغاني على العود الجزء الرابع,6,7o7fIMSW1bIUh0GA1aDEiJ,رحمة عيونك,spotify:track:7o7fIMSW1bIUh0GA1aDEiJ,0.961,0.366,0.267,1.14e-05,0.0868,-7.302,0.0431,198.473,0.24,2
+807,أغاني على العود الجزء الرابع,7,6XEDHR5B9IbJLFBhC6Kc57,ودي أبكي,spotify:track:6XEDHR5B9IbJLFBhC6Kc57,0.943,0.588,0.386,0,0.104,-3.346,0.0412,123.908,0.29,1
+808,أغاني على العود الجزء الرابع,8,24ZiOxCafzuL2BgS4BuZCD,ودي أغير,spotify:track:24ZiOxCafzuL2BgS4BuZCD,0.938,0.517,0.323,0,0.109,-5.98,0.0532,68.163,0.49,1
+809,أغاني على العود الجزء الرابع,9,6rfwEp8rHnpOULZwaGZgDd,عيد النظر,spotify:track:6rfwEp8rHnpOULZwaGZgDd,0.866,0.582,0.269,0,0.0592,-7.215,0.0441,119.934,0.667,5
+810,Best Of Rashed Pt.2,1,3lkcdXTrg1Pv2ZtkA4QIOY,Sout Al Makan,spotify:track:3lkcdXTrg1Pv2ZtkA4QIOY,0.0558,0.458,0.914,0,0.0481,0.15,0.227,149.889,0.782,9
+811,Best Of Rashed Pt.2,2,3lriUIkoR1wcctTh5Ylpgb,Al Shouhra,spotify:track:3lriUIkoR1wcctTh5Ylpgb,0.0917,0.615,0.705,0,0.0698,-6.135,0.0836,160.437,0.601,8
+812,Best Of Rashed Pt.2,3,2i02FwSiYA7y0yDXCt8RSf,Hajm Al Zaal,spotify:track:2i02FwSiYA7y0yDXCt8RSf,0.344,0.611,0.781,0,0.0611,-2.838,0.16,80.826,0.551,16
+813,Best Of Rashed Pt.2,4,3X5IQxKDmsk7oKFm548wo3,La Tgherak Dehkety,spotify:track:3X5IQxKDmsk7oKFm548wo3,0.383,0.573,0.885,0,0.0307,-4.532,0.241,78.942,0.687,15
+814,Best Of Rashed Pt.2,5,4bfPRvbOSwhHZWnFj4AcAA,Al Darahem,spotify:track:4bfPRvbOSwhHZWnFj4AcAA,0.224,0.609,0.844,2.22e-06,0.081,-3.504,0.223,90.017,0.808,7
+815,Best Of Rashed Pt.2,6,2RG0lba4DqduVCozxzBhwE,Hazy Ttoboei,spotify:track:2RG0lba4DqduVCozxzBhwE,0.242,0.619,0.794,0,0.0249,-5.8,0.151,87.006,0.67,11
+816,Best Of Rashed Pt.2,7,2sIjaWNBEXmO4hXvjkqB7J,BeEed Tarekni,spotify:track:2sIjaWNBEXmO4hXvjkqB7J,0.0992,0.635,0.923,0,0.126,-3.369,0.222,92.05,0.683,14
+817,Best Of Rashed Pt.2,8,2lEFdW1YELtUgyMGDifBMz,Hala Belli,spotify:track:2lEFdW1YELtUgyMGDifBMz,0.445,0.625,0.961,0,0.0439,-0.404,0.139,92.424,0.735,18
+818,Best Of Rashed Pt.2,9,33hrOIYuJYaqBQyjhPnRWs,Shef Dameti,spotify:track:33hrOIYuJYaqBQyjhPnRWs,0.15,0.638,0.924,0,0.0664,-0.398,0.111,92.116,0.704,8
+819,Best Of Rashed Pt.2,10,7nyvKPysP23dvQwgvnCo0P,Toubah,spotify:track:7nyvKPysP23dvQwgvnCo0P,0.258,0.637,0.938,0,0.106,-1.657,0.206,95.378,0.808,8
+820,Best Of Rashed Pt.2,11,3y57OE7wIq0F4S66Xw0fRv,Baynonah,spotify:track:3y57OE7wIq0F4S66Xw0fRv,0.212,0.721,0.862,0,0.249,0.004,0.0463,110.976,0.741,3
+821,Best Of Rashed Pt.2,12,14Rzp3VdvS2aKoOf88b0N7,Ashoof El Zaen,spotify:track:14Rzp3VdvS2aKoOf88b0N7,0.208,0.533,0.781,0,0.192,-5.631,0.0711,77.026,0.785,6
+822,Best Of Rashed Pt.2,13,1EBUPAXHkgxekW92JntOPo,Al Add Al Tanazoli,spotify:track:1EBUPAXHkgxekW92JntOPo,0.307,0.462,0.922,0,0.283,0.247,0.275,83.561,0.781,5
+823,حفلة دبي 2016,1,1sIV0mMt6xHRQOypjQwJIz,ياناسينا,spotify:track:1sIV0mMt6xHRQOypjQwJIz,0.29,0.477,0.838,0.00347,0.796,-4.809,0.0633,145.465,0.768,7
+824,حفلة دبي 2016,2,2V8BzuYFNTtHjfNLX761Vg,دبي دانة الدنيا,spotify:track:2V8BzuYFNTtHjfNLX761Vg,0.729,0.329,0.807,1.35e-06,0.661,-5.836,0.178,81.686,0.361,2
+825,حفلة دبي 2016,3,0kgExM6Fowcin4Y5mC0wr9,المسافر,spotify:track:0kgExM6Fowcin4Y5mC0wr9,0.568,0.44,0.684,0.00709,0.29,-6.148,0.0327,134.355,0.44,5
+826,حفلة دبي 2016,4,7ClXZvKTovVB7YFmTXwq1U,عشيري,spotify:track:7ClXZvKTovVB7YFmTXwq1U,0.462,0.302,0.808,6.8e-05,0.476,-5.773,0.155,70.814,0.768,3
+827,حفلة دبي 2016,5,2fhrNGqmzW9hFyG9vkSeIu,خذ راحتك,spotify:track:2fhrNGqmzW9hFyG9vkSeIu,0.604,0.483,0.744,0,0.766,-4.908,0.0456,145.303,0.713,12
+828,حفلة دبي 2016,6,3eMXRrVZsm9im4LbweMmJD,يا غالي الناس,spotify:track:3eMXRrVZsm9im4LbweMmJD,0.501,0.392,0.787,1.54e-06,0.888,-4.356,0.0522,144.878,0.642,3
+829,حفلة دبي 2016,7,60YC24XgxdRqqMCbo0Dn5J,أحلى عذاب,spotify:track:60YC24XgxdRqqMCbo0Dn5J,0.54,0.459,0.748,0.00419,0.716,-5.384,0.0559,71.3,0.827,2
+830,حفلة دبي 2016,8,51lR5TPE86uPtdNssSue9l,كثر كل شي واحشني,spotify:track:51lR5TPE86uPtdNssSue9l,0.702,0.372,0.605,5.39e-05,0.624,-5.823,0.0356,130.978,0.473,5
+831,حفلة دبي 2016,9,662sDOKCxCwugQkO2jVrT8,ولا عليا,spotify:track:662sDOKCxCwugQkO2jVrT8,0.59,0.456,0.715,1.16e-05,0.661,-7.136,0.159,79.006,0.823,2
+832,حفلة دبي 2016,10,125XHuusPpepmDLoJ7IVoF,الليل والناس,spotify:track:125XHuusPpepmDLoJ7IVoF,0.679,0.44,0.573,3.49e-05,0.896,-6.2,0.0369,134.721,0.328,2
+833,حفلة دبي 2016,11,5W49BA4WKLmd8IdOAVHFrz,لربما,spotify:track:5W49BA4WKLmd8IdOAVHFrz,0.587,0.265,0.609,2.01e-06,0.372,-7.271,0.082,204.736,0.608,11
+834,حفلة دبي 2016,13,5PO7IEid3dueTg86QxESmb,الأولاني,spotify:track:5PO7IEid3dueTg86QxESmb,0.639,0.612,0.676,7.64e-05,0.211,-6.109,0.0465,142.023,0.65,2
+835,حفلة دبي 2016,14,0jEDomb6llkMtG6zORjwU1,شرطان الذهب,spotify:track:0jEDomb6llkMtG6zORjwU1,0.498,0.62,0.72,0.000136,0.183,-6.154,0.0454,144.074,0.858,6
+836,حفلة دبي 2016,15,17D8WP9oVeCTgEFRKbM9cW,بكرة,spotify:track:17D8WP9oVeCTgEFRKbM9cW,0.482,0.393,0.687,0,0.393,-6.888,0.102,68.875,0.676,3
+837,حفلة دبي 2016,18,4sm2eSIjqgkp74LMdnDpbs,أجيبه,spotify:track:4sm2eSIjqgkp74LMdnDpbs,0.417,0.476,0.774,0,0.535,-5.584,0.0754,146.763,0.763,3
+838,حفلة دبي 2016,19,3XFRnICkWLlSwDW6S0Zojx,عذاب العاشقينا,spotify:track:3XFRnICkWLlSwDW6S0Zojx,0.552,0.591,0.775,5.56e-06,0.71,-4.724,0.0804,141.852,0.824,4
+839,حفلة دبي 2016,21,3aXMHo8vdak59yNfXEl6cG,إلا هذا,spotify:track:3aXMHo8vdak59yNfXEl6cG,0.566,0.614,0.855,1.2e-06,0.0923,-5.985,0.171,148.138,0.923,1
+840,حفلة دبي 2016,22,7Kz9QyoCjpIW5JxWIg5Qq3,القمره,spotify:track:7Kz9QyoCjpIW5JxWIg5Qq3,0.357,0.469,0.812,2.39e-06,0.456,-5.629,0.0775,81.939,0.816,1
+841,حفلة دبي 2016,23,2ATfXhfcsKipOKnGM3Rhrc,أغلى حبيبة,spotify:track:2ATfXhfcsKipOKnGM3Rhrc,0.682,0.529,0.693,2.93e-06,0.569,-5.493,0.0671,135.427,0.759,2
+842,حفلة دبي 2016,24,6F0TQjCgX3vRvfCRUZxedi,أبشر من عيوني,spotify:track:6F0TQjCgX3vRvfCRUZxedi,0.579,0.537,0.764,3.08e-06,0.239,-5.872,0.0694,144.467,0.776,7
+843,حفلة دبي 2016,25,5sZbBVOpsXWUc0sMm7b6wR,أنا الأبيض,spotify:track:5sZbBVOpsXWUc0sMm7b6wR,0.565,0.61,0.866,0,0.785,-5.999,0.163,142.157,0.806,6
+844,حفلة دبي 2016,26,6LnHKKzN0mP6MRYXfU7NpP,تفنن,spotify:track:6LnHKKzN0mP6MRYXfU7NpP,0.537,0.5,0.714,0,0.567,-5.51,0.0536,142.495,0.699,2
+845,حفلة دبي 2016,27,5GOwmY1HIIbDx0oyvwzIpd,سارق القلب,spotify:track:5GOwmY1HIIbDx0oyvwzIpd,0.471,0.514,0.849,0,0.592,-6.098,0.139,148.435,0.864,6
+846,أغاني على العود الجزء الثالث,1,6dqT1rtvERsDltPUFLmn3M,الا يا وقت,spotify:track:6dqT1rtvERsDltPUFLmn3M,0.963,0.554,0.072,0,0.109,-17.165,0.0555,111.053,0.334,2
+847,أغاني على العود الجزء الثالث,2,5v34ucsUKUpQtBHW4Mp0Vs,غير الناس,spotify:track:5v34ucsUKUpQtBHW4Mp0Vs,0.98,0.522,0.0613,0,0.106,-18.828,0.0704,110.66,0.224,5
+848,أغاني على العود الجزء الثالث,3,04C72uh8reYPdusNfBMznl,تحس توك,spotify:track:04C72uh8reYPdusNfBMznl,0.982,0.486,0.0412,3.24e-06,0.0985,-19.088,0.0618,107.783,0.152,3
+849,أغاني على العود الجزء الثالث,4,31GL0RyHvDVQmRnKVs7AW9,توصي شيء,spotify:track:31GL0RyHvDVQmRnKVs7AW9,0.974,0.55,0.0546,0,0.107,-16.873,0.0786,111.929,0.37,2
+850,أغاني على العود الجزء الثالث,6,40UeGHl4MrbA1Z2breSQVP,صاحب اللي,spotify:track:40UeGHl4MrbA1Z2breSQVP,0.933,0.61,0.311,0,0.105,-8.996,0.132,72.16,0.395,1
+851,أغاني على العود الجزء الثالث,7,0ufHAdsfolO5DR4UAiSCPS,وحشتيني,spotify:track:0ufHAdsfolO5DR4UAiSCPS,0.974,0.516,0.0454,0.00054,0.11,-19.414,0.0559,108.735,0.324,3
+852,أغاني على العود الجزء الثاني,2,0TNEIiybOln0yuXMGQqsUH,فقدناك,spotify:track:0TNEIiybOln0yuXMGQqsUH,0.981,0.513,0.0958,1.03e-05,0.0989,-17.396,0.0478,108.094,0.393,1
+853,أغاني على العود الجزء الثاني,3,1I8q8eJ1tBNPzTt2HGqPCW,أرجوك,spotify:track:1I8q8eJ1tBNPzTt2HGqPCW,0.964,0.489,0.132,2.3e-06,0.115,-14.003,0.0416,123.27,0.341,1
+854,أغاني على العود الجزء الثاني,5,4oTtZDIrpSSIxwfZW81cQY,أشكي,spotify:track:4oTtZDIrpSSIxwfZW81cQY,0.944,0.546,0.114,0,0.101,-13.636,0.0674,135.495,0.189,1
+855,أغاني على العود الجزء الثاني,6,6fY0tP5EFOs4MK7UhmiCSb,علمتني,spotify:track:6fY0tP5EFOs4MK7UhmiCSb,0.985,0.471,0.0501,5.67e-05,0.09,-20.038,0.0459,113.719,0.145,1
+856,أغاني على العود الجزء الثاني,8,0fllFXY20e24uufeOFxWTs,خلاص الماضي ودعته,spotify:track:0fllFXY20e24uufeOFxWTs,0.967,0.519,0.0914,0.000147,0.103,-18.09,0.0651,104.355,0.237,0
+857,أغاني على العود الجزء الأول,1,4SBsBtGg8sRXazD58nuGOJ,لي بنت عم,spotify:track:4SBsBtGg8sRXazD58nuGOJ,0.94,0.507,0.234,0,0.114,-10.082,0.0774,69.273,0.423,1
+858,أغاني على العود الجزء الأول,3,2uiKweMbeKDwOsMKw0KuZw,البارحة,spotify:track:2uiKweMbeKDwOsMKw0KuZw,0.936,0.613,0.279,0,0.118,-9.85,0.076,70.132,0.431,0
+859,أغاني على العود الجزء الأول,5,0FhcObWT1fEwZsEeJEAjRL,للصبر أخر,spotify:track:0FhcObWT1fEwZsEeJEAjRL,0.95,0.495,0.114,3.76e-06,0.108,-16.7,0.0408,124.262,0.272,1
+860,أغاني على العود الجزء الأول,6,2OsKNbFDvhd0aWDjvjqqjm,حكمه,spotify:track:2OsKNbFDvhd0aWDjvjqqjm,0.947,0.54,0.266,0,0.107,-9.053,0.0608,123.639,0.429,0
+861,أغاني على العود الجزء الأول,7,4OLIMJ5VRsCky9SZrvOGJK,وحشتني سواليفك,spotify:track:4OLIMJ5VRsCky9SZrvOGJK,0.974,0.423,0.0535,1.56e-05,0.107,-20.862,0.0697,76.11,0.295,1
+862,أغاني على العود الجزء الأول,9,7lLJAb6UrtQx9gLUnbMTVw,قالت لي أنساني,spotify:track:7lLJAb6UrtQx9gLUnbMTVw,0.947,0.541,0.176,0,0.111,-13.286,0.0541,126.24,0.206,1
+863,مصيبه,1,1We8FfjYtVobDnvvSosvwv,قربي,spotify:track:1We8FfjYtVobDnvvSosvwv,0.546,0.673,0.662,1.01e-06,0.0702,-6.47,0.111,84.171,0.794,21
+864,مصيبه,2,1Mr7oq1wGhbAshoneIQbkJ,ماجاني النوم,spotify:track:1Mr7oq1wGhbAshoneIQbkJ,0.163,0.681,0.688,6.39e-06,0.049,-6.679,0.126,86.538,0.939,15
+865,مصيبه,3,5IX0ebfjv9o7weodgnjhYx,تحدونا,spotify:track:5IX0ebfjv9o7weodgnjhYx,0.52,0.376,0.723,0,0.0981,-5.692,0.301,208.066,0.7,16
+866,مصيبه,4,3Px24Yzce30buZ1rIoMw5u,البايع,spotify:track:3Px24Yzce30buZ1rIoMw5u,0.151,0.424,0.734,0,0.0833,-6.649,0.229,81.054,0.655,17
+867,مصيبه,5,2NUTwqCHZWLFsK32ijtH1m,ويلو,spotify:track:2NUTwqCHZWLFsK32ijtH1m,0.41,0.617,0.773,3.59e-06,0.0377,-3.512,0.16,77.958,0.906,31
+868,مصيبه,6,20Pweo9wBHRyjAZ3kCklMR,تحسب إنك,spotify:track:20Pweo9wBHRyjAZ3kCklMR,0.0975,0.418,0.696,1.59e-06,0.0708,-7.147,0.0999,81.641,0.686,9
+869,مصيبه,7,5TEPLUp7pDoBzekLy9zbVk,مصيبه,spotify:track:5TEPLUp7pDoBzekLy9zbVk,0.0552,0.579,0.76,0,0.0629,-6.09,0.143,75.078,0.815,10
+870,مصيبه,8,3E4MTIreJSTDbcBMMLbHkK,كلٍ تغنى لي,spotify:track:3E4MTIreJSTDbcBMMLbHkK,0.15,0.52,0.832,0,0.203,-5.428,0.17,81.661,0.747,11
+871,مصيبه,9,6TW09wJuwFPbqb1GnfhMOi,زودتها,spotify:track:6TW09wJuwFPbqb1GnfhMOi,0.209,0.612,0.762,0,0.149,-5.963,0.102,88.651,0.668,8
+872,مصيبه,10,4N0oyCudblRGc2Av99WX8R,تذكرين,spotify:track:4N0oyCudblRGc2Av99WX8R,0.308,0.563,0.642,5.02e-05,0.151,-7.043,0.0513,129.88,0.369,12
+873,مصيبه,11,2idPmMpZYW8L3gABjKi4Xw,راحت علّي,spotify:track:2idPmMpZYW8L3gABjKi4Xw,0.0218,0.583,0.785,0,0.174,-4.71,0.0543,144.931,0.405,6
+874,مصيبه,12,3nnSyj6bxv3nQ3DF5VFRcY,حلال فيه الجرح,spotify:track:3nnSyj6bxv3nQ3DF5VFRcY,0.07,0.683,0.811,0,0.0402,-6.981,0.195,90.931,0.699,9
+875,مصيبه,13,0ZTTSARI8B1OQUadA16J0z,ياقلبي,spotify:track:0ZTTSARI8B1OQUadA16J0z,0.349,0.579,0.752,0,0.0696,-6.566,0.0992,139.994,0.708,9
+876,مصيبه,14,6MVg3xg50hWPdZMjhROtXo,محلاه,spotify:track:6MVg3xg50hWPdZMjhROtXo,0.15,0.678,0.651,0,0.0308,-6.83,0.151,81.923,0.935,17
+877,مصيبه,15,5jUxhuynO29Vq4ysl1QAt7,يقول راشد,spotify:track:5jUxhuynO29Vq4ysl1QAt7,0.0333,0.423,0.804,0,0.637,-5.752,0.0925,141.083,0.615,8
+878,Rashed Al Majid Songs- Collection 1,1,0yjume2oYfQeEhfGDj1oaa,Sabri Maleni,spotify:track:0yjume2oYfQeEhfGDj1oaa,0.548,0.688,0.669,0,0.353,-7.643,0.0845,90.753,0.781,5
+879,Rashed Al Majid Songs- Collection 1,2,7JuVRDWke8qbkZedMJqADh,Soot Almoheb,spotify:track:7JuVRDWke8qbkZedMJqADh,0.0471,0.703,0.79,0,0.0297,-6.018,0.244,96.961,0.516,3
+880,Rashed Al Majid Songs- Collection 1,3,7vuhVfxeGyu2BxgYWtkJB2,Shaer Ertejali,spotify:track:7vuhVfxeGyu2BxgYWtkJB2,0.601,0.726,0.831,0,0.0808,-6.618,0.131,108.201,0.626,2
+881,Rashed Al Majid Songs- Collection 1,4,6Capn3Y5gRySGouuQtktAt,La Teghrek Dehketi,spotify:track:6Capn3Y5gRySGouuQtktAt,0.491,0.597,0.71,0,0.0408,-10.24,0.234,78.995,0.697,4
+882,Rashed Al Majid Songs- Collection 1,5,0nuMiHqLFMuxOnqMEKn3nD,Helwa Mout,spotify:track:0nuMiHqLFMuxOnqMEKn3nD,0.11,0.43,0.783,0,0.0435,-5.078,0.285,176.982,0.498,3
+883,Rashed Al Majid Songs- Collection 1,6,5IImFmGPEA2FzOhjLhgdT6,Hala Balibali,spotify:track:5IImFmGPEA2FzOhjLhgdT6,0.549,0.675,0.78,0,0.045,-7.918,0.0995,92.388,0.835,5
+884,Rashed Al Majid Songs- Collection 1,7,2sQgJWTMqFeGxBwX0G6ljL,Beed Tarkni,spotify:track:2sQgJWTMqFeGxBwX0G6ljL,0.172,0.436,0.752,0,0.0732,-8.305,0.217,92.079,0.731,4
+885,Rashed Al Majid Songs- Collection 1,8,0jpMC93DPRZ7bqu7ZH4sO5,Madkhal Gharami,spotify:track:0jpMC93DPRZ7bqu7ZH4sO5,0.0859,0.585,0.64,0,0.105,-9.607,0.122,92.761,0.617,3
+886,Rashed Al Majid Songs- Collection 1,9,5U27yb3kQgFAOe3nmcFkU2,Tooba,spotify:track:5U27yb3kQgFAOe3nmcFkU2,0.209,0.548,0.816,0,0.0826,-6.387,0.209,95.058,0.742,2
+887,Rashed Al Majid Songs- Collection 1,10,4C70Ys5bzlHKgvYESci7Lu,Fi Khatrak Haja,spotify:track:4C70Ys5bzlHKgvYESci7Lu,0.519,0.726,0.821,0,0.153,-8.59,0.135,91.004,0.742,1
+888,Rashed Al Majid Songs- Collection 2,1,6x6hIT8YqB9qd5rN17k3th,Sheft Damatee,spotify:track:6x6hIT8YqB9qd5rN17k3th,0.361,0.687,0.819,0,0.0935,-4.977,0.152,92.068,0.825,6
+889,Rashed Al Majid Songs- Collection 2,2,2SjaBVriWAqHsGG7wANO8m,Shaiyatinak,spotify:track:2SjaBVriWAqHsGG7wANO8m,0.529,0.684,0.915,0,0.281,-6.935,0.0858,101.248,0.806,2
+890,Rashed Al Majid Songs- Collection 2,3,2iLguaQD6dMbe61RU6WM2r,Hazi Tbooe,spotify:track:2iLguaQD6dMbe61RU6WM2r,0.23,0.638,0.593,0,0.0393,-11.023,0.113,87.057,0.694,2
+891,Rashed Al Majid Songs- Collection 2,4,5C5sryg8ZrHB7uxyX8yXPe,Hajeem Alzaal,spotify:track:5C5sryg8ZrHB7uxyX8yXPe,0.398,0.639,0.624,0,0.0151,-7.632,0.15,80.931,0.602,9
+892,Rashed Al Majid Songs- Collection 2,5,0j7qiQbDm2C61AWLhsGwBS,Gheiab,spotify:track:0j7qiQbDm2C61AWLhsGwBS,0.104,0.536,0.801,0,0.051,-5.137,0.211,95.97,0.473,1
+893,Rashed Al Majid Songs- Collection 2,6,1CyVrDkOe7CaytdBcalnyZ,Dktort Jroh Al Gharam,spotify:track:1CyVrDkOe7CaytdBcalnyZ,0.614,0.621,0.611,0,0.116,-7.157,0.133,160.767,0.734,6
+894,Rashed Al Majid Songs- Collection 2,7,3pyngghm1fACSbiO5ERBh6,Darahem,spotify:track:3pyngghm1fACSbiO5ERBh6,0.315,0.684,0.702,9.5e-06,0.15,-6.683,0.183,89.987,0.792,2
+895,Rashed Al Majid Songs- Collection 2,8,33v5eQE8feRA3z7ga1S6ne,Burj Al Arab,spotify:track:33v5eQE8feRA3z7ga1S6ne,0.656,0.362,0.799,0,0.28,-6.311,0.237,82.558,0.563,2
+896,Rashed Al Majid Songs- Collection 2,9,0kiA3YPNE9bgnv5W4vY7yX,Tahany Al Eid,spotify:track:0kiA3YPNE9bgnv5W4vY7yX,0.265,0.43,0.659,0,0.0932,-9.509,0.193,190.252,0.681,0
+897,Rashed Al Majid Songs- Collection 2,10,0A6sdp9qbwus6Qps7jrJLe,Alshohra Toghair Al Alalam,spotify:track:0A6sdp9qbwus6Qps7jrJLe,0.23,0.511,0.643,8.13e-06,0.115,-6.975,0.0803,80.072,0.592,2
+898,Rashed Al Majid Songs- Collection 2,11,5tUOwPADR1mXZHCJHbImrM,Alsalfa,spotify:track:5tUOwPADR1mXZHCJHbImrM,0.0744,0.736,0.782,0,0.325,-8.119,0.237,107.073,0.556,3
+899,Haflet Jeddah,1,1jdzF5fksNoFUQg3Us35tF,Yslm Rask,spotify:track:1jdzF5fksNoFUQg3Us35tF,0.0639,0.521,0.805,0,0.067,-7.179,0.137,169.944,0.921,3
+900,Haflet Jeddah,2,6nlqP78366sy3ffeJIyUp7,Hle,spotify:track:6nlqP78366sy3ffeJIyUp7,0.278,0.612,0.901,0.000456,0.0848,-5.787,0.0767,174.003,0.954,1
+901,Haflet Jeddah,3,6jGs8NXqpB44PP05TI1Tcr,Metkaber Alena,spotify:track:6jGs8NXqpB44PP05TI1Tcr,0.265,0.594,0.695,1.43e-06,0.157,-8.217,0.117,140.014,0.575,2
+902,Haflet Jeddah,4,2adTF82ajOIcIsLLzOOe9M,Qohr,spotify:track:2adTF82ajOIcIsLLzOOe9M,0.201,0.489,0.697,0,0.0997,-7.663,0.11,84.884,0.671,1
+903,Haflet Jeddah,5,2cZ5oHVbjkXfIIexXO8mcZ,Eony Lk,spotify:track:2cZ5oHVbjkXfIIexXO8mcZ,0.105,0.592,0.762,0,0.338,-7.27,0.0625,86.963,0.771,1
+904,Haflet Jeddah,6,2OKZeR43xkwz6SIW9aqYAt,Sbry,spotify:track:2OKZeR43xkwz6SIW9aqYAt,0.122,0.702,0.772,3.47e-06,0.361,-6.743,0.0899,84.997,0.798,2
+905,Haflet Jeddah,7,50K0i0o3npeye3r9dPosba,Sahy Lhm,spotify:track:50K0i0o3npeye3r9dPosba,0.2,0.597,0.727,0,0.146,-9.48,0.0537,84.972,0.812,1
+906,Haflet Jeddah,8,4R1lPC8n3rsTKghb52NDyT,Saat,spotify:track:4R1lPC8n3rsTKghb52NDyT,0.454,0.53,0.612,4.37e-05,0.0931,-8.414,0.0641,133.925,0.266,0
+907,Haflet Jeddah,9,2U9t4WUyqhzAaGiKvLgmJu,Sahrny,spotify:track:2U9t4WUyqhzAaGiKvLgmJu,0.0494,0.686,0.761,0,0.0712,-7.717,0.117,115.925,0.84,0
+908,Haflet Jeddah,10,0SmnF1FDHc2yq3dxWP3hDd,Gedah,spotify:track:0SmnF1FDHc2yq3dxWP3hDd,0.296,0.711,0.857,9.09e-05,0.0475,-7.37,0.0818,111.987,0.792,0
+909,Haflet Jeddah,11,4K9XNeryAFBvLrot9EGWye,Tnht A Elgorh,spotify:track:4K9XNeryAFBvLrot9EGWye,0.316,0.513,0.614,0.000269,0.0905,-11.332,0.0435,83.894,0.795,1
+910,Haflet Jeddah,12,28B0EAQwJD0hZT6uJMcacn,Elsodeh,spotify:track:28B0EAQwJD0hZT6uJMcacn,0.322,0.541,0.689,0,0.195,-6.646,0.159,140.114,0.233,1
+911,جلسات وناسة 2009,1,4N4byRsCw382tio0kfq3y1,خاينه,spotify:track:4N4byRsCw382tio0kfq3y1,0.687,0.424,0.694,0,0.113,-6.318,0.105,106.986,0.614,8
+912,جلسات وناسة 2009,2,6bkEg3tkba5W6mC7x0TJEZ,ياليت دروبنا,spotify:track:6bkEg3tkba5W6mC7x0TJEZ,0.52,0.495,0.863,0.000514,0.131,-4.329,0.108,146.866,0.795,1
+913,جلسات وناسة 2009,3,4axGBLnKerGcv0bf57tQaA,صبري,spotify:track:4axGBLnKerGcv0bf57tQaA,0.57,0.499,0.708,3.38e-05,0.605,-5.239,0.048,131.134,0.751,2
+914,جلسات وناسة 2009,4,0YwZjgKoi6P4My4D3xpaAQ,السالفة,spotify:track:0YwZjgKoi6P4My4D3xpaAQ,0.641,0.444,0.875,0,0.8,-4.109,0.197,107.144,0.812,2
+915,جلسات وناسة 2009,5,7vftgtazaosIoHoEMVUtja,ياهلا,spotify:track:7vftgtazaosIoHoEMVUtja,0.584,0.427,0.78,0.000501,0.254,-4.715,0.0676,140.713,0.764,2
+916,جلسات وناسة 2009,6,2o6U2gta2VnLh5vlh83IaP,نور عيني,spotify:track:2o6U2gta2VnLh5vlh83IaP,0.654,0.32,0.638,0.000387,0.163,-5.349,0.0622,163.589,0.656,1
+917,جلسات وناسة 2009,8,56o5gDzRWoFyF5W0WAIHRa,صاحي لهم,spotify:track:56o5gDzRWoFyF5W0WAIHRa,0.668,0.411,0.688,0.00182,0.127,-6.326,0.0653,143.03,0.541,2
+918,جلسات وناسة 2009,9,7y9pg9eKWE2eQBILvdBEOi,جزى البارحه,spotify:track:7y9pg9eKWE2eQBILvdBEOi,0.612,0.461,0.588,1.15e-06,0.576,-6.217,0.0484,150.953,0.573,1
+919,جلسات وناسة 2009,10,31tPp9jfkG7m7Wxz5mi4oZ,جلب الكاس,spotify:track:31tPp9jfkG7m7Wxz5mi4oZ,0.741,0.648,0.654,0.195,0.625,-7.735,0.043,113.741,0.766,1
+920,جلسات وناسة 2009,11,5W0Kz35EpOtVKMn4leCRSg,سألنا عنك,spotify:track:5W0Kz35EpOtVKMn4leCRSg,0.292,0.436,0.791,0.000534,0.125,-4.376,0.0707,152.471,0.722,2
+921,جلسات وناسة 2009,12,32BJg0mNkfl3CB3TmNMyDL,لو بغيت اضحك,spotify:track:32BJg0mNkfl3CB3TmNMyDL,0.53,0.49,0.772,0.0296,0.765,-5.553,0.0624,141.172,0.789,1
+922,جلسات وناسة 2009,14,6Z5EjgD0O7nqoTetQq3hwp,دنيا حظوظ,spotify:track:6Z5EjgD0O7nqoTetQq3hwp,0.355,0.574,0.755,0.00624,0.48,-4.372,0.0659,85.565,0.81,1
+923,جلسات وناسة 2009,15,6TZ0QmMzuEhn9PdBf15JKh,الله كريم,spotify:track:6TZ0QmMzuEhn9PdBf15JKh,0.696,0.461,0.704,0,0.745,-4.974,0.062,91.678,0.758,5
+924,جلسات وناسة 2009,17,0cgqtuHOkQEyOXJTQYtgoD,مر ظبي,spotify:track:0cgqtuHOkQEyOXJTQYtgoD,0.753,0.541,0.831,0.104,0.628,-6.62,0.0489,145.854,0.899,0
+925,جلسات وناسة 2009,20,201zmvs5j27YbszQwct2gd,من هو حبيبك,spotify:track:201zmvs5j27YbszQwct2gd,0.539,0.569,0.735,0.00186,0.252,-5.612,0.0436,138.187,0.581,1
+926,جلسات وناسة 2009,22,1148Roq84Agxd29UgLkKGS,ياغداره,spotify:track:1148Roq84Agxd29UgLkKGS,0.678,0.447,0.781,2.9e-06,0.659,-3.963,0.175,87.922,0.566,3
+927,جلسات وناسة 2009,23,51iD5Zz3gd2AtPDAtsEmjb,فمان الله,spotify:track:51iD5Zz3gd2AtPDAtsEmjb,0.741,0.368,0.779,0.0052,0.608,-5.84,0.0519,78.695,0.544,2
+928,نور عيني,1,2khMJckgf597CDTurkww8J,وش جاه,spotify:track:2khMJckgf597CDTurkww8J,0.399,0.601,0.853,0,0.275,-4.465,0.235,92.924,0.757,31
+929,نور عيني,2,3wY0cStb0nF40nJnrgoQun,بلا حب,spotify:track:3wY0cStb0nF40nJnrgoQun,0.00847,0.446,0.823,0,0.198,-3.132,0.237,171.896,0.567,23
+930,نور عيني,3,2K6wLdCRuz7iFhB77wY6HH,إللى لقى أحبابه,spotify:track:2K6wLdCRuz7iFhB77wY6HH,0.135,0.484,0.827,0,0.0989,-4.574,0.11,81.578,0.666,31
+931,نور عيني,4,4OXZzT4AA5brBpTvh5ijcN,الريش,spotify:track:4OXZzT4AA5brBpTvh5ijcN,0.0101,0.595,0.831,2.49e-06,0.0508,-3.61,0.122,143.254,0.767,15
+932,نور عيني,5,6sR0gCVYVfKjQzqx1v20bC,ويلاه,spotify:track:6sR0gCVYVfKjQzqx1v20bC,0.302,0.403,0.791,0,0.196,-5.352,0.318,87.321,0.569,23
+933,نور عيني,6,3l9aC87I3LPcFuIRBp2SzY,اسمعك,spotify:track:3l9aC87I3LPcFuIRBp2SzY,0.648,0.66,0.664,0,0.154,-5.333,0.0415,135.112,0.773,17
+934,نور عيني,7,4hcu9axx72TrWHneeU4Wfa,نور عينى,spotify:track:4hcu9axx72TrWHneeU4Wfa,0.192,0.546,0.692,1.4e-06,0.0669,-5.032,0.0603,89.945,0.448,12
+935,نور عيني,8,4XE7QMmSHQ7XNI1qlco7yt,ناوى ترجع,spotify:track:4XE7QMmSHQ7XNI1qlco7yt,0.253,0.625,0.707,0,0.108,-4.655,0.169,135.023,0.327,11
+936,نور عيني,9,5hL3mit2mpk7zpZt0JJzbZ,يا حبك للمشاكل,spotify:track:5hL3mit2mpk7zpZt0JJzbZ,0.19,0.599,0.876,0,0.32,-4.31,0.325,161.671,0.568,10
+937,نور عيني,10,6OQI1FXPS7XLQPRIZbJtAl,يلومونى,spotify:track:6OQI1FXPS7XLQPRIZbJtAl,0.114,0.53,0.804,6.38e-05,0.315,-5.32,0.131,163.754,0.706,14
+938,نور عيني,11,61236eCRnDe10vLsdytqeB,سقانى,spotify:track:61236eCRnDe10vLsdytqeB,0.0133,0.608,0.793,4.24e-06,0.094,-3.922,0.174,143.208,0.611,12
+939,نور عيني,12,0pux4cj88FQUvws1V2PRkT,يمه ارحمينى,spotify:track:0pux4cj88FQUvws1V2PRkT,0.194,0.591,0.815,1.08e-06,0.0765,-6.144,0.246,82.363,0.764,7
+940,نور عيني,13,0NKDbZpAVl1lxosNKlJIq8,مستريح البال,spotify:track:0NKDbZpAVl1lxosNKlJIq8,0.326,0.525,0.855,0,0.392,-5.107,0.224,78.104,0.712,9
+941,نور عيني,14,3oySi40NXz9dgt0jCw4vUW,كثر السنين,spotify:track:3oySi40NXz9dgt0jCw4vUW,0.0752,0.57,0.742,0,0.13,-4.521,0.102,139.99,0.646,13
+942,نور عيني,15,7xJKgpWZTwdyMFLcXk8eho,با هلا,spotify:track:7xJKgpWZTwdyMFLcXk8eho,0.152,0.562,0.817,0,0.108,-4.629,0.0956,146.018,0.673,7
+943,نور عيني,16,49tErRUfA0TiwgXAMuXnd3,اجيبه,spotify:track:49tErRUfA0TiwgXAMuXnd3,0.0214,0.645,0.938,6.26e-05,0.295,-4.681,0.092,150.025,0.88,18
+944,سلامات,1,1TTIWqVY0mDuXYwL5eMWp8,سلامات,spotify:track:1TTIWqVY0mDuXYwL5eMWp8,0.0473,0.451,0.728,0,0.0208,-6.061,0.13,81.549,0.609,5
+945,سلامات,2,1HhzjUzUBA3JHRGfVYkfRd,هّلي,spotify:track:1HhzjUzUBA3JHRGfVYkfRd,0.352,0.383,0.803,0,0.0361,-5.22,0.232,202.931,0.787,2
+946,سلامات,3,10D8k235TezC9bPfLGPWTG,تنحط عالجرح,spotify:track:10D8k235TezC9bPfLGPWTG,0.391,0.644,0.719,0,0.0707,-5.502,0.104,86.003,0.881,8
+947,سلامات,4,3fVFZFU3wEB1nf5a9Ym5AA,عشان الحب,spotify:track:3fVFZFU3wEB1nf5a9Ym5AA,0.0731,0.517,0.649,1.2e-06,0.105,-7.154,0.0353,120.591,0.366,3
+948,سلامات,6,5Iq4IPBltoKvpZCItVaBKu,ساحرني,spotify:track:5Iq4IPBltoKvpZCItVaBKu,0.138,0.588,0.809,0,0.0497,-6.429,0.136,166.851,0.793,1
+949,سلامات,7,1khGf352AUTTBg8s8za1We,صابر,spotify:track:1khGf352AUTTBg8s8za1We,0.219,0.563,0.723,1.38e-06,0.107,-7.273,0.0656,111.968,0.535,0
+950,سلامات,9,3MaDiJjtCZYHjjJVrMpOb3,جلمود,spotify:track:3MaDiJjtCZYHjjJVrMpOb3,0.435,0.572,0.834,0,0.372,-6.779,0.147,95.882,0.549,1
+951,سلامات,10,2lvrX65dsbVhabWyv14Oqw,عيوني لك,spotify:track:2lvrX65dsbVhabWyv14Oqw,0.0925,0.603,0.705,0,0.126,-6.758,0.0921,149.437,0.836,1
+952,سلامات,12,2njrtuxFf14pji7ThSPUfh,ضيعوني,spotify:track:2njrtuxFf14pji7ThSPUfh,0.203,0.608,0.805,0,0.177,-6.334,0.0628,148.01,0.636,2
+953,سلامات,13,1XFHsJkSslfOhLXOVhrvFl,ليل المحبة,spotify:track:1XFHsJkSslfOhLXOVhrvFl,0.29,0.343,0.772,0,0.0811,-6.356,0.0834,82.078,0.498,0
+954,سلامات,14,4qk2PCDmaI9MQ8NaazvS5e,مرتاح,spotify:track:4qk2PCDmaI9MQ8NaazvS5e,0.0481,0.603,0.705,0,0.0718,-7.165,0.169,75.633,0.823,1
+955,سلامات,15,4fySmB73ZPNSl6tZxxCH38,وصية,spotify:track:4fySmB73ZPNSl6tZxxCH38,0.181,0.596,0.723,0,0.215,-7.018,0.0987,142.817,0.554,1
+956,Salamat,1,2e5KkGUj8kKaYKwwQTlMld,Salamat,spotify:track:2e5KkGUj8kKaYKwwQTlMld,0.0512,0.471,0.737,0,0.0132,-5.494,0.121,81.751,0.58,4
+957,Salamat,2,6Y5uwbkxMUXl0y6X57sHG0,Haly,spotify:track:6Y5uwbkxMUXl0y6X57sHG0,0.322,0.575,0.805,0,0.0422,-5.108,0.172,101.236,0.765,5
+958,Salamat,3,6DfpP9hoOPHmjZ3PDpzc6L,Tenhat Al Aljarh,spotify:track:6DfpP9hoOPHmjZ3PDpzc6L,0.235,0.545,0.799,3.17e-06,0.0671,-5.732,0.104,86.827,0.755,7
+959,Salamat,4,3dvkSgIzycWcKuEITX4PRE,Ashan Alhob,spotify:track:3dvkSgIzycWcKuEITX4PRE,0.0725,0.541,0.643,0,0.103,-6.575,0.0319,120.823,0.384,0
+960,Salamat,5,6Xd2pw75x87gYEOkcvZppO,Qahar,spotify:track:6Xd2pw75x87gYEOkcvZppO,0.33,0.435,0.783,0,0.175,-4.764,0.132,137.803,0.392,0
+961,Salamat,6,6nFqUWjZvmfCfiMq2s0sI8,Saherny,spotify:track:6nFqUWjZvmfCfiMq2s0sI8,0.14,0.605,0.799,0,0.055,-6.339,0.134,166.859,0.791,0
+962,Salamat,7,0sIDjQ0j4pOiEjZWZ0LEsX,Saaber,spotify:track:0sIDjQ0j4pOiEjZWZ0LEsX,0.239,0.556,0.729,0,0.0967,-6.71,0.0617,111.975,0.474,1
+963,Salamat,8,2uXcpAYNoSPgJhBnD4HfNf,Sahi Lahom,spotify:track:2uXcpAYNoSPgJhBnD4HfNf,0.187,0.531,0.66,0,0.373,-6.481,0.139,142.953,0.547,1
+964,Salamat,9,7IZf7L7mYHVfex50kEIley,Jllmood,spotify:track:7IZf7L7mYHVfex50kEIley,0.408,0.559,0.833,0,0.382,-6.292,0.161,95.849,0.591,0
+965,Salamat,10,6puTlVNLe2cPy8UQSZ6y4v,Oyouni Lak,spotify:track:6puTlVNLe2cPy8UQSZ6y4v,0.0949,0.608,0.699,0,0.123,-6.218,0.0885,149.352,0.836,0
+966,Salamat,11,2g48pNkBxk4CALVtUJVm16,Sa'aat,spotify:track:2g48pNkBxk4CALVtUJVm16,0.442,0.588,0.602,0,0.169,-7.479,0.0414,125.009,0.314,0
+967,Salamat,12,4KvVuRUnNyI76bKqDnHq0M,Daya'ouny,spotify:track:4KvVuRUnNyI76bKqDnHq0M,0.166,0.611,0.81,0,0.207,-5.832,0.0532,148.05,0.641,0
+968,Salamat,13,1L7ZdBDWJQ6gTxblT34kLp,Layl Almahabah,spotify:track:1L7ZdBDWJQ6gTxblT34kLp,0.264,0.333,0.72,0,0.0848,-5.877,0.0797,81.745,0.567,0
+969,Salamat,14,5i2NgMBZ5wFr0TyU1inVMq,Mertah,spotify:track:5i2NgMBZ5wFr0TyU1inVMq,0.045,0.596,0.711,0,0.0836,-6.678,0.179,75.58,0.816,0
+970,Salamat,15,45QSAQOH0k9ydUCiDfQNkw,Waseiyah,spotify:track:45QSAQOH0k9ydUCiDfQNkw,0.163,0.592,0.679,0,0.241,-6.514,0.0802,142.792,0.751,1
+971,صقور المنتخب,1,6FVQbZZwaC6CsmluNpuCGg,صقور المنتخب,spotify:track:6FVQbZZwaC6CsmluNpuCGg,0.343,0.456,0.716,0,0.174,-9.346,0.232,114.675,0.683,0
+972,صقور المنتخب,2,1leqPbIDuxiPqULVw0DNNa,الصقور الخضر,spotify:track:1leqPbIDuxiPqULVw0DNNa,0.472,0.306,0.765,0,0.461,-8.49,0.192,170.023,0.846,0
+973,صقور المنتخب,3,0QnF7qipta8NHJAfFXV1lW,وطني,spotify:track:0QnF7qipta8NHJAfFXV1lW,0.588,0.616,0.503,0,0.598,-12.188,0.0585,131.823,0.526,0
+974,صقور المنتخب,4,45yzZWr6Q2ZSpxCrireMvf,يا أخضر,spotify:track:45yzZWr6Q2ZSpxCrireMvf,0.688,0.513,0.898,4.5e-05,0.377,-7.989,0.0486,124.816,0.784,0
+975,صقور المنتخب,5,1e8toCbww1GvcftepRI1tc,السعودية,spotify:track:1e8toCbww1GvcftepRI1tc,0.149,0.528,0.602,0,0.357,-9.681,0.0733,185.779,0.696,0
+976,صقور المنتخب,6,52A9ttfZgO05u8dWoooEAP,أخضر عنيد,spotify:track:52A9ttfZgO05u8dWoooEAP,0.287,0.562,0.582,7.42e-06,0.226,-10.773,0.202,119.263,0.865,0
+977,الحل الصعب,1,6GGxbx3gyYCfINPkER5rxe,متكبر علينا,spotify:track:6GGxbx3gyYCfINPkER5rxe,0.471,0.586,0.764,0,0.062,-6.748,0.0657,82.376,0.82,4
+978,الحل الصعب,2,4PKXMvnKFyntKcSBR8CZyy,ياسلام,spotify:track:4PKXMvnKFyntKcSBR8CZyy,0.662,0.584,0.695,0,0.123,-6.575,0.122,159.979,0.743,0
+979,الحل الصعب,3,1KheIhbRcDHBRBurcRnD3C,جاني حبيبي,spotify:track:1KheIhbRcDHBRBurcRnD3C,0.161,0.754,0.77,4.66e-06,0.064,-6.511,0.13,106.009,0.802,2
+980,الحل الصعب,4,6D1nXj4UFm3Febgqwq1eF8,تجرحي,spotify:track:6D1nXj4UFm3Febgqwq1eF8,0.686,0.612,0.537,1.46e-05,0.0813,-9.114,0.0568,121.142,0.412,0
+981,الحل الصعب,5,11O5UxrE57WidAoGvYZ4fo,سلام,spotify:track:11O5UxrE57WidAoGvYZ4fo,0.518,0.444,0.643,6.91e-05,0.0636,-9.817,0.084,78.889,0.424,3
+982,الحل الصعب,6,2pgex1Rm5J97OXsdImgzWs,الحل الصعب,spotify:track:2pgex1Rm5J97OXsdImgzWs,0.624,0.557,0.609,1.25e-05,0.175,-7.939,0.0759,139.988,0.172,3
+983,الحل الصعب,7,2PQjlJLsWnyRH89zAB9fSX,عفناك,spotify:track:2PQjlJLsWnyRH89zAB9fSX,0.489,0.576,0.551,0,0.0743,-6.852,0.0587,147.923,0.592,1
+984,الحل الصعب,8,00CXajZxwdVkC7ncJxcynZ,يومين,spotify:track:00CXajZxwdVkC7ncJxcynZ,0.135,0.49,0.725,5.88e-05,0.103,-6.876,0.168,171.929,0.825,0
+985,الحل الصعب,9,42kQkytCdblabBLlPsmPP8,نسيناكم,spotify:track:42kQkytCdblabBLlPsmPP8,0.666,0.589,0.62,2.36e-05,0.0746,-8.85,0.0433,128.075,0.303,8
+986,الحل الصعب,10,0Og3Vfj3lawtOIBLnhSVy9,يسلم راسك,spotify:track:0Og3Vfj3lawtOIBLnhSVy9,0.598,0.38,0.747,0,0.11,-7.5,0.195,80.347,0.681,2
+987,الحل الصعب,11,2xGL8D4PdaVYwJQXEXeVDh,دلوعتي,spotify:track:2xGL8D4PdaVYwJQXEXeVDh,0.107,0.61,0.918,2e-05,0.0673,-5.396,0.197,100.04,0.457,2
+988,الحل الصعب,12,3vle2nX1zctb9gnWfcgoIz,علمني,spotify:track:3vle2nX1zctb9gnWfcgoIz,0.374,0.502,0.732,3.23e-06,0.101,-7.413,0.124,75.018,0.777,2
+989,الهدايا,1,7EyVwt0Bxuf8jH2JQ3U5WO,العيون,spotify:track:7EyVwt0Bxuf8jH2JQ3U5WO,0.196,0.672,0.78,0,0.0734,-8.376,0.199,80.984,0.804,8
+990,الهدايا,2,2xJjdiSJL0X7FcQ1UMjyeP,من يقول,spotify:track:2xJjdiSJL0X7FcQ1UMjyeP,0.089,0.576,0.437,0,0.0404,-10.398,0.204,81.943,0.876,4
+991,الهدايا,3,5ntRAX5Xoe84M7jg2RMxPr,مااتصلتي,spotify:track:5ntRAX5Xoe84M7jg2RMxPr,0.21,0.634,0.76,0,0.0537,-10.232,0.147,152.149,0.617,0
+992,الهدايا,4,2wdUGTntfIRmFq2xssHNCb,غلاها,spotify:track:2wdUGTntfIRmFq2xssHNCb,0.295,0.701,0.723,0,0.0525,-10.022,0.108,104.864,0.934,0
+993,الهدايا,5,4FUHyBgeJzC3m4k9BMzniN,لك بعد عين,spotify:track:4FUHyBgeJzC3m4k9BMzniN,0.268,0.659,0.584,7.06e-06,0.101,-11.179,0.0458,149.689,0.802,1
+994,الهدايا,6,5qMCGyHk55rtDPmKlOJmnv,الهدايا,spotify:track:5qMCGyHk55rtDPmKlOJmnv,0.432,0.484,0.451,0.00101,0.317,-13.178,0.106,111.287,0.275,2
+995,الهدايا,7,0v9CJjFdU07HepvfO7cFmU,غلطة الأيام,spotify:track:0v9CJjFdU07HepvfO7cFmU,0.155,0.688,0.616,4.98e-06,0.0699,-9.397,0.0522,147.333,0.746,0
+996,الهدايا,8,6ARzV9R0pR6BZZfVxxz0NT,غرشوب,spotify:track:6ARzV9R0pR6BZZfVxxz0NT,0.17,0.633,0.528,0,0.0664,-11.003,0.102,142.2,0.779,0
+997,الهدايا,9,2JjrqOpzJ8nL48Ie5dLfnK,أبراج,spotify:track:2JjrqOpzJ8nL48Ie5dLfnK,0.12,0.592,0.566,0,0.115,-10.906,0.194,159.982,0.798,0
+998,الهدايا,10,27GDkFY3ht0ve87kr3jaG1,مشفي جروحي,spotify:track:27GDkFY3ht0ve87kr3jaG1,0.602,0.658,0.536,0,0.0483,-9.924,0.114,85.224,0.815,1
+999,الهدايا,11,6pXPWIOApDL9ziZpLDIf8J,بخيل,spotify:track:6pXPWIOApDL9ziZpLDIf8J,0.427,0.622,0.639,3.45e-06,0.0573,-11.084,0.0385,147.812,0.501,0
+1000,الهدايا,12,00Fjneu2PuTjcP9nLQOik7,خذا عقلي,spotify:track:00Fjneu2PuTjcP9nLQOik7,0.196,0.552,0.573,0,0.0583,-11.407,0.352,172.009,0.907,0
+1001,الهدايا,13,6ibb97rE9DG8e2QdjmTSUU,مرحبا الساع,spotify:track:6ibb97rE9DG8e2QdjmTSUU,0.399,0.721,0.574,0,0.0768,-10.875,0.0764,91.018,0.694,1
+1002,الهدايا,15,738Xl6aMaPfBcHpGLugB9h,آلا يا وقت,spotify:track:738Xl6aMaPfBcHpGLugB9h,0.595,0.574,0.598,1.02e-06,0.574,-8.663,0.0556,114.1,0.654,0
+1003,مشكلني,1,3sfZs2fTrCsMqtkbpaLfcn,مشكلني,spotify:track:3sfZs2fTrCsMqtkbpaLfcn,0.294,0.698,0.646,3.4e-05,0.0792,-13.227,0.0706,104.523,0.74,30
+1004,مشكلني,2,5gbFEsZi8PL1bcwkqPyrhD,ياويل,spotify:track:5gbFEsZi8PL1bcwkqPyrhD,0.66,0.677,0.57,7.48e-05,0.0586,-13.878,0.0845,164.009,0.937,3
+1005,مشكلني,3,69rsMz9WgM1vtrhzvnBjFw,ألف رحمه,spotify:track:69rsMz9WgM1vtrhzvnBjFw,0.507,0.712,0.536,7.39e-05,0.141,-13.51,0.048,146.074,0.75,2
+1006,مشكلني,4,5uBrDHm9IgSUVFZHbNYrtu,ياذوق,spotify:track:5uBrDHm9IgSUVFZHbNYrtu,0.562,0.668,0.588,1.37e-06,0.0467,-13.322,0.0598,166.369,0.937,1
+1007,مشكلني,7,0D5s1QnunGldEGJICn0Uko,منهو,spotify:track:0D5s1QnunGldEGJICn0Uko,0.374,0.661,0.517,4.88e-05,0.0932,-13.982,0.0628,146.074,0.741,1
+1008,مشكلني,8,4uTZIM5fx9uK6iXRexcSpP,تكفون,spotify:track:4uTZIM5fx9uK6iXRexcSpP,0.636,0.668,0.517,1.61e-06,0.0531,-13.312,0.0583,159.923,0.963,1
+1009,مشكلني,9,4LnxqtOfMOlWutM8YlRzJu,رعبوب,spotify:track:4LnxqtOfMOlWutM8YlRzJu,0.75,0.575,0.46,4.43e-06,0.0466,-12.792,0.0399,90.994,0.961,4
+1010,مشكلني,10,3V1YiBcCjSVevY5EbDQ9lw,حبيبتي,spotify:track:3V1YiBcCjSVevY5EbDQ9lw,0.671,0.643,0.548,1.47e-06,0.0591,-13.552,0.116,158.214,0.773,2
+1011,ويلي,1,7vPoNIeboBHYdQz8rRWsed,ياحبيبي,spotify:track:7vPoNIeboBHYdQz8rRWsed,0.0861,0.581,0.904,0.000324,0.067,-6.902,0.153,100.872,0.845,3
+1012,ويلي,2,4Crh7UYqOcAnvqWeGSKjqi,شّيلي الطرحه,spotify:track:4Crh7UYqOcAnvqWeGSKjqi,0.204,0.655,0.671,0,0.0811,-7.866,0.184,174.512,0.798,2
+1013,ويلي,3,6S1pv0dMu8M4siywQ9hovi,حبيت أّسلم,spotify:track:6S1pv0dMu8M4siywQ9hovi,0.192,0.617,0.563,0,0.204,-7.924,0.0737,147.146,0.641,3
+1014,ويلي,4,1I3vSmxMVEVFP3L3oJ4R9h,غّير الناس,spotify:track:1I3vSmxMVEVFP3L3oJ4R9h,0.11,0.582,0.588,0,0.0446,-8.189,0.0645,142.303,0.558,5
+1015,ويلي,5,5OYChaCM22uk7sVfOWqDhe,تحدوه البشر,spotify:track:5OYChaCM22uk7sVfOWqDhe,0.258,0.621,0.71,0,0.297,-7.761,0.13,152.294,0.588,6
+1016,ويلي,6,63KVgX3zlBcUxg1JrXFjzB,ما أبيك,spotify:track:63KVgX3zlBcUxg1JrXFjzB,0.329,0.653,0.686,0,0.168,-7.477,0.145,155.486,0.29,0
+1017,ويلي,7,6GEnD3XOh3NN1PiOrzp37t,ياخوي,spotify:track:6GEnD3XOh3NN1PiOrzp37t,0.0236,0.689,0.801,0.00171,0.0736,-7.29,0.0603,129.072,0.889,2
+1018,ويلي,8,0hKsoJFW0sg0tJ4I7KVult,ويلي,spotify:track:0hKsoJFW0sg0tJ4I7KVult,0.338,0.646,0.895,0,0.115,-7.725,0.107,94.006,0.444,11
+1019,ويلي,9,6rVOJGzvkUbsYiNIeDCnSv,مزيون,spotify:track:6rVOJGzvkUbsYiNIeDCnSv,0.305,0.717,0.621,1.8e-06,0.0802,-8.561,0.119,166.13,0.767,1
+1020,ويلي,10,7bLGXDxiw3mjD3XLAMDjee,تأخرتي,spotify:track:7bLGXDxiw3mjD3XLAMDjee,0.832,0.685,0.449,0.0526,0.121,-9.954,0.0244,106.016,0.275,2
+1021,ويلي,11,4O60E7JOVidFvVCxdyZp3n,إنتي,spotify:track:4O60E7JOVidFvVCxdyZp3n,0.105,0.563,0.589,0,0.0374,-7.797,0.179,90.169,0.62,1
+1022,على مين تلعبها,1,1dDhm1EAEKERd97gr7ugeK,علي مين تلعبها,spotify:track:1dDhm1EAEKERd97gr7ugeK,0.385,0.664,0.553,0,0.279,-9.904,0.144,90.038,0.847,1
+1023,على مين تلعبها,2,6nCLcZGjuF94eVV8sFsUbn,خلهم ينفعونك,spotify:track:6nCLcZGjuF94eVV8sFsUbn,0.562,0.642,0.555,0,0.165,-9.232,0.0543,151.056,0.75,2
+1024,على مين تلعبها,3,2sDv59CBUrucb6v6eTFG7a,انا احبك,spotify:track:2sDv59CBUrucb6v6eTFG7a,0.717,0.665,0.505,0,0.228,-9.818,0.0427,148.07,0.785,0
+1025,على مين تلعبها,4,68mx6OR0B8Z46KBAnnoX6V,يا بعد هالدنيا ليه,spotify:track:68mx6OR0B8Z46KBAnnoX6V,0.879,0.579,0.286,1.96e-05,0.109,-11.426,0.0304,104.204,0.284,1
+1026,على مين تلعبها,6,6BHgJMggMSWTzuPn07bp8M,امى,spotify:track:6BHgJMggMSWTzuPn07bp8M,0.784,0.597,0.551,0,0.0645,-8.373,0.0538,165.884,0.756,0
+1027,على مين تلعبها,8,1n0LBpb6cjac5viipsXudD,حيا الله,spotify:track:1n0LBpb6cjac5viipsXudD,0.372,0.559,0.565,0,0.101,-9.081,0.051,85.201,0.85,0
+1028,Lovely Majeed (Jalsat & Oud),1,5tIUw2FhWd51Xq3tZmzLAZ,Aghla Al Bashar,spotify:track:5tIUw2FhWd51Xq3tZmzLAZ,0.28,0.557,0.871,0,0.0666,-1.073,0.129,82.95,0.743,18
+1029,Lovely Majeed (Jalsat & Oud),2,3G9O2SaDkN3le4glErLPTt,Habibi Elli Sekan Bel Eyn,spotify:track:3G9O2SaDkN3le4glErLPTt,0.203,0.686,0.909,0,0.116,-1.431,0.184,138.885,0.759,21
+1030,Lovely Majeed (Jalsat & Oud),3,0aMDxtJSJp95x7daJB7fDA,Hala,spotify:track:0aMDxtJSJp95x7daJB7fDA,0.214,0.391,0.944,0,0.258,-0.287,0.272,90.617,0.72,18
+1031,Lovely Majeed (Jalsat & Oud),4,2ou69lNESxzaPYywoTbjj8,Alla Yrham Ghalak,spotify:track:2ou69lNESxzaPYywoTbjj8,0.161,0.535,0.859,0,0.341,-0.648,0.0654,135.9,0.526,11
+1032,Lovely Majeed (Jalsat & Oud),5,0cGhzMHMCAMQ2uHPNcbJG0,Qamat El Saah,spotify:track:0cGhzMHMCAMQ2uHPNcbJG0,0.13,0.505,0.912,0,0.236,-1.288,0.148,78.878,0.593,13
+1033,Lovely Majeed (Jalsat & Oud),6,6mG3tgv8bLFe5z9OoxpbGh,Mahma Yqoloon - Lute Jalsah,spotify:track:6mG3tgv8bLFe5z9OoxpbGh,0.297,0.539,0.577,0,0.409,-5.159,0.055,144.341,0.475,12
+1034,Lovely Majeed (Jalsat & Oud),7,115qGfBQWi8gTRhHDxw4Jt,Tekabbar,spotify:track:115qGfBQWi8gTRhHDxw4Jt,0.0537,0.523,0.9,0,0.0868,-3.934,0.262,140.318,0.763,12
+1035,Lovely Majeed (Jalsat & Oud),8,455FNRCbz9ug1fKkpdqqjZ,Enti Shametna,spotify:track:455FNRCbz9ug1fKkpdqqjZ,0.174,0.614,0.901,0,0.0777,-1.247,0.149,91.987,0.778,8
+1036,Lovely Majeed (Jalsat & Oud),9,0qSgSWiVQJZc66bvJX3QPs,Doroob Al Ghala,spotify:track:0qSgSWiVQJZc66bvJX3QPs,0.182,0.55,0.898,0,0.0748,-0.956,0.234,82.425,0.756,8
+1037,Lovely Majeed (Jalsat & Oud),10,6JmMVUyNd1v9JFJNB4kZ97,Mahad Yswak,spotify:track:6JmMVUyNd1v9JFJNB4kZ97,0.0193,0.346,0.958,0,0.0496,0.341,0.295,129.169,0.748,8
+1038,Lovely Majeed (Jalsat & Oud),11,1od1lpc6vKbIRGlxNG4Mcj,Khetaak,spotify:track:1od1lpc6vKbIRGlxNG4Mcj,0.113,0.562,0.877,0,0.328,-2.075,0.228,86.407,0.809,8
+1039,Lovely Majeed (Jalsat & Oud),12,0CfErJXGAhhMnS5pg7kngy,Ya Wyh Qalbi,spotify:track:0CfErJXGAhhMnS5pg7kngy,0.303,0.507,0.929,0,0.118,-2.933,0.213,76.046,0.535,6
+1040,Lovely Majeed (Jalsat & Oud),13,6dXVOcet27DGqB2awP16t2,Khallas Hananak - Modern Version,spotify:track:6dXVOcet27DGqB2awP16t2,0.0932,0.648,0.895,0,0.139,-0.677,0.234,101.293,0.505,22
+1041,Lovely Majeed (Jalsat & Oud),14,3hNXUhV5iXDaxnv7dUQgg0,Horoof Zaffah,spotify:track:3hNXUhV5iXDaxnv7dUQgg0,0.0398,0.545,0.958,0,0.285,-1.725,0.176,87.926,0.666,5
+1042,Lovely Majeed (Jalsat & Oud),15,2Hw6Z7liz0Yuf6y9EHd5K1,Wahda Wahda Zaffah,spotify:track:2Hw6Z7liz0Yuf6y9EHd5K1,0.194,0.519,0.952,0.000593,0.131,-1.986,0.293,88.129,0.583,7
+1043,Lovely Majeed (Jalsat & Oud),16,7Bn9qEcv3UXVUqF3pDGKPZ,Rouhi Tehebak Lute - Oud,spotify:track:7Bn9qEcv3UXVUqF3pDGKPZ,0.838,0.536,0.461,0,0.113,-5.873,0.0375,148.838,0.667,23
+1044,Lovely Majeed (Jalsat & Oud),17,6mmCY9fjUivvnypbM5tsiP,Khalas Ebed Lute,spotify:track:6mmCY9fjUivvnypbM5tsiP,0.799,0.496,0.578,0,0.337,-3.142,0.0298,135.547,0.57,8
+1045,Lovely Majeed (Jalsat & Oud),18,1UTs3glsJ9nmuu1VCn3Qfx,Teflah Wo Tefel Lute - Oud,spotify:track:1UTs3glsJ9nmuu1VCn3Qfx,0.958,0.6,0.425,0,0.684,-6.483,0.0426,135.428,0.555,6
+1046,Lovely Majeed (Jalsat & Oud),19,6qc24YGk8OR6eJTmxLI0qV,Aejebak Fi Kel Shay Lute - Oud,spotify:track:6qc24YGk8OR6eJTmxLI0qV,0.823,0.522,0.399,1.62e-05,0.251,-6.873,0.0405,144.547,0.588,7
+1047,Lovely Majeed (Jalsat & Oud),20,6zVBnqoy04cFtIgwwHIebI,Hazak Aowal Lute - Oud,spotify:track:6zVBnqoy04cFtIgwwHIebI,0.809,0.65,0.448,0,0.114,-6.427,0.0351,136.665,0.744,8
+1048,Lovely Majeed (Jalsat & Oud),21,1VHCmPpAt2HCe3msQ6SXcH,Kef Asebak Lute - Oud,spotify:track:1VHCmPpAt2HCe3msQ6SXcH,0.815,0.614,0.528,0,0.148,-3.167,0.0369,149.641,0.574,9
+1049,Lovely Majeed (Jalsat & Oud),22,7wyuz9H4MQuDvHIRzqoKBp,Ahebak Leh Lute - Oud,spotify:track:7wyuz9H4MQuDvHIRzqoKBp,0.74,0.65,0.674,0,0.101,-5.629,0.0998,133.512,0.772,18
+1050,Esmaany 2015,1,58zpMLYfrsHe0ztE2ZSncV,Hams,spotify:track:58zpMLYfrsHe0ztE2ZSncV,0.187,0.58,0.846,0,0.0859,-4.697,0.1,150.013,0.778,6
+1051,Esmaany 2015,2,4Gui98E39h7701EDyrrgci,Kel Ma Tegfiy,spotify:track:4Gui98E39h7701EDyrrgci,0.552,0.621,0.612,0,0.119,-7.147,0.0802,139.99,0.531,10
+1052,Esmaany 2015,3,4XootmOdWQw6Az8YvzUuo9,Fezi Lah Ya Arth,spotify:track:4XootmOdWQw6Az8YvzUuo9,0.0635,0.606,0.814,0,0.224,-5.099,0.228,134.09,0.672,9
+1053,Esmaany 2015,4,0bwpSVA9BOxifdkqQiqtUL,Wedaeek Mor,spotify:track:0bwpSVA9BOxifdkqQiqtUL,0.321,0.361,0.7,0,0.1,-5.829,0.171,74.898,0.686,10
+1054,Esmaany 2015,5,1gipc2IguON4wzDe0goIg1,Anani,spotify:track:1gipc2IguON4wzDe0goIg1,0.278,0.414,0.719,0,0.181,-5.632,0.0865,78.983,0.636,6
+1055,Esmaany 2015,6,3rCqC9LCkqN5rveAHXBWyC,Esmaany,spotify:track:3rCqC9LCkqN5rveAHXBWyC,0.439,0.391,0.725,0,0.198,-5.248,0.0756,107.978,0.595,16
+1056,Esmaany 2015,7,42KqA34XKzXeYaiKCCiUhV,Ya Ghayba,spotify:track:42KqA34XKzXeYaiKCCiUhV,0.431,0.579,0.681,0,0.116,-6.697,0.0851,75.995,0.577,14
+1057,Esmaany 2015,8,6Ny8MGkbeiGGvBGxgYOSXC,Gabl Aaarfak,spotify:track:6Ny8MGkbeiGGvBGxgYOSXC,0.282,0.408,0.777,0,0.222,-5.696,0.1,79.18,0.561,17
+1058,Esmaany 2015,9,3NJUmotrMCgBnwPfTq4ho1,Hala Hala,spotify:track:3NJUmotrMCgBnwPfTq4ho1,0.278,0.347,0.764,0,0.405,-6.102,0.242,83.14,0.754,8
+1059,Esmaany 2015,10,0ldrCfFwerQWtIbOvGp4rx,Shof Wsalna Lwen,spotify:track:0ldrCfFwerQWtIbOvGp4rx,0.153,0.652,0.727,1.52e-06,0.441,-6.062,0.0764,137.941,0.518,4
+1060,Esmaany 2015,11,4LS4Q1TF51vRAp0GcJftUE,Yabn El Halal,spotify:track:4LS4Q1TF51vRAp0GcJftUE,0.144,0.646,0.705,0,0.314,-6.263,0.193,76.071,0.692,6
+1061,Esmaany 2015,12,2ugNiCdM9pV6TTpbX2tqrK,Ghaltah,spotify:track:2ugNiCdM9pV6TTpbX2tqrK,0.148,0.542,0.704,0,0.324,-6.583,0.132,79.93,0.832,13
+1062,Esmaany 2015,13,1o9AYPbCbkgceO84QRj9sX,Men Yegoal,spotify:track:1o9AYPbCbkgceO84QRj9sX,0.224,0.616,0.825,0,0.132,-5.47,0.166,156.044,0.761,8
+1063,Esmaany 2015,14,23Ky1YWTqgBDBrEsTnXwTT,Eioni Teshoof,spotify:track:23Ky1YWTqgBDBrEsTnXwTT,0.198,0.554,0.677,0,0.0871,-6.476,0.0911,78.067,0.794,3
+1064,Esmaany 2015,15,3Wo7ENzl26FditGU1Ms3GZ,Kella Menak,spotify:track:3Wo7ENzl26FditGU1Ms3GZ,0.0426,0.699,0.911,0,0.1,-5.548,0.188,152.034,0.658,4
+1065,Esmaany 2015,16,1ZjuECXZLEr9Jt5RM6OnCe,Ahmedak Ya Rab,spotify:track:1ZjuECXZLEr9Jt5RM6OnCe,0.183,0.581,0.697,0,0.109,-7.934,0.0519,72.936,0.72,4
+1066,Esmaany 2015,17,2xqWw66aiB2LwlnKnKsw9p,Eide Meladek,spotify:track:2xqWw66aiB2LwlnKnKsw9p,0.361,0.646,0.608,0,0.125,-6.333,0.089,138.035,0.275,3
+1067,Esmaany 2015,18,3XJU7Cbt0R1JchGS9tYCmP,Makhabart Ansan,spotify:track:3XJU7Cbt0R1JchGS9tYCmP,0.324,0.614,0.642,0,0.105,-7.026,0.0626,136.99,0.413,4
+1068,Esmaany 2015,19,5TjX0y5urYRMc8Pya9PPDb,Mani Gadek Ana,spotify:track:5TjX0y5urYRMc8Pya9PPDb,0.271,0.602,0.689,0,0.119,-5.559,0.209,83.746,0.901,4
+1069,Esmaany 2015,20,6ZRhyoAnTQ5RbG3LrMd0hx,Ghasheny,spotify:track:6ZRhyoAnTQ5RbG3LrMd0hx,0.33,0.505,0.592,0,0.0708,-8.641,0.233,79.455,0.588,5
+1070,"Haflet Dubai 2014, Vol. 1 & 2 (Live)",1,3i9AYsxd4zFkgFpxOWfIyl,Yehlamoon (Live),spotify:track:3i9AYsxd4zFkgFpxOWfIyl,0.709,0.4,0.698,0,0.947,-6.004,0.298,142.271,0.732,2
+1071,"Haflet Dubai 2014, Vol. 1 & 2 (Live)",2,2uJRyVWwb2Wqu2zH0qlObe,Ya Eyonah (Live),spotify:track:2uJRyVWwb2Wqu2zH0qlObe,0.698,0.342,0.733,0,0.69,-6.048,0.143,83.089,0.524,0
+1072,"Haflet Dubai 2014, Vol. 1 & 2 (Live)",3,3XbnjVsluI8JsUkHiEcia8,Ahbes El Aabraat (Live),spotify:track:3XbnjVsluI8JsUkHiEcia8,0.675,0.441,0.718,0,0.216,-5.879,0.0857,143.15,0.595,4
+1073,"Haflet Dubai 2014, Vol. 1 & 2 (Live)",4,3xgkgTTKvkqhoCYfW4FTo7,Ashyaa Teswaa (Live),spotify:track:3xgkgTTKvkqhoCYfW4FTo7,0.606,0.441,0.804,0,0.683,-4.916,0.285,125.1,0.838,3
+1074,"Haflet Dubai 2014, Vol. 1 & 2 (Live)",5,43qxSW2WCF6V3sn5fQfU0d,Yama Hawelt (Live),spotify:track:43qxSW2WCF6V3sn5fQfU0d,0.673,0.436,0.742,0,0.889,-5.646,0.141,79.637,0.642,12
+1075,"Haflet Dubai 2014, Vol. 1 & 2 (Live)",6,3a7yde0wFluFZ0yFJpkiID,Rouhi Tihabak (Live),spotify:track:3a7yde0wFluFZ0yFJpkiID,0.636,0.379,0.725,0,0.816,-4.847,0.0902,147.48,0.702,2
+1076,"Haflet Dubai 2014, Vol. 1 & 2 (Live)",7,6DoXlpnSP3c1KytEOgFgNC,Leh Tetlob (Live),spotify:track:6DoXlpnSP3c1KytEOgFgNC,0.599,0.313,0.792,0,0.623,-4.119,0.18,78.16,0.762,4
+1077,"Haflet Dubai 2014, Vol. 1 & 2 (Live)",8,3mkeoyRAIvoFWYOfhqjwYL,Elhaz Gabak (Live),spotify:track:3mkeoyRAIvoFWYOfhqjwYL,0.716,0.434,0.623,0,0.771,-5.991,0.101,145.461,0.62,0
+1078,"Haflet Dubai 2014, Vol. 1 & 2 (Live)",9,1Jeba04iwUHlj1UmnfTgYC,Qanooa (Live),spotify:track:1Jeba04iwUHlj1UmnfTgYC,0.664,0.442,0.857,0,0.752,-4.85,0.194,140.077,0.656,5
+1079,"Haflet Dubai 2014, Vol. 1 & 2 (Live)",10,4W2A7wabUv2Jl2f9ediIWD,La Mayekfene (Live),spotify:track:4W2A7wabUv2Jl2f9ediIWD,0.588,0.51,0.767,0,0.36,-5.746,0.134,78.555,0.757,0
+1080,"Haflet Dubai 2014, Vol. 1 & 2 (Live)",11,4EPexMfDjmpKV0SxNzCbsM,Magnon Sahe (Live),spotify:track:4EPexMfDjmpKV0SxNzCbsM,0.459,0.399,0.707,0,0.144,-7.36,0.159,145.632,0.69,0
+1081,"Haflet Dubai 2014, Vol. 1 & 2 (Live)",12,2E78Rl0yxXtYHdAbVkHAhZ,Law Yom Ahad (Live),spotify:track:2E78Rl0yxXtYHdAbVkHAhZ,0.839,0.468,0.29,0,0.904,-11.815,0.0903,99.942,0.494,6
+1082,"Haflet Dubai 2014, Vol. 1 & 2 (Live)",13,3SGiSeTYmdzNFQB0yvGx8h,Ehke Behamsak (Live),spotify:track:3SGiSeTYmdzNFQB0yvGx8h,0.691,0.473,0.841,0,0.11,-4.681,0.199,137.819,0.602,11
+1083,"Haflet Dubai 2014, Vol. 1 & 2 (Live)",1,4xGM4IqcM2FF6G5iqIUyuA,El Khataya Aashar (Live),spotify:track:4xGM4IqcM2FF6G5iqIUyuA,0.717,0.363,0.663,0,0.82,-6.844,0.0737,138.005,0.583,3
+1084,"Haflet Dubai 2014, Vol. 1 & 2 (Live)",2,6n6triw6FXwlZ5EaJ7tZVl,Al Moot Al Ahmar (Live),spotify:track:6n6triw6FXwlZ5EaJ7tZVl,0.446,0.48,0.817,0,0.962,-5.643,0.169,142.259,0.819,0
+1085,"Haflet Dubai 2014, Vol. 1 & 2 (Live)",3,6MA9Ht09shQTQBZombs2r0,Ma Bain Biyeenak (Live),spotify:track:6MA9Ht09shQTQBZombs2r0,0.596,0.502,0.77,1.36e-06,0.591,-7.358,0.135,144.764,0.564,4
+1086,"Haflet Dubai 2014, Vol. 1 & 2 (Live)",4,4TjI8712XFuCBWBZEWqSnC,Ya Qalb Beshwesh (Live),spotify:track:4TjI8712XFuCBWBZEWqSnC,0.511,0.439,0.785,0,0.363,-4.742,0.211,83.065,0.743,2
+1087,"Haflet Dubai 2014, Vol. 1 & 2 (Live)",5,5F62TAjbTiBRY6W8537PTJ,Qamat Elsaah (Live),spotify:track:5F62TAjbTiBRY6W8537PTJ,0.638,0.401,0.702,0,0.385,-5.305,0.0717,83.025,0.547,0
+1088,"Haflet Dubai 2014, Vol. 1 & 2 (Live)",6,0oNYu5UJwOnmSYKiaI14BA,Estaqsarak (Live),spotify:track:0oNYu5UJwOnmSYKiaI14BA,0.492,0.523,0.544,3.47e-06,0.835,-11.372,0.0753,140.896,0.81,3
+1089,"Haflet Dubai 2014, Vol. 1 & 2 (Live)",7,6xtb5LylXwNFk2wZn9Avlz,Asabaak (Live),spotify:track:6xtb5LylXwNFk2wZn9Avlz,0.712,0.413,0.751,0,0.0557,-5.706,0.196,151.662,0.769,0
+1090,"Haflet Dubai 2014, Vol. 1 & 2 (Live)",8,0BFfU4II4n8XxSFabWYkf8,Ajazbak Elhawa (Live),spotify:track:0BFfU4II4n8XxSFabWYkf8,0.487,0.491,0.657,0,0.238,-7.116,0.0724,142.29,0.664,0
+1091,"Haflet Dubai 2014, Vol. 1 & 2 (Live)",9,4Ehim1Zg9qazorguK4eBQr,Ya Tayab Elqalb (Live),spotify:track:4Ehim1Zg9qazorguK4eBQr,0.7,0.378,0.575,0,0.125,-10.645,0.131,137.123,0.585,20
+1092,"Haflet Dubai 2014, Vol. 1 & 2 (Live)",10,3x5AVglfOAKuu1cwiO3KUF,Kheles Hananak (Live),spotify:track:3x5AVglfOAKuu1cwiO3KUF,0.565,0.383,0.821,0,0.601,-5.695,0.353,147.449,0.758,0
+1093,El Khataya Aashar,1,3GdClPMkZJ0L4Lcw6WEl8m,Qanooa,spotify:track:3GdClPMkZJ0L4Lcw6WEl8m,0.578,0.642,0.79,0,0.0474,-5.213,0.143,139.93,0.767,15
+1094,El Khataya Aashar,2,36BWs4vzPwqArT8FQj0m95,Feek Beqaa,spotify:track:36BWs4vzPwqArT8FQj0m95,0.295,0.605,0.784,0,0.107,-5.44,0.0578,139.982,0.704,2
+1095,El Khataya Aashar,3,5SdenBIBO8sJWH5RzkhhGs,Ashyaa Teswaa,spotify:track:5SdenBIBO8sJWH5RzkhhGs,0.464,0.569,0.864,0,0.123,-5.448,0.0963,79.838,0.824,4
+1096,El Khataya Aashar,4,6GGTBj5ZFgaPrWu9yRj7sg,El Khataya Aashar,spotify:track:6GGTBj5ZFgaPrWu9yRj7sg,0.423,0.567,0.738,0,0.298,-6.676,0.0742,142.985,0.531,2
+1097,El Khataya Aashar,5,6jQ1ZLx0zqeZIW9CalOLWu,Qamaraah,spotify:track:6jQ1ZLx0zqeZIW9CalOLWu,0.0598,0.578,0.812,0,0.328,-6.606,0.171,80.015,0.733,3
+1098,El Khataya Aashar,6,02gtLduu70mMMcDE3rps1T,Taheyati,spotify:track:02gtLduu70mMMcDE3rps1T,0.441,0.575,0.681,0,0.122,-7.2,0.194,141.969,0.289,4
+1099,El Khataya Aashar,7,2jyo5fuaPrCUAg1Q3Qea49,Leh Tetlob,spotify:track:2jyo5fuaPrCUAg1Q3Qea49,0.299,0.515,0.79,0,0.135,-6.71,0.206,112.485,0.766,5
+1100,El Khataya Aashar,8,6TkyO8Ope40DV2O5Cl4KGq,Ghayarooh,spotify:track:6TkyO8Ope40DV2O5Cl4KGq,0.222,0.611,0.813,0,0.339,-6.565,0.0488,145.954,0.69,1
+1101,El Khataya Aashar,9,1MhufMrlwwY58pDQuSeh9c,Wahid,spotify:track:1MhufMrlwwY58pDQuSeh9c,0.424,0.513,0.719,0,0.1,-6.928,0.0573,83.755,0.814,3
+1102,El Khataya Aashar,10,0yFAwwhcCgnull8nV2e7JU,Lekel Nehayah Bedayah,spotify:track:0yFAwwhcCgnull8nV2e7JU,0.0986,0.625,0.846,0,0.23,-4.881,0.195,139.724,0.895,2
+1103,El Khataya Aashar,11,6UucbZAPsKtgPOPHO8UHtv,Ya Qalb Beshwesh,spotify:track:6UucbZAPsKtgPOPHO8UHtv,0.187,0.523,0.832,0,0.0328,-5.95,0.0935,81.534,0.865,2
+1104,El Khataya Aashar,12,7L4c7r4hyBLVcLcoifyGGk,Kele Assaf,spotify:track:7L4c7r4hyBLVcLcoifyGGk,0.632,0.592,0.714,0,0.0773,-6.645,0.203,79.895,0.647,2
+1105,El Khataya Aashar,13,2CI0vJOS0EOmcwzsSFMZ7U,Fazat El Ashwaq,spotify:track:2CI0vJOS0EOmcwzsSFMZ7U,0.563,0.562,0.745,0,0.0407,-5.275,0.0715,136.045,0.618,3
+1106,El Khataya Aashar,14,5Kk1jVUed2numz6xJYRM8X,Asaab Talab,spotify:track:5Kk1jVUed2numz6xJYRM8X,0.632,0.618,0.684,0,0.0701,-8.066,0.0963,142.078,0.631,5
+1107,El Khataya Aashar,15,1DOD2kjIMSDUAt5X28ZVdS,Ahbes El Aabraat,spotify:track:1DOD2kjIMSDUAt5X28ZVdS,0.309,0.622,0.799,0,0.132,-6.017,0.0847,138.0,0.713,3
+1108,El Khataya Aashar,16,1AiKJnPdEMdChNoUfZg78b,Asaabak Tefreq,spotify:track:1AiKJnPdEMdChNoUfZg78b,0.373,0.463,0.68,0,0.0871,-5.764,0.233,101.453,0.822,2
+1109,Layali Febrayer 2009,15,70IuIK9s2exl5lUsvNpknn,Ya Taer El Ashghan,spotify:track:70IuIK9s2exl5lUsvNpknn,0.0555,0.382,0.6,0,0.335,-11.478,0.138,152.699,0.442,0
+1110,Layali Febrayer 2009,2,53iWdJHjNTw6YahP6YcyuM,Ehtam Fini,spotify:track:53iWdJHjNTw6YahP6YcyuM,0.159,0.449,0.649,0,0.687,-12.03,0.0754,149.613,0.595,2
+1111,Layali Febrayer 2009,4,1caYDQUQvasbgYfGSJDM84,El Khayen El Kaddab,spotify:track:1caYDQUQvasbgYfGSJDM84,0.0858,0.456,0.59,0,0.303,-11.705,0.0959,80.777,0.715,1
+1112,Layali Febrayer 2009,5,3Ouk1qUjyMnWrtBI4Q6fWI,Tali Taqdirak,spotify:track:3Ouk1qUjyMnWrtBI4Q6fWI,0.307,0.424,0.551,0,0.156,-11.265,0.0747,139.1,0.397,0
+1113,Layali Febrayer 2009,7,1PNo9QI6YBx7bfMRKGPTfE,Shakhs Tani,spotify:track:1PNo9QI6YBx7bfMRKGPTfE,0.0596,0.458,0.709,2.49e-06,0.488,-10.744,0.0836,178.557,0.655,1
+1114,Layali Febrayer 2009,8,5sVW1PZFgRAAn782RXNky7,Yihlamoon,spotify:track:5sVW1PZFgRAAn782RXNky7,0.199,0.427,0.566,0,0.378,-11.174,0.197,149.46,0.603,1
+1115,Layali Febrayer 2009,9,2DqpWmHzMGltCycrPqoUtg,El Hob El Jdid,spotify:track:2DqpWmHzMGltCycrPqoUtg,0.154,0.469,0.63,0,0.176,-11.68,0.112,148.719,0.544,1
+1116,Layali Febrayer 2009,10,2MO9olQK0WyjqnWdghe6it,Yama Hawalet,spotify:track:2MO9olQK0WyjqnWdghe6it,0.304,0.451,0.663,0,0.585,-10.065,0.153,85.68,0.685,2
+1117,Layali Febrayer 2009,13,3F3dFYtBCzfvApOfNlD4Ry,Rouhi Tihabak,spotify:track:3F3dFYtBCzfvApOfNlD4Ry,0.0198,0.342,0.509,0,0.336,-11.256,0.0728,149.734,0.299,2
+1118,Layali Febrayer 2009,16,6Sm4UU06qPbsn7X2sc7gdB,Ya Moonyeti,spotify:track:6Sm4UU06qPbsn7X2sc7gdB,0.0358,0.516,0.564,0,0.0968,-12.213,0.0658,148.188,0.742,2
+1119,Melyon Khater,1,3xJcEdpl9GH2qYEY8fljCF,Weddi Akoon Shaks Tani,spotify:track:3xJcEdpl9GH2qYEY8fljCF,0.248,0.624,0.906,0,0.0637,-6.654,0.14,163.704,0.846,8
+1120,Melyon Khater,2,55826jN2Uu60CHoaefWZ39,Melyon Khater,spotify:track:55826jN2Uu60CHoaefWZ39,0.132,0.651,0.816,0,0.273,-5.01,0.147,140.764,0.479,9
+1121,Melyon Khater,3,1rUCv0gQtyIAKjPhK4g7EI,Mertah,spotify:track:1rUCv0gQtyIAKjPhK4g7EI,0.383,0.574,0.795,0,0.228,-5.793,0.145,89.478,0.657,3
+1122,Melyon Khater,4,4XagLPj6Ip1io9AkMTJz3Q,Yama Hawelt,spotify:track:4XagLPj6Ip1io9AkMTJz3Q,0.123,0.599,0.926,0,0.28,-3.469,0.361,81.567,0.472,9
+1123,Melyon Khater,5,1Yf7nWtw3S7OvOE0PzV99G,Tali Taqdirek,spotify:track:1Yf7nWtw3S7OvOE0PzV99G,0.49,0.597,0.724,0,0.333,-3.765,0.0736,140.432,0.567,3
+1124,Melyon Khater,6,0jtgBYdhS9uilOnkSAZZF4,Yehlamoon,spotify:track:0jtgBYdhS9uilOnkSAZZF4,0.396,0.675,0.782,0,0.0895,-4.352,0.101,142.068,0.717,5
+1125,Melyon Khater,7,2azDfS0KbTeAaGz3x1ei5L,Salamtk,spotify:track:2azDfS0KbTeAaGz3x1ei5L,0.0885,0.629,0.79,0,0.0969,-5.58,0.107,101.504,0.62,5
+1126,Melyon Khater,8,3ZyxG1PFioxFOL09Yym4jI,Maakoula,spotify:track:3ZyxG1PFioxFOL09Yym4jI,0.21,0.637,0.811,0,0.251,-4.445,0.0475,145.546,0.598,2
+1127,Melyon Khater,9,31mDlo6J5Re1yzxL8J8o3z,Amoot Bhobek,spotify:track:31mDlo6J5Re1yzxL8J8o3z,0.28,0.598,0.714,0,0.364,-6.947,0.227,146.505,0.761,4
+1128,Melyon Khater,10,1UAo90z9huvt4vwDiPOm7p,Jit,spotify:track:1UAo90z9huvt4vwDiPOm7p,0.386,0.613,0.783,0,0.0432,-4.813,0.244,148.071,0.692,2
+1129,Melyon Khater,11,6A5nmPfkQljMgN0LQUVjoz,La Zad,spotify:track:6A5nmPfkQljMgN0LQUVjoz,0.0702,0.507,0.508,0,0.215,-7.363,0.0304,91.561,0.465,7
+1130,Melyon Khater,12,1lbMr9hIsbVe6Zz2ZnWDFL,Alf Marra,spotify:track:1lbMr9hIsbVe6Zz2ZnWDFL,0.196,0.603,0.731,0,0.12,-5.898,0.217,148.432,0.626,5
+1131,Melyon Khater,13,3ofRrL24SGS0fO40j5zyiP,Hadek,spotify:track:3ofRrL24SGS0fO40j5zyiP,0.332,0.557,0.766,0,0.203,-4.419,0.141,143.206,0.557,2
+1132,Melyon Khater,14,0OZyfxt8n8NRbyIhTdwF6N,El Khayen El Kazzab,spotify:track:0OZyfxt8n8NRbyIhTdwF6N,0.0316,0.653,0.704,0,0.0286,-4.223,0.203,158.551,0.914,3
+1133,Melyon Khater,15,4dznJTCBT91RlM1GspSx6v,Ma Zaneti,spotify:track:4dznJTCBT91RlM1GspSx6v,0.211,0.648,0.705,0,0.127,-5.447,0.0759,143.023,0.603,2
+1134,Melyon Khater,16,2U7YuqnKeoZqEyyc8zLpGa,Haz Einak,spotify:track:2U7YuqnKeoZqEyyc8zLpGa,0.188,0.639,0.76,0,0.0365,-5.775,0.216,141.616,0.896,1
+1135,Al Hob Al Jadid,1,2zPlOKxShWMSHOjtavEyXB,Ehtam Fene,spotify:track:2zPlOKxShWMSHOjtavEyXB,0.165,0.406,0.798,0,0.226,-8.972,0.297,143.876,0.389,1
+1136,Al Hob Al Jadid,2,1kSjtcR3t5mt2wFP988XoA,Alhob Aljadied,spotify:track:1kSjtcR3t5mt2wFP988XoA,0.192,0.437,0.73,0,0.335,-8.092,0.2,141.938,0.347,3
+1137,Al Hob Al Jadid,3,6OAlgQAnKBEarTuxw7RFar,Temaniat,spotify:track:6OAlgQAnKBEarTuxw7RFar,0.209,0.467,0.766,0,0.824,-8.612,0.172,82.14,0.474,1
+1138,Al Hob Al Jadid,4,7cAaLMxkW4sIAaLx4OrQrW,Qoul Ameen,spotify:track:7cAaLMxkW4sIAaLx4OrQrW,0.286,0.393,0.774,0,0.906,-8.642,0.102,77.486,0.531,0
+1139,Al Hob Al Jadid,5,3T8R8EVjGOaxcOuuKhRprF,Ya Àdeem Alshouq,spotify:track:3T8R8EVjGOaxcOuuKhRprF,0.111,0.496,0.74,1.71e-06,0.425,-9.161,0.0776,144.042,0.691,0
+1140,Al Hob Al Jadid,6,0CxhwpMfYdbVW3mEEZHwtE,Habeb Alrouh,spotify:track:0CxhwpMfYdbVW3mEEZHwtE,0.573,0.386,0.686,0,0.888,-8.678,0.197,84.922,0.454,1
+1141,Al Hob Al Jadid,7,4ividsgGbLJSGaZ5gUFYWM,Ma Azkor Mata,spotify:track:4ividsgGbLJSGaZ5gUFYWM,0.27,0.455,0.701,0,0.467,-7.933,0.159,84.191,0.353,0
+1142,Al Hob Al Jadid,8,1b3V3PeCBpdKhnlppnqikV,Sammàne Gheneya,spotify:track:1b3V3PeCBpdKhnlppnqikV,0.478,0.383,0.772,0,0.351,-7.38,0.232,91.08,0.715,0
+1143,Al Hob Al Jadid,9,7M9ljJ59lPIYYfhmWokpIp,Thalath Ayam,spotify:track:7M9ljJ59lPIYYfhmWokpIp,0.25,0.451,0.792,0,0.845,-8.325,0.289,106.553,0.453,0
+1144,Al Hob Al Jadid,10,3Gcar4aNUTMK0wc8kNH2pW,Lain Shafoune,spotify:track:3Gcar4aNUTMK0wc8kNH2pW,0.135,0.541,0.733,0,0.469,-8.662,0.0789,153.923,0.765,0
+1145,Al Hob Al Jadid,11,055fqilz4H1zQZNUf8NXI2,Yànni Tahsebeen,spotify:track:055fqilz4H1zQZNUf8NXI2,0.562,0.42,0.812,3.3e-06,0.375,-8.105,0.134,87.597,0.554,2
+1146,Al Hob Al Jadid,12,6CL5Dl5PdRLjC6v0jxIRbD,Ma Kan ElForaq,spotify:track:6CL5Dl5PdRLjC6v0jxIRbD,0.417,0.444,0.748,6.52e-05,0.753,-8.233,0.057,131.48,0.788,2
+1147,Al Hob Al Jadid,13,1JsmaobRX2B0QyYOBNAiNV,Ya Akhal Alain,spotify:track:1JsmaobRX2B0QyYOBNAiNV,0.599,0.24,0.745,0,0.385,-9.982,0.414,187.363,0.0802,0
+1148,Al Hob Al Jadid,14,2GDnPXXTHVG0oYBckasOAt,Hodoua`,spotify:track:2GDnPXXTHVG0oYBckasOAt,0.421,0.622,0.685,0,0.369,-7.944,0.0543,136.011,0.604,0
+1149,Al Hob Al Jadid,15,2GbVUZGAUXZ0AqE29Nfaa8,Ghano Lehabebe,spotify:track:2GbVUZGAUXZ0AqE29Nfaa8,0.118,0.609,0.893,0,0.126,-7.344,0.0783,137.98,0.27,1
+1150,A'azz El Naz,1,66siA89olBVqFhP49hTkQ6,Amar,spotify:track:66siA89olBVqFhP49hTkQ6,0.0714,0.709,0.536,1.04e-05,0.0685,-18.377,0.0587,91.903,0.78,1
+1151,A'azz El Naz,2,6TRrYIKljzDJtZydLEpKIB,Mattar Saif,spotify:track:6TRrYIKljzDJtZydLEpKIB,0.306,0.64,0.494,1.24e-06,0.0901,-15.234,0.0719,176.596,0.963,1
+1152,A'azz El Naz,3,2wsYHHEqZJ3LjbyHBTF2s5,A'azz El Naz,spotify:track:2wsYHHEqZJ3LjbyHBTF2s5,0.491,0.534,0.294,0,0.128,-18.779,0.0365,76.133,0.466,2
+1153,A'azz El Naz,4,3Diffo7R2YzCXeMLRcvMOm,Hakem Al Oshaq,spotify:track:3Diffo7R2YzCXeMLRcvMOm,0.268,0.58,0.368,0,0.0872,-18.188,0.0517,152.183,0.867,0
+1154,A'azz El Naz,5,3WjL6oPC5VyC6k10mGCLID,Al Zaid,spotify:track:3WjL6oPC5VyC6k10mGCLID,0.103,0.561,0.47,0,0.0693,-15.951,0.0628,168.431,0.861,0
+1155,A'azz El Naz,6,4D0if2R53ppEXfQFIUP5tS,Khalas El'ed,spotify:track:4D0if2R53ppEXfQFIUP5tS,0.0606,0.506,0.559,0,0.137,-16.708,0.0588,78.945,0.737,1
+1156,A'azz El Naz,7,5vawpSO2XGFHFpA6ku6cpK,Asbab Hobi,spotify:track:5vawpSO2XGFHFpA6ku6cpK,0.335,0.573,0.459,0,0.387,-16.194,0.0408,151.566,0.73,1
+1157,A'azz El Naz,8,2KNFSFRAJ22zm92h1NZqNR,Ghayeb Habibi,spotify:track:2KNFSFRAJ22zm92h1NZqNR,0.525,0.638,0.567,0,0.108,-16.742,0.0555,76.088,0.898,2
+1158,A'azz El Naz,9,1q6unyEUCNXkbb1Dt1dqnZ,Esha Twz'al,spotify:track:1q6unyEUCNXkbb1Dt1dqnZ,0.785,0.703,0.15,0,0.202,-21.426,0.0404,110.039,0.655,1
+1159,A'azz El Naz,10,3H55dQquZFPyGvyZpSH7AA,Tentezer,spotify:track:3H55dQquZFPyGvyZpSH7AA,0.655,0.649,0.397,0,0.0549,-17.668,0.0564,149.21,0.799,3
+1160,Ensan Aktar,1,18iSRBd1hAUxFbGp3f4Oj0,Ensan Aktar,spotify:track:18iSRBd1hAUxFbGp3f4Oj0,0.359,0.632,0.709,0,0.0527,-6.97,0.0796,82.149,0.728,25
+1161,Ensan Aktar,2,4AA8AcHzhy77KPclqOCBUG,Sheikh Abdullah,spotify:track:4AA8AcHzhy77KPclqOCBUG,0.0922,0.641,0.815,0,0.0423,-7.002,0.167,94.426,0.882,3
+1162,Ensan Aktar,3,5zwg0zA7pTfBrqoy4OeEcW,Wallah Fadi,spotify:track:5zwg0zA7pTfBrqoy4OeEcW,0.4,0.781,0.808,0.000146,0.168,-5.503,0.0378,119.98,0.759,3
+1163,Ensan Aktar,4,3UImCrmEv3K6es0XhvFtqp,Assal Douaen,spotify:track:3UImCrmEv3K6es0XhvFtqp,0.0885,0.612,0.85,0,0.322,-6.376,0.0979,148.063,0.75,1
+1164,Ensan Aktar,5,0HdmvSw4naByZ1DemOitjV,Maknak,spotify:track:0HdmvSw4naByZ1DemOitjV,0.129,0.692,0.82,4.6e-06,0.0446,-6.916,0.133,101.162,0.883,2
+1165,Ensan Aktar,6,3GYRzeMXAMLyzoCMX23Yqw,Fouq Haza Al Hob,spotify:track:3GYRzeMXAMLyzoCMX23Yqw,0.231,0.66,0.68,0,0.157,-8.294,0.0446,143.236,0.703,2
+1166,Ensan Aktar,7,7HpI5cWL837im9BE8AGW4N,Al Qalb Al Hanoun,spotify:track:7HpI5cWL837im9BE8AGW4N,0.154,0.65,0.838,0,0.0685,-7.759,0.111,109.525,0.484,1
+1167,Ensan Aktar,8,0q4y1h4SGdNw2KEgPc9ygL,Tealfat El Nass,spotify:track:0q4y1h4SGdNw2KEgPc9ygL,0.314,0.685,0.857,9.86e-06,0.276,-7.025,0.0774,95.82,0.885,2
+1168,Ensan Aktar,9,3YdiGRY5PwYnDcWR5daqY5,Hazak Aoual,spotify:track:3YdiGRY5PwYnDcWR5daqY5,0.069,0.66,0.718,0,0.0799,-7.437,0.0575,149.314,0.728,2
+1169,Ensan Aktar,10,0n1nHcrkIN3eGOPn1c4enO,Nawy Tekhaleny,spotify:track:0n1nHcrkIN3eGOPn1c4enO,0.0502,0.622,0.77,0,0.0392,-7.609,0.129,172.418,0.945,1
+1170,Ensan Aktar,11,4MvSqpqb1S1DvlrEjFiGdy,Asa Rabhi,spotify:track:4MvSqpqb1S1DvlrEjFiGdy,0.242,0.606,0.742,0,0.369,-7.716,0.0523,137.884,0.67,2
+1171,Ensan Aktar,12,2u1a4Z28GlvtRRTY0dtpVo,Taeab Ta’Al,spotify:track:2u1a4Z28GlvtRRTY0dtpVo,0.131,0.655,0.828,0,0.217,-7.454,0.232,91.187,0.678,1
+1172,Ensan Aktar,13,6H7WOYVgcTwweSb6IgNsPd,Ahtaj As’Allak,spotify:track:6H7WOYVgcTwweSb6IgNsPd,0.0117,0.591,0.767,3.28e-06,0.174,-7.647,0.0656,149.092,0.63,3
+1173,Ensan Aktar,14,2ByWViaZMe81cSsKGh24cX,Yawael Qalbi,spotify:track:2ByWViaZMe81cSsKGh24cX,0.184,0.735,0.838,0,0.105,-7.253,0.0834,92.153,0.972,0
+1174,Ensan Aktar,15,63dZEUvwNVVLAQkBEpQHz4,Berehak,spotify:track:63dZEUvwNVVLAQkBEpQHz4,0.0862,0.633,0.668,0,0.056,-7.518,0.115,138.351,0.506,2
+1175,Ensan Aktar,16,42SfgDfRNA7Gmg0fmMwJNO,Aljouny,spotify:track:42SfgDfRNA7Gmg0fmMwJNO,0.188,0.427,0.82,0,0.311,-7.574,0.216,113.297,0.797,1
+1176,الحب الجديد,1,5mmxTIjvL6qB6215Y44D3X,اهتم فيني,spotify:track:5mmxTIjvL6qB6215Y44D3X,0.105,0.591,0.732,0,0.0867,-9.269,0.124,145.204,0.59,4
+1177,الحب الجديد,2,3CfXuKHVmlpvOSdS3sMvxj,الحب الجديد,spotify:track:3CfXuKHVmlpvOSdS3sMvxj,0.205,0.658,0.694,0,0.123,-8.113,0.165,141.958,0.583,6
+1178,الحب الجديد,3,4K4dOPtC1HMXLmKBp0AXeV,تمنيت,spotify:track:4K4dOPtC1HMXLmKBp0AXeV,0.258,0.552,0.611,0,0.135,-8.892,0.138,82.642,0.668,1
+1179,الحب الجديد,4,0xhQY3YhpWSEExt9ASn2o1,قول امين,spotify:track:0xhQY3YhpWSEExt9ASn2o1,0.184,0.599,0.739,0,0.411,-9.009,0.0861,82.814,0.916,0
+1180,الحب الجديد,5,1asxVvekLfjxKIdvQM6bMl,ياعديم الشوق,spotify:track:1asxVvekLfjxKIdvQM6bMl,0.103,0.539,0.729,1.32e-06,0.113,-9.69,0.0597,144.024,0.584,2
+1181,الحب الجديد,6,46EFfAfIWtAATrrMsjMumD,حبيب الروح,spotify:track:46EFfAfIWtAATrrMsjMumD,0.542,0.616,0.704,0,0.146,-8.401,0.115,84.972,0.739,0
+1182,الحب الجديد,7,1NjR2PIgTIsO8wpSR9eHYZ,ما اذكرمتى,spotify:track:1NjR2PIgTIsO8wpSR9eHYZ,0.266,0.354,0.606,0,0.0926,-8.826,0.166,84.995,0.471,0
+1183,الحب الجديد,8,5yY1riNjbJQ3LKXG1fIcd4,سمعني غنية,spotify:track:5yY1riNjbJQ3LKXG1fIcd4,0.624,0.566,0.675,0,0.052,-7.444,0.077,91.019,0.674,2
+1184,الحب الجديد,9,628b7VLZRwBEtcndHTnpSO,ثلالث ايام,spotify:track:628b7VLZRwBEtcndHTnpSO,0.171,0.695,0.767,0,0.212,-8.312,0.179,106.628,0.765,1
+1185,الحب الجديد,10,0xncI0FkDymijAV9Jxz8Am,لين شافونى,spotify:track:0xncI0FkDymijAV9Jxz8Am,0.164,0.61,0.608,0,0.299,-9.603,0.0722,76.893,0.806,1
+1186,الحب الجديد,11,7Arxaz3ZeXGgVnc6psKkoF,يعنيت حسبين,spotify:track:7Arxaz3ZeXGgVnc6psKkoF,0.411,0.568,0.762,0,0.0806,-8.298,0.24,87.854,0.849,0
+1187,الحب الجديد,12,2tz0uV8qLW7oTJkKDbfmxH,ماكان الفراق,spotify:track:2tz0uV8qLW7oTJkKDbfmxH,0.611,0.665,0.694,0.000639,0.0994,-8.515,0.0344,131.562,0.819,1
+1188,الحب الجديد,13,0JWnxt4a8piQ51g9eQd2J4,يكحل العين,spotify:track:0JWnxt4a8piQ51g9eQd2J4,0.384,0.416,0.722,0,0.156,-9.479,0.254,91.801,0.661,0
+1189,الحب الجديد,14,0NQr4MaLn8mrBJZuXjnTwR,هدوء,spotify:track:0NQr4MaLn8mrBJZuXjnTwR,0.422,0.604,0.662,0,0.108,-8.193,0.0513,135.956,0.526,0
+1190,الحب الجديد,15,7a6ya3caMxaxJVLeCMeLSY,غنوالحبيبي,spotify:track:7a6ya3caMxaxJVLeCMeLSY,0.199,0.613,0.754,0,0.129,-8.312,0.0774,137.988,0.347,7
+1191,ليالينا,1,2NTMMFl9CpEQ4bOGTdnvsw,وينك,spotify:track:2NTMMFl9CpEQ4bOGTdnvsw,0.0355,0.688,0.53,0,0.316,-13.213,0.247,93.04,0.79,0
+1192,ليالينا,2,2lJJCzOHQgb2lLheaEYDeA,قله,spotify:track:2lJJCzOHQgb2lLheaEYDeA,0.528,0.691,0.512,0,0.113,-15.436,0.0863,153.972,0.75,7
+1193,ليالينا,3,2t8nbPVJaOsGrNhasGAmGT,علي انا,spotify:track:2t8nbPVJaOsGrNhasGAmGT,0.345,0.716,0.567,0,0.123,-14.938,0.0823,86.053,0.784,1
+1194,ليالينا,4,4ukdnYpBeWjulQPGtOoJNC,مكانك هنا,spotify:track:4ukdnYpBeWjulQPGtOoJNC,0.22,0.569,0.485,0,0.191,-14.689,0.0756,88.428,0.735,1
+1195,ليالينا,5,4GnM46QK02mKkkIYwCj7Nb,ليالينا,spotify:track:4GnM46QK02mKkkIYwCj7Nb,0.58,0.687,0.415,1.03e-05,0.0617,-16.68,0.0341,139.994,0.861,1
+1196,ليالينا,6,5qunqS9DaQEcWndEFaWbnv,حبيبي يا طيب,spotify:track:5qunqS9DaQEcWndEFaWbnv,0.0966,0.665,0.482,0.01,0.0861,-16.622,0.0849,82.037,0.708,0
+1197,ليالينا,7,3P3uRzB6Z5srOZE0Qt15l6,فرغ العاطفة,spotify:track:3P3uRzB6Z5srOZE0Qt15l6,0.353,0.623,0.493,0,0.12,-15.65,0.11,141.96,0.546,1
+1198,ليالينا,8,5pzzm62T6QNbyVQTPOtSjf,لو تعرف المحبة,spotify:track:5pzzm62T6QNbyVQTPOtSjf,0.265,0.575,0.566,2.38e-06,0.0729,-14.568,0.0795,172.054,0.9,0
+1199,ليالينا,9,0g4dyGLPHQeMeWcOFFfcal,ولا تسوى,spotify:track:0g4dyGLPHQeMeWcOFFfcal,0.369,0.592,0.39,0,0.104,-14.828,0.053,103.034,0.332,2
+1200,ليالينا,10,4Ltx0LWd6WFuAilnqwnzTe,صدقني,spotify:track:4Ltx0LWd6WFuAilnqwnzTe,0.132,0.61,0.4,0,0.0682,-16.03,0.0499,145.925,0.746,1
+1201,ليالينا,11,3yB8HvQIXyPd571aPl6QPj,عطني وعد,spotify:track:3yB8HvQIXyPd571aPl6QPj,0.663,0.324,0.185,0,0.107,-16.93,0.0526,190.165,0.235,2
+1202,ليالينا,12,5XBBGZlGD8B7BtcpqITXse,المرة الاخيرة,spotify:track:5XBBGZlGD8B7BtcpqITXse,0.362,0.727,0.443,0,0.0679,-15.679,0.0515,146.006,0.85,0
+1203,ليالينا,13,6HLTY0CN21MDPRbB4yTNbS,احباب,spotify:track:6HLTY0CN21MDPRbB4yTNbS,0.181,0.71,0.511,0,0.0384,-15.442,0.049,96.974,0.687,1
+1204,ليالينا,14,6qKgcRXdIwY4oXLdvEMoji,من سألني,spotify:track:6qKgcRXdIwY4oXLdvEMoji,0.00227,0.556,0.545,0.000747,0.0658,-15.527,0.0699,176.956,0.487,0
+1205,انت العزيز,1,3x5rRV8WGrovFrkx7b4ZWv,يا ورد,spotify:track:3x5rRV8WGrovFrkx7b4ZWv,0.0975,0.632,0.764,0,0.0487,-8.213,0.0562,166.05,0.953,1
+1206,انت العزيز,2,6vvVOBPQRrjIKxaAVV7i82,ادلع,spotify:track:6vvVOBPQRrjIKxaAVV7i82,0.45,0.706,0.67,4.87e-06,0.0994,-7.386,0.0678,84.984,0.851,4
+1207,انت العزيز,3,1RjYUT44zOMU78JZMu48Dg,كفكف,spotify:track:1RjYUT44zOMU78JZMu48Dg,0.0642,0.622,0.616,0,0.348,-7.675,0.0591,145.397,0.66,0
+1208,انت العزيز,4,1zzrvVg4V08ov4NGOdgZYe,العزيزة,spotify:track:1zzrvVg4V08ov4NGOdgZYe,0.0818,0.617,0.773,0,0.332,-8.638,0.0441,161.48,0.919,0
+1209,انت العزيز,5,6iZ08bvJLCY4btvliakLfh,تشطر وافهمها,spotify:track:6iZ08bvJLCY4btvliakLfh,0.388,0.636,0.702,0,0.25,-7.289,0.0425,160.081,0.773,2
+1210,انت العزيز,6,0bxIYho9deuvUDIg6uHZCQ,متغير علي,spotify:track:0bxIYho9deuvUDIg6uHZCQ,0.0442,0.597,0.602,0,0.0908,-9.04,0.0569,139.951,0.371,8
+1211,انت العزيز,7,1vF0f0whL0eSbqlySZWERo,انت العزيز,spotify:track:1vF0f0whL0eSbqlySZWERo,0.0821,0.688,0.809,3.39e-05,0.0607,-7.54,0.0373,132.014,0.96,1
+1212,انت العزيز,8,7sOAsJwTuWKGj2VbpB8n4X,الزين يفرض نفسه,spotify:track:7sOAsJwTuWKGj2VbpB8n4X,0.248,0.681,0.67,0,0.047,-7.703,0.0445,153.95,0.796,0
+1213,انت العزيز,9,0lij62X33QiUebZmue09X4,ما ريحوني,spotify:track:0lij62X33QiUebZmue09X4,0.265,0.569,0.627,0,0.0878,-8.371,0.0394,143.86,0.704,0
+1214,انت العزيز,10,1RxrzbwxpQFR9sfrxxcczr,شايف نيتك,spotify:track:1RxrzbwxpQFR9sfrxxcczr,0.269,0.638,0.68,0,0.317,-7.653,0.0419,154.075,0.737,0
+1215,انت العزيز,11,0fCMbgaff1CAXirfEDF7sx,ذكرى الجراح,spotify:track:0fCMbgaff1CAXirfEDF7sx,0.0538,0.631,0.629,0,0.269,-9.286,0.0394,150.212,0.756,0
+1216,انت العزيز,12,2CxlHq4VnvrYqx6531hz95,حرمتينا,spotify:track:2CxlHq4VnvrYqx6531hz95,0.255,0.704,0.822,0,0.261,-6.74,0.0507,95.046,0.858,0
+1217,انت العزيز,13,4WwHuAscYmehC7t9DpETO6,علمنى,spotify:track:4WwHuAscYmehC7t9DpETO6,0.118,0.616,0.644,0,0.405,-9.173,0.0682,139.97,0.413,0
+1218,طيب القلب,1,4M2pxbUzMXGL0KIMGDoZ8R,يا طيب القلب,spotify:track:4M2pxbUzMXGL0KIMGDoZ8R,0.435,0.81,0.709,1.85e-05,0.202,-8.201,0.0315,132.102,0.912,21
+1219,طيب القلب,2,1C7q1SBbdmvlpV8iCckIax,ابكي على ما جرالي,spotify:track:1C7q1SBbdmvlpV8iCckIax,0.641,0.713,0.618,0,0.361,-7.989,0.0513,88.975,0.846,3
+1220,طيب القلب,3,60mvYofBYcwhckuk8g9kHd,حبيتك,spotify:track:60mvYofBYcwhckuk8g9kHd,0.68,0.795,0.525,0,0.103,-8.031,0.0639,155.138,0.712,2
+1221,طيب القلب,4,3QPwUDfVgchgB2uOcJPeD0,قالولي,spotify:track:3QPwUDfVgchgB2uOcJPeD0,0.594,0.704,0.533,5.28e-06,0.0992,-9.316,0.0595,88.592,0.847,2
+1222,طيب القلب,5,6svI4IzqMjzwdRwRKbm3Io,احتياجي,spotify:track:6svI4IzqMjzwdRwRKbm3Io,0.455,0.707,0.468,1.18e-06,0.104,-10.26,0.0618,83.903,0.85,2
+1223,طيب القلب,6,1ngQbpoCyreqwTPgJpXeK6,من الدنيا,spotify:track:1ngQbpoCyreqwTPgJpXeK6,0.541,0.773,0.499,3.57e-06,0.105,-9.619,0.0737,160.172,0.766,1
+1224,طيب القلب,7,3lIhqnJKjYLZOmLq7B3pcI,راضي,spotify:track:3lIhqnJKjYLZOmLq7B3pcI,0.568,0.584,0.529,0,0.277,-8.715,0.0492,111.891,0.899,3
+1225,طيب القلب,8,6w7GzLV7q6fiKQLLjk3Sgv,اليوم دورك,spotify:track:6w7GzLV7q6fiKQLLjk3Sgv,0.386,0.559,0.673,0,0.0786,-8.229,0.107,87.891,0.923,1
+1226,روحي تحبك,1,4LUrsOZvr4g2HGhTwqlu7t,روحي تحبك,spotify:track:4LUrsOZvr4g2HGhTwqlu7t,0.709,0.49,0.683,0,0.195,-6.908,0.0537,162.078,0.802,8
+1227,روحي تحبك,2,4W1z4ahWQzOFVTFwwglgAL,مسموح,spotify:track:4W1z4ahWQzOFVTFwwglgAL,0.426,0.45,0.614,0,0.111,-7.14,0.0803,92.894,0.839,2
+1228,روحي تحبك,3,1MhQsZju4c9g9n6OUshrna,عين,spotify:track:1MhQsZju4c9g9n6OUshrna,0.611,0.534,0.791,0,0.16,-6.577,0.058,167.1,0.899,1
+1229,روحي تحبك,4,3g5THi3w6on54x7vFCWpxs,من اول افرح,spotify:track:3g5THi3w6on54x7vFCWpxs,0.697,0.538,0.819,0,0.398,-5.692,0.131,162.554,0.589,0
+1230,روحي تحبك,5,0ZaCWlbJXFaPaLdKP4nfjD,حبايبنا,spotify:track:0ZaCWlbJXFaPaLdKP4nfjD,0.755,0.264,0.641,0,0.191,-6.824,0.0341,174.351,0.337,7
+1231,روحي تحبك,6,25V3S4Zb0tz5MVKDwySsvE,الدنيا تدور,spotify:track:25V3S4Zb0tz5MVKDwySsvE,0.722,0.476,0.671,0,0.157,-7.084,0.0725,83.643,0.9,1
+1232,روحي تحبك,7,4QuEma5Qj3T4abVRi1MMM9,خير ان شاء الله,spotify:track:4QuEma5Qj3T4abVRi1MMM9,0.822,0.52,0.608,0,0.101,-6.963,0.036,148.064,0.585,3
+1233,روحي تحبك,8,5cdyJ5uS680ud9Vjj2KrQS,لا تجرح المجروح,spotify:track:5cdyJ5uS680ud9Vjj2KrQS,0.764,0.483,0.684,0,0.601,-6.497,0.0435,160.274,0.694,1
+1234,روحي تحبك,9,55x3zfI7Z4ehDkuM6yGT9O,حسبي على العذال,spotify:track:55x3zfI7Z4ehDkuM6yGT9O,0.788,0.559,0.833,0,0.355,-6.501,0.0613,162.388,0.961,1
+1235,روحي تحبك,10,3p0FhLEPafKlBWgJD3ZhYM,انا صادق,spotify:track:3p0FhLEPafKlBWgJD3ZhYM,0.593,0.628,0.823,0,0.0831,-6.566,0.0379,84.188,0.922,0
+1236,انت تستاهل,1,33rgWBydkgeV4UER4b35eL,وانت تستاهل,spotify:track:33rgWBydkgeV4UER4b35eL,0.634,0.573,0.681,6.59e-06,0.115,-5.623,0.0969,83.829,0.738,0
+1237,انت تستاهل,2,0Q62ZTd9B5Qp3fkbAACPVu,يا حمام,spotify:track:0Q62ZTd9B5Qp3fkbAACPVu,0.717,0.335,0.714,0,0.388,-5.713,0.126,82.027,0.648,0
+1238,انت تستاهل,3,7oVMRalRfPklI6JlFTMUKb,كثير الظلم,spotify:track:7oVMRalRfPklI6JlFTMUKb,0.695,0.427,0.585,5.64e-06,0.376,-5.576,0.0513,82.527,0.558,0
+1239,انت تستاهل,4,43BIIF2X0D7bh0UoJbOESn,كل ما نسنس,spotify:track:43BIIF2X0D7bh0UoJbOESn,0.799,0.579,0.573,0,0.235,-6.158,0.0384,152.942,0.802,1
+1240,انت تستاهل,5,2ptt6i6jLAAimbaw5ImK3y,شمس العصر,spotify:track:2ptt6i6jLAAimbaw5ImK3y,0.798,0.319,0.559,0,0.425,-5.373,0.0522,78.618,0.529,0
+1241,انت تستاهل,6,0DXMfzA7fEomsScAGxlKlc,كيف اسيبك,spotify:track:0DXMfzA7fEomsScAGxlKlc,0.764,0.534,0.51,0,0.0701,-5.373,0.0622,82.502,0.401,4
+1242,انت تستاهل,7,1hoDXQhwpcnUmcaV8tFKhv,مردود السلام,spotify:track:1hoDXQhwpcnUmcaV8tFKhv,0.495,0.506,0.841,7.1e-05,0.625,-5.071,0.136,84.726,0.666,0
+1243,آن الأوان,1,6m96CEKhwYe1mXHB4xw0K4,طائر الأشجان,spotify:track:6m96CEKhwYe1mXHB4xw0K4,0.729,0.466,0.452,0,0.294,-8.001,0.0352,82.611,0.581,1
+1244,آن الأوان,2,2lNTrWFhSLWaP5IKbMMRPm,آن الاوان,spotify:track:2lNTrWFhSLWaP5IKbMMRPm,0.831,0.307,0.424,0,0.336,-9.622,0.0429,159.164,0.43,0
+1245,آن الأوان,3,5DY4ochDGaAs0XaZrbcciP,زمان الصبا,spotify:track:5DY4ochDGaAs0XaZrbcciP,0.819,0.616,0.506,0,0.134,-8.559,0.0532,123.827,0.654,0
+1246,آن الأوان,4,0BB8nVh2ZVHYTN5MBH9et3,شفايف عنب,spotify:track:0BB8nVh2ZVHYTN5MBH9et3,0.83,0.509,0.572,7.64e-06,0.144,-8.527,0.043,97.608,0.58,0
+1247,آن الأوان,5,16LKFtfuWdPzYs1bREFCt7,مرات عديدة,spotify:track:16LKFtfuWdPzYs1bREFCt7,0.766,0.364,0.517,0,0.276,-8.529,0.0445,186.396,0.677,0
+1248,آن الأوان,6,4yIAlGBDQM1a2kErZEnUdy,مغير القمر,spotify:track:4yIAlGBDQM1a2kErZEnUdy,0.86,0.384,0.422,0,0.0925,-9.903,0.0435,109.712,0.771,0
